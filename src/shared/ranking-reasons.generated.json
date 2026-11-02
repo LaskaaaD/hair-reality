@@ -1,0 +1,1628 @@
+{
+  "haircut:two-block--classic-two-block": {
+    "reason": "Classic two block softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:male_wavy_undercut": {
+    "reason": "Short two block softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:two-block--long-two-block": {
+    "reason": "Long two block softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:two-block--two-block-undercut": {
+    "reason": "Two block undercut softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:two-block--two-block-fade": {
+    "reason": "Two block fade softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:two-block--two-block-mid-fade": {
+    "reason": "Two block mid fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:two-block--two-block-taper": {
+    "reason": "Two block taper softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:two-block--two-block-middle-part": {
+    "reason": "Two block middle part follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:two-block--two-block-side-part": {
+    "reason": "Two block side part frames your features at around 10 cm with a clean 5-minute daily routine."
+  },
+  "haircut:two-block--two-block-long-fringe": {
+    "reason": "Two block long fringe softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:two-block--messy-two-block": {
+    "reason": "Messy two block softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:two-block--curly-two-block": {
+    "reason": "Curly two block softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:two-block--two-block-slick-back": {
+    "reason": "Two block slick back adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:two-block--two-block-with-down-perm": {
+    "reason": "Two block with down perm softens vertical length across the forehead while keeping daily styling around 3 minutes."
+  },
+  "haircut:two-block--two-block-with-wave-perm": {
+    "reason": "Two block with wave perm softens vertical length across the forehead while keeping daily styling around 3 minutes."
+  },
+  "haircut:two-block--two-block-see-through-bangs": {
+    "reason": "Two block see-through bangs softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:two-block--two-block-quiff-pompadour": {
+    "reason": "Two block quiff/pompadour adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:male_textured_comma": {
+    "reason": "Comma hair softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:comma--comma-hair-with-down-perm": {
+    "reason": "Comma hair with down perm softens vertical length across the forehead while keeping daily styling around 3 minutes."
+  },
+  "haircut:comma--comma-hair-two-block": {
+    "reason": "Comma hair two block softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:comma--long-comma-hair": {
+    "reason": "Long comma hair softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:korean-perm--down-perm": {
+    "reason": "Down perm softens vertical length across the forehead while keeping daily styling around 3 minutes."
+  },
+  "haircut:korean-perm--wave-perm": {
+    "reason": "Wave perm softens vertical length across the forehead while keeping daily styling around 3 minutes."
+  },
+  "haircut:korean-perm--shadow-perm": {
+    "reason": "Shadow perm frames your features at around 10 cm with a clean 3-minute daily routine."
+  },
+  "haircut:korean-perm--regent-perm": {
+    "reason": "Regent perm adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:korean-perm--ash-perm": {
+    "reason": "Ash perm balances crown and jawline proportions while keeping daily styling near 3 minutes."
+  },
+  "haircut:korean-perm--hippie-perm": {
+    "reason": "Hippie perm softens vertical length across the forehead while keeping daily styling around 3 minutes."
+  },
+  "haircut:korean-perm--twist-perm": {
+    "reason": "Twist perm softens vertical length across the forehead while keeping daily styling around 3 minutes."
+  },
+  "haircut:korean-perm--volume-perm": {
+    "reason": "Volume perm adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 3 minutes."
+  },
+  "haircut:korean-perm--leaf-cut": {
+    "reason": "Leaf cut follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 3 minutes."
+  },
+  "haircut:korean-perm--dandy-cut": {
+    "reason": "Dandy cut softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:korean-perm--ivy-cut-korean": {
+    "reason": "Ivy cut adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:korean-perm--hush-cut-men": {
+    "reason": "Hush cut men softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:asian-fringe--japanese-mash-cut": {
+    "reason": "Japanese mash cut softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:asian-fringe--mash-with-two-block": {
+    "reason": "Mash with two block softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:asian-fringe--korean-bowl-cut": {
+    "reason": "Korean bowl cut softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:asian-fringe--see-through-fringe": {
+    "reason": "See-through fringe softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:asian-fringe--gail-crescent-fringe": {
+    "reason": "Gail / crescent fringe softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:asian-fringe--j-pop-spiky-layers": {
+    "reason": "J-pop spiky layers adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:asian-fringe--center-part-korean": {
+    "reason": "Center part Korean adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 3 minutes."
+  },
+  "haircut:asian-fringe--asian-textured-crop": {
+    "reason": "Asian textured crop softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:fade--low-fade": {
+    "reason": "Low fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:fade--mid-fade": {
+    "reason": "Mid fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:fade--high-fade": {
+    "reason": "High fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:fade--skin-bald-fade": {
+    "reason": "Skin/bald fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:fade--shadow-fade": {
+    "reason": "Shadow fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:fade--drop-fade": {
+    "reason": "Drop fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:fade--burst-fade": {
+    "reason": "Burst fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:fade--temple-fade": {
+    "reason": "Temple fade frames your features at around 3 cm with a clean 1-minute daily routine."
+  },
+  "haircut:fade--fade-with-hard-part": {
+    "reason": "Fade with hard part keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:fade--fade-with-design": {
+    "reason": "Fade with design keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:fade--buzz-cut-fade": {
+    "reason": "Buzz cut fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:male_gray_taper_fade": {
+    "reason": "Classic taper shapes 5 cm of length into soft movement that holds between 5-week salon visits."
+  },
+  "haircut:taper--low-taper-fade": {
+    "reason": "Low taper fade uses 5 cm of tailored length to flatter your facial outline without heavy morning upkeep."
+  },
+  "haircut:taper--mid-taper-fade": {
+    "reason": "Mid taper fade balances crown and jawline proportions while keeping daily styling near 5 minutes."
+  },
+  "haircut:taper--high-taper-fade": {
+    "reason": "High taper fade uses 5 cm of tailored length to flatter your facial outline without heavy morning upkeep."
+  },
+  "haircut:taper--tapered-neckline": {
+    "reason": "Tapered neckline pairs an easy 5-week trim schedule with flattering movement around your cheekbones."
+  },
+  "haircut:taper--taper-with-long-top": {
+    "reason": "Taper with long top uses 10 cm of tailored length to flatter your facial outline without heavy morning upkeep."
+  },
+  "haircut:taper--blowout-taper": {
+    "reason": "Blowout taper adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:taper--tape-up-edge-up": {
+    "reason": "Tape up / edge up balances crown and jawline proportions while keeping daily styling near 1 minutes."
+  },
+  "haircut:crop--french-crop": {
+    "reason": "French crop keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:male_textured_crop": {
+    "reason": "Textured crop keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:crop--crop-with-skin-fade": {
+    "reason": "Crop with skin fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:crop--crop-with-long-fringe": {
+    "reason": "Crop with long fringe keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:male_short_curly": {
+    "reason": "Curly crop keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:crop--caesar-cut": {
+    "reason": "Caesar cut softens vertical length across the forehead while keeping daily styling around 1 minutes."
+  },
+  "haircut:crop--caesar-with-waves": {
+    "reason": "Caesar with waves keeps a clean, open perimeter that highlights balanced proportions while keeping daily styling around 1 minutes."
+  },
+  "haircut:crop--edgar-cut": {
+    "reason": "Edgar cut keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:buzz-cut": {
+    "reason": "Induction buzz keeps a clean, open perimeter that highlights balanced proportions while keeping daily styling around 1 minutes."
+  },
+  "haircut:buzz--burr-cut": {
+    "reason": "Burr cut keeps a clean, open perimeter that highlights balanced proportions while keeping daily styling around 1 minutes."
+  },
+  "haircut:buzz--butch-cut": {
+    "reason": "Butch cut keeps a clean, open perimeter that highlights balanced proportions while keeping daily styling around 1 minutes."
+  },
+  "haircut:buzz--buzz-with-skin-fade": {
+    "reason": "Buzz with skin fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:buzz--buzz-with-line-up": {
+    "reason": "Buzz with line-up keeps a clean, open perimeter that highlights balanced proportions while keeping daily styling around 1 minutes."
+  },
+  "haircut:male_bald": {
+    "reason": "Shaved head keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:buzz--bald-with-beard": {
+    "reason": "Bald with beard keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:crew--crew-cut": {
+    "reason": "Crew cut adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:crew--long-crew-cut": {
+    "reason": "Long crew cut adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:crew--ivy-league": {
+    "reason": "Ivy League pairs an easy 5-week trim schedule with flattering movement around your cheekbones."
+  },
+  "haircut:crew--brush-cut": {
+    "reason": "Brush cut adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:crew--crew-cut-with-fade": {
+    "reason": "Crew cut with fade adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:military--high-and-tight": {
+    "reason": "High and tight adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:military--high-and-tight-recon": {
+    "reason": "High and tight recon adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:military--flat-top": {
+    "reason": "Flat top adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:military--flat-top-with-fade": {
+    "reason": "Flat top with fade adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:military--marine-regulation-cut": {
+    "reason": "Marine regulation cut adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:quiff--classic-quiff": {
+    "reason": "Classic quiff adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:quiff--textured-quiff": {
+    "reason": "Textured quiff adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:messy-taper": {
+    "reason": "Messy quiff adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:quiff--short-quiff": {
+    "reason": "Short quiff adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:quiff--quiff-with-fade": {
+    "reason": "Quiff with fade adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:quiff--curly-quiff": {
+    "reason": "Curly quiff adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:quiff--side-swept-quiff": {
+    "reason": "Side-swept quiff adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:pompadour--classic-pompadour": {
+    "reason": "Classic pompadour adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 12 minutes."
+  },
+  "haircut:pompadour--modern-pompadour-fade": {
+    "reason": "Modern pompadour fade adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 12 minutes."
+  },
+  "haircut:pompadour--pompadour-undercut": {
+    "reason": "Pompadour undercut adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 12 minutes."
+  },
+  "haircut:pompadour--short-pompadour": {
+    "reason": "Short pompadour adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 12 minutes."
+  },
+  "haircut:pompadour--rockabilly-greaser": {
+    "reason": "Rockabilly / Greaser adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 12 minutes."
+  },
+  "haircut:pompadour--superman-curl": {
+    "reason": "Superman curl adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:pompadour--pompadour-hard-part": {
+    "reason": "Pompadour hard part adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 12 minutes."
+  },
+  "haircut:faux-hawk--faux-hawk": {
+    "reason": "Faux hawk adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:faux-hawk--faux-hawk-fade": {
+    "reason": "Faux hawk fade adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:faux-hawk--short-spiky-hair": {
+    "reason": "Short spiky hair adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:faux-hawk--frosted-tips": {
+    "reason": "Frosted tips adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:faux-hawk--burst-fade-faux-hawk": {
+    "reason": "Burst fade faux hawk adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:mohawk--classic-mohawk": {
+    "reason": "Classic mohawk adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:mohawk--liberty-spikes": {
+    "reason": "Liberty spikes adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:mohawk--mohawk-fade": {
+    "reason": "Mohawk fade adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:mohawk--frohawk": {
+    "reason": "Frohawk adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:mohawk--short-mohawk": {
+    "reason": "Short mohawk adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:side-part--classic-side-part": {
+    "reason": "Classic side part pairs an easy 5-week trim schedule with flattering movement around your cheekbones."
+  },
+  "haircut:side-part--hard-part-side-part": {
+    "reason": "Hard part side part keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:side-part--gentleman-cut": {
+    "reason": "Gentleman cut pairs an easy 5-week trim schedule with flattering movement around your cheekbones."
+  },
+  "haircut:side-part--side-part-fade": {
+    "reason": "Side part fade pairs an easy 4-week trim schedule with flattering movement around your cheekbones."
+  },
+  "haircut:side-part--1920s-peaky-side-part": {
+    "reason": "1920s / Peaky side part opens up the face cleanly so your features take centre stage while keeping daily styling around 7 minutes."
+  },
+  "haircut:side-part--long-side-part": {
+    "reason": "Long side part adds soft fullness through the sides to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:side-part--professional-short-cut": {
+    "reason": "Professional short cut balances crown and jawline proportions while keeping daily styling near 5 minutes."
+  },
+  "haircut:comb-over--comb-over": {
+    "reason": "Comb over opens up the face cleanly so your features take centre stage while keeping daily styling around 7 minutes."
+  },
+  "haircut:comb-over--comb-over-fade": {
+    "reason": "Comb over fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 7 minutes."
+  },
+  "haircut:comb-over--comb-over-skin-fade": {
+    "reason": "Comb over skin fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 7 minutes."
+  },
+  "haircut:comb-over--comb-over-undercut": {
+    "reason": "Comb over undercut opens up the face cleanly so your features take centre stage while keeping daily styling around 7 minutes."
+  },
+  "haircut:slick-back--classic-slick-back": {
+    "reason": "Classic slick back opens up the face cleanly so your features take centre stage while keeping daily styling around 7 minutes."
+  },
+  "haircut:slick-back--slick-back-undercut": {
+    "reason": "Slick back undercut opens up the face cleanly so your features take centre stage while keeping daily styling around 7 minutes."
+  },
+  "haircut:slick-back--slick-back-fade": {
+    "reason": "Slick back fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 7 minutes."
+  },
+  "haircut:slick-back--textured-slick-back": {
+    "reason": "Textured slick back opens up the face cleanly so your features take centre stage while keeping daily styling around 7 minutes."
+  },
+  "haircut:slick-back--long-slick-back": {
+    "reason": "Long slick back adds soft fullness through the sides to balance a longer face while keeping daily styling around 7 minutes."
+  },
+  "haircut:slick-back--wet-look": {
+    "reason": "Wet look opens up the face cleanly so your features take centre stage while keeping daily styling around 7 minutes."
+  },
+  "haircut:undercut--disconnected-undercut": {
+    "reason": "Disconnected undercut uses 12 cm of tailored length to flatter your facial outline without heavy morning upkeep."
+  },
+  "haircut:undercut--side-swept-undercut": {
+    "reason": "Side-swept undercut frames your features at around 12 cm with a clean 5-minute daily routine."
+  },
+  "haircut:undercut--undercut-fade": {
+    "reason": "Undercut fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:undercut--peaky-blinders-cut": {
+    "reason": "Peaky Blinders cut keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:undercut--undercut-fringe-forward": {
+    "reason": "Undercut fringe forward softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:undercut--curly-undercut": {
+    "reason": "Curly undercut brings gentle movement that softens your features in about 5 minutes of daily styling."
+  },
+  "haircut:undercut--shaved-sides-long-top": {
+    "reason": "Shaved sides long top keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:curtains--90s-curtains": {
+    "reason": "90s curtains follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:curtains--middle-part-short": {
+    "reason": "Middle part short follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:curtains--middle-part-with-taper": {
+    "reason": "Middle part with taper follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:curtains--e-boy-curtains": {
+    "reason": "E-boy curtains follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:curtains--mid-length-curtains": {
+    "reason": "Mid-length curtains follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:curtains--wavy-middle-part": {
+    "reason": "Wavy middle part follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:male_tousled_cut": {
+    "reason": "Textured fringe softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:fringe--messy-fringe": {
+    "reason": "Messy fringe softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:fringe--blunt-fringe": {
+    "reason": "Blunt fringe softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:fringe--fringe-with-fade": {
+    "reason": "Fringe with fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:fringe--choppy-fringe": {
+    "reason": "Choppy fringe softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:fringe--emo-scene-fringe": {
+    "reason": "Emo / scene fringe adds soft fullness through the sides to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:bowl--classic-bowl-cut": {
+    "reason": "Classic bowl cut softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:bowl--modern-bowl-with-undercut": {
+    "reason": "Modern bowl with undercut softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:bowl--mop-top-beatles": {
+    "reason": "Mop top / Beatles softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:bowl--broccoli-haircut": {
+    "reason": "Broccoli haircut keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 3 minutes."
+  },
+  "haircut:mullet--classic-80s-mullet": {
+    "reason": "Classic 80s mullet softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:mullet--modern-mullet": {
+    "reason": "Modern mullet softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:mullet--burst-fade-mullet": {
+    "reason": "Burst fade mullet keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:mullet--taper-mullet": {
+    "reason": "Taper mullet softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:mullet--curly-mullet": {
+    "reason": "Curly mullet softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:mullet--micro-mullet": {
+    "reason": "Micro mullet softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:mullet--mohullet": {
+    "reason": "Mohullet adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:mullet--korean-mullet": {
+    "reason": "Korean mullet softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:mullet--afro-mullet": {
+    "reason": "Afro mullet softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:mullet--shag-mullet": {
+    "reason": "Shag mullet softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:mullet--rat-tail": {
+    "reason": "Rat tail softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:wolf-shag--wolf-cut": {
+    "reason": "Wolf cut softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:wolf-shag--short-wolf-cut": {
+    "reason": "Short wolf cut softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:wolf-shag--long-wolf-cut": {
+    "reason": "Long wolf cut softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:wolf-shag--curly-wolf-cut": {
+    "reason": "Curly wolf cut softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:wolf-shag--shag-haircut": {
+    "reason": "Shag haircut follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:wolf-shag--short-shag": {
+    "reason": "Short shag softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:wolf-shag--layered-men-s-cut": {
+    "reason": "Layered men's cut adds soft fullness through the sides to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:wolf-shag--fluffy-hair": {
+    "reason": "Fluffy hair adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:wolf-shag--70s-feathered": {
+    "reason": "70s feathered follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:flow--hockey-flow": {
+    "reason": "Hockey flow adds soft fullness through the sides to balance a longer face while keeping daily styling around 7 minutes."
+  },
+  "haircut:bro-flow": {
+    "reason": "Bro flow adds soft fullness through the sides to balance a longer face while keeping daily styling around 7 minutes."
+  },
+  "haircut:flow--surfer-hair": {
+    "reason": "Surfer hair adds soft fullness through the sides to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:flow--skater-hair": {
+    "reason": "Skater hair softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:flow--messy-medium": {
+    "reason": "Messy medium adds soft fullness through the sides to balance a longer face while keeping daily styling around 7 minutes."
+  },
+  "haircut:flow--medium-swept-back": {
+    "reason": "Medium swept back adds soft fullness through the sides to balance a longer face while keeping daily styling around 7 minutes."
+  },
+  "haircut:flow--ear-tuck": {
+    "reason": "Ear tuck follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:flow--baseball-ballplayer-flow": {
+    "reason": "Baseball / ballplayer flow adds soft fullness through the sides to balance a longer face while keeping daily styling around 7 minutes."
+  },
+  "haircut:long--shoulder-length-straight": {
+    "reason": "Shoulder-length straight follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--shoulder-length-wavy": {
+    "reason": "Shoulder-length wavy follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--jesus-length-with-full-beard": {
+    "reason": "Jesus length with full beard follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--long-layered": {
+    "reason": "Long layered follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--long-curly": {
+    "reason": "Long curly follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--grunge-cobain": {
+    "reason": "Grunge softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--metalhead-rocker-long": {
+    "reason": "Metalhead / rocker long follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--long-with-undercut": {
+    "reason": "Long with undercut follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--long-swept-back": {
+    "reason": "Long swept back adds soft fullness through the sides to balance a longer face while keeping daily styling around 7 minutes."
+  },
+  "haircut:long--shoulder-length-side-part": {
+    "reason": "Shoulder-length side part adds soft fullness through the sides to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--viking-long": {
+    "reason": "Viking long follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--waist-length": {
+    "reason": "Waist-length follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:bun-pony--man-bun": {
+    "reason": "Man bun adds soft fullness through the sides to balance a longer face while keeping daily styling around 3 minutes."
+  },
+  "haircut:bun-pony--top-knot-undercut": {
+    "reason": "Top knot opens up the face cleanly so your features take centre stage while keeping daily styling around 3 minutes."
+  },
+  "haircut:bun-pony--half-up-bun": {
+    "reason": "Half-up bun adds soft fullness through the sides to balance a longer face while keeping daily styling around 3 minutes."
+  },
+  "haircut:bun-pony--low-bun": {
+    "reason": "Low bun adds soft fullness through the sides to balance a longer face while keeping daily styling around 7 minutes."
+  },
+  "haircut:bun-pony--ponytail": {
+    "reason": "Ponytail adds soft fullness through the sides to balance a longer face while keeping daily styling around 3 minutes."
+  },
+  "haircut:bun-pony--undercut-ponytail": {
+    "reason": "Undercut ponytail opens up the face cleanly so your features take centre stage while keeping daily styling around 3 minutes."
+  },
+  "haircut:bun-pony--man-bun-with-braids": {
+    "reason": "Man bun with braids adds soft fullness through the sides to balance a longer face while keeping daily styling around 3 minutes."
+  },
+  "haircut:curly--curly-fade": {
+    "reason": "Curly fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:curly--curly-top-taper": {
+    "reason": "Curly top taper softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:curly--curly-fringe": {
+    "reason": "Curly fringe keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:curly--curly-top-skin-fade": {
+    "reason": "Curly top skin fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:curly--curly-long-top": {
+    "reason": "Curly long top keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:curly--western-perm-tiktok-perm": {
+    "reason": "Western perm keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 3 minutes."
+  },
+  "haircut:curly--curly-sponge-top": {
+    "reason": "Curly sponge top keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:afro--short-afro": {
+    "reason": "Short afro brings gentle movement that softens your features in about 5 minutes of daily styling."
+  },
+  "haircut:male_afro": {
+    "reason": "Medium afro adds soft fullness through the sides to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:afro--big-afro": {
+    "reason": "Big afro adds soft fullness through the sides to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:afro--afro-fade": {
+    "reason": "Afro fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:afro--afro-taper": {
+    "reason": "Afro taper brings gentle movement that softens your features in about 5 minutes of daily styling."
+  },
+  "haircut:afro--high-top-fade": {
+    "reason": "High top fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:afro--gumby-slanted-high-top": {
+    "reason": "Gumby / slanted high top keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:afro--kid-n-play-hi-top": {
+    "reason": "Kid 'n Play hi-top keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:afro--jheri-curl-retro": {
+    "reason": "Jheri curl adds soft fullness through the sides to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:waves--360-waves": {
+    "reason": "360 waves keeps a clean, open perimeter that highlights balanced proportions while keeping daily styling around 1 minutes."
+  },
+  "haircut:waves--180-waves": {
+    "reason": "180 waves keeps a clean, open perimeter that highlights balanced proportions while keeping daily styling around 1 minutes."
+  },
+  "haircut:waves--wolfing-waves": {
+    "reason": "Wolfing waves pairs an easy 4-week trim schedule with flattering movement around your cheekbones."
+  },
+  "haircut:waves--waves-with-fade": {
+    "reason": "Waves with fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:twists--sponge-twists": {
+    "reason": "Sponge twists keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:twists--two-strand-twists": {
+    "reason": "Two-strand twists keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:twists--comb-coils": {
+    "reason": "Comb coils keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:twists--finger-coils": {
+    "reason": "Finger coils keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:twists--twists-with-fade": {
+    "reason": "Twists with fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:twists--long-twists": {
+    "reason": "Long twists adds soft fullness through the sides to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:twists--twist-out": {
+    "reason": "Twist out adds soft fullness through the sides to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:twists--bantu-knots": {
+    "reason": "Bantu knots keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:locs--starter-locs": {
+    "reason": "Starter locs adds soft fullness through the sides to balance a longer face while keeping daily styling around 3 minutes."
+  },
+  "haircut:locs--short-locs-with-fade": {
+    "reason": "Short locs with fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 3 minutes."
+  },
+  "haircut:locs--high-top-locs": {
+    "reason": "High-top locs keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 3 minutes."
+  },
+  "haircut:locs--shoulder-length-locs": {
+    "reason": "Shoulder-length locs adds soft fullness through the sides to balance a longer face while keeping daily styling around 3 minutes."
+  },
+  "haircut:locs--long-locs": {
+    "reason": "Long locs adds soft fullness through the sides to balance a longer face while keeping daily styling around 3 minutes."
+  },
+  "haircut:locs--freeform-locs": {
+    "reason": "Freeform locs adds soft fullness through the sides to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:locs--microlocs-sisterlocks": {
+    "reason": "Microlocs / Sisterlocks adds soft fullness through the sides to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:locs--loc-updo-bun": {
+    "reason": "Loc updo / bun adds soft fullness through the sides to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:locs--barrel-twist-locs": {
+    "reason": "Barrel twist locs adds soft fullness through the sides to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:locs--loc-ponytail": {
+    "reason": "Loc ponytail adds soft fullness through the sides to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:braids--cornrows-straight-back": {
+    "reason": "Cornrows straight back shapes 12 cm of length into soft movement that holds between 8-week salon visits."
+  },
+  "haircut:braids--cornrows-with-design": {
+    "reason": "Cornrows with design uses 12 cm of tailored length to flatter your facial outline without heavy morning upkeep."
+  },
+  "haircut:braids--box-braids": {
+    "reason": "Box braids uses flowing length to soften angular corners around the jaw while keeping daily styling around 3 minutes."
+  },
+  "haircut:braids--braids-with-fade": {
+    "reason": "Braids with fade keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 3 minutes."
+  },
+  "haircut:braids--two-braids-pop-smoke": {
+    "reason": "Two braids pairs an easy 8-week trim schedule with flattering movement around your cheekbones."
+  },
+  "haircut:braids--viking-braids": {
+    "reason": "Viking braids pairs an easy 8-week trim schedule with flattering movement around your cheekbones."
+  },
+  "haircut:braids--undercut-top-braid": {
+    "reason": "Undercut top braid uses 12 cm of tailored length to flatter your facial outline without heavy morning upkeep."
+  },
+  "haircut:braids--single-braid": {
+    "reason": "Single braid uses flowing length to soften angular corners around the jaw while keeping daily styling around 5 minutes."
+  },
+  "haircut:retro--1950s-greaser": {
+    "reason": "1950s greaser adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 12 minutes."
+  },
+  "haircut:retro--mod-cut-60s": {
+    "reason": "Mod cut softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:retro--80s-perm": {
+    "reason": "80s perm brings gentle movement that softens your features in about 3 minutes of daily styling."
+  },
+  "haircut:retro--justin-bieber-2010-swoop": {
+    "reason": "Justin Bieber 2010 swoop adds soft fullness through the sides to balance a longer face while keeping daily styling around 7 minutes."
+  },
+  "haircut:retro--hipster-cut": {
+    "reason": "Hipster cut opens up the face cleanly so your features take centre stage while keeping daily styling around 7 minutes."
+  },
+  "haircut:retro--frat-cut": {
+    "reason": "Frat cut opens up the face cleanly so your features take centre stage while keeping daily styling around 7 minutes."
+  },
+  "haircut:retro--chelsea-skinhead": {
+    "reason": "Chelsea / skinhead opens up the face cleanly so your features take centre stage while keeping daily styling around 1 minutes."
+  },
+  "haircut:retro--horseshoe-receding-friendly-short": {
+    "reason": "Horseshoe / receding-friendly short keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:retro--widow-s-peak-crop": {
+    "reason": "Widow's peak crop keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 1 minutes."
+  },
+  "haircut:retro--thin-hair-textured-cut": {
+    "reason": "Thin hair textured cut softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:latin--low-fade-curly-top-mexican": {
+    "reason": "Low fade curly top keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:latin--mexican-slick-pelon-short": {
+    "reason": "Mexican slick keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 7 minutes."
+  },
+  "haircut:latin--burst-fade-curly-latin": {
+    "reason": "Burst fade curly keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:latin--soccer-player-mohawk-messi-neymar": {
+    "reason": "Soccer player mohawk adds subtle lift through the crown to lengthen the silhouette while keeping daily styling around 10 minutes."
+  },
+  "haircut:crop--textured-french-crop-low-taper": {
+    "reason": "Textured French crop with low taper keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:crop--soft-french-crop-scissor-sides": {
+    "reason": "Soft French crop with scissor sides keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:two-block--korean-two-block-curtain-fringe": {
+    "reason": "Korean two-block with curtain fringe softens vertical length across the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:curtains--short-curtains-low-taper": {
+    "reason": "Short curtains with low taper follows a clean, symmetrical outline that flatters balanced features while keeping daily styling around 5 minutes."
+  },
+  "haircut:crop--textured-caesar-low-taper": {
+    "reason": "Textured Caesar with low taper softens vertical length across the forehead while keeping daily styling around 1 minutes."
+  },
+  "haircut:crop--side-swept-textured-crop": {
+    "reason": "Side-swept textured crop keeps the sides neat and tucked in to slim the silhouette while keeping daily styling around 5 minutes."
+  },
+  "haircut:side-part--soft-side-part": {
+    "reason": "Soft side part keeps a light, wearable outline around your features with roughly 5 minutes of styling."
+  },
+  "haircut:pixie--classic-pixie": {
+    "reason": "Classic pixie uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:pixie--wispy-fringe-pixie": {
+    "reason": "Wispy fringe pixie uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:pixie--textured-pixie": {
+    "reason": "Textured pixie uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:pixie--long-pixie": {
+    "reason": "Long pixie uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:pixie--undercut-pixie": {
+    "reason": "Undercut pixie uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:pixie--asymmetric-pixie": {
+    "reason": "Asymmetric pixie uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:pixie--voluminous-top-pixie": {
+    "reason": "Voluminous top pixie uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:pixie--curly-pixie": {
+    "reason": "Curly pixie uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:pixie--pixie-with-baby-bangs": {
+    "reason": "Pixie with baby bangs breaks up forehead length with soft front framing in about 5 minutes of daily styling."
+  },
+  "haircut:pixie--slicked-back-pixie": {
+    "reason": "Slicked-back pixie uses 7 cm of tailored length to flatter your facial outline without heavy morning upkeep."
+  },
+  "haircut:pixie--shaggy-pixie": {
+    "reason": "Shaggy pixie breaks up forehead length with soft front framing in about 5 minutes of daily styling."
+  },
+  "haircut:pixie--mushroom-pixie": {
+    "reason": "Mushroom pixie adds soft width through the sides and fringe to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:bixie--classic-bixie": {
+    "reason": "Classic bixie uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:bixie--curly-bixie": {
+    "reason": "Curly bixie uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:bixie--shaggy-bixie": {
+    "reason": "Shaggy bixie breaks up forehead length with soft front framing in about 5 minutes of daily styling."
+  },
+  "haircut:bixie--sleek-bixie": {
+    "reason": "Sleek bixie uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:bixie--bixie-with-curtain-bangs": {
+    "reason": "Bixie with curtain bangs uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 5 minutes."
+  },
+  "haircut:buzz--buzz-cut": {
+    "reason": "Buzz cut keeps a light, wearable outline around your features with roughly 2 minutes of styling."
+  },
+  "haircut:buzz--shaved-head": {
+    "reason": "Shaved head pairs an easy 4-week trim schedule with flattering movement around your cheekbones."
+  },
+  "haircut:buzz--textured-crop": {
+    "reason": "Textured crop breaks up forehead length with soft front framing in about 2 minutes of daily styling."
+  },
+  "haircut:buzz--short-natural-twa-crop": {
+    "reason": "Short natural afro crop shapes 4 cm of length into soft movement that holds between 4-week salon visits."
+  },
+  "haircut:buzz--bleached-buzz-cut": {
+    "reason": "Bleached buzz cut uses 1 cm of tailored length to flatter your facial outline without heavy morning upkeep."
+  },
+  "haircut:buzz--buzz-cut-with-skin-fade": {
+    "reason": "Buzz cut with skin fade pairs an easy 4-week trim schedule with flattering movement around your cheekbones."
+  },
+  "haircut:buzz--buzz-with-design": {
+    "reason": "Buzz with design balances crown and jawline proportions while keeping daily styling near 2 minutes."
+  },
+  "haircut:bob--classic-chin-bob": {
+    "reason": "Classic chin bob places gentle fullness near the jawline to balance the forehead while keeping daily styling around 10 minutes."
+  },
+  "haircut:bob--blunt-bob": {
+    "reason": "Blunt bob adds soft width through the sides and fringe to balance a longer face while keeping daily styling around 15 minutes."
+  },
+  "haircut:bob--middle-part-bob": {
+    "reason": "Middle-part bob places gentle fullness near the jawline to balance the forehead while keeping daily styling around 15 minutes."
+  },
+  "haircut:bob--french-bob": {
+    "reason": "French bob adds soft width through the sides and fringe to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:bob--italian-bob": {
+    "reason": "Italian bob uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:bob--bubble-bob": {
+    "reason": "Bubble bob uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:bob--wavy-bob-with-bangs": {
+    "reason": "Wavy bob with bangs places gentle fullness near the jawline to balance the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:bob--wavy-bob": {
+    "reason": "Wavy bob adds soft width through the sides and fringe to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:bob--tousled-bob": {
+    "reason": "Tousled bob uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:bob--choppy-bob": {
+    "reason": "Choppy bob adds soft width through the sides and fringe to balance a longer face while keeping daily styling around 10 minutes."
+  },
+  "haircut:all_short_bob": {
+    "reason": "Short bob with fringe adds soft width through the sides and fringe to balance a longer face while keeping daily styling around 10 minutes."
+  },
+  "haircut:bob--classic-bob-with-bangs": {
+    "reason": "Classic bob with bangs adds soft width through the sides and fringe to balance a longer face while keeping daily styling around 10 minutes."
+  },
+  "haircut:bob--ear-length-bob": {
+    "reason": "Ear-length bob gives the ends a fuller, healthier-looking weight line in about 10 minutes of daily styling."
+  },
+  "haircut:bob--side-swept-bob": {
+    "reason": "Side-swept bob uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:bob--sleek-glass-bob": {
+    "reason": "Sleek glass bob places gentle fullness near the jawline to balance the forehead while keeping daily styling around 15 minutes."
+  },
+  "haircut:bob--crimped-bob": {
+    "reason": "Crimped bob uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:bob--slicked-side-bob": {
+    "reason": "Slicked side bob uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:bob--flipped-bob": {
+    "reason": "Flipped bob places gentle fullness near the jawline to balance the forehead while keeping daily styling around 15 minutes."
+  },
+  "haircut:bob--messy-bob": {
+    "reason": "Messy bob places gentle fullness near the jawline to balance the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:bob--jaw-bob-with-see-through-bangs": {
+    "reason": "Jaw bob with see-through bangs places gentle fullness near the jawline to balance the forehead while keeping daily styling around 10 minutes."
+  },
+  "haircut:bob--micro-bob": {
+    "reason": "Micro bob breaks up forehead length with soft front framing in about 10 minutes of daily styling."
+  },
+  "haircut:bob--lazy-bob": {
+    "reason": "Lazy bob uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:graduated-bob--a-line-bob": {
+    "reason": "A-line bob uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:graduated-bob--stacked-bob": {
+    "reason": "Stacked bob uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:graduated-bob--inverted-bob": {
+    "reason": "Inverted bob uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:graduated-bob--asymmetric-bob": {
+    "reason": "Asymmetric bob uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:graduated-bob--angled-bob-with-side-bangs": {
+    "reason": "Angled bob with side bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:graduated-bob--concave-bob": {
+    "reason": "Concave bob uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:graduated-bob--undercut-bob": {
+    "reason": "Undercut bob uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:female_medium_straight": {
+    "reason": "Classic lob uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:lob--wavy-lob": {
+    "reason": "Wavy lob uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:lob--lob-with-fringe": {
+    "reason": "Lob with fringe uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:lob--dark-lob-with-bangs": {
+    "reason": "Dark lob with bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:lob--angled-lob": {
+    "reason": "Angled lob uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:lob--textured-lob": {
+    "reason": "Textured lob uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:lob--shoulder-lob-with-curtain-bangs": {
+    "reason": "Shoulder lob with curtain bangs uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 10 minutes."
+  },
+  "haircut:lob--blunt-lob": {
+    "reason": "Blunt lob uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:lob--beach-wave-lob": {
+    "reason": "Beach wave lob uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:lob--curly-lob": {
+    "reason": "Curly lob uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:lob--flipped-lob": {
+    "reason": "Flipped lob uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:lob--side-part-lob": {
+    "reason": "Side-part lob uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:lob--layered-lob": {
+    "reason": "Layered lob uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:blunt--shoulder-blunt-cut": {
+    "reason": "Shoulder blunt cut places gentle fullness near the jawline to balance the forehead while keeping daily styling around 15 minutes."
+  },
+  "haircut:blunt--mid-length-blunt-cut": {
+    "reason": "Mid-length blunt cut uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:blunt--long-blunt-cut": {
+    "reason": "Long blunt cut uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:blunt--long-blunt-with-full-fringe": {
+    "reason": "Long blunt with full fringe uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:blunt--glass-hair-blunt-cut": {
+    "reason": "Glass hair blunt cut uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:blunt--blunt-cut-side-part": {
+    "reason": "Blunt cut side part uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:blunt--blunt-cut-with-curtain-bangs": {
+    "reason": "Blunt cut with curtain bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:all_long_straight_black": {
+    "reason": "Long straight black with bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:blunt--waist-length-blunt-cut": {
+    "reason": "Waist-length blunt cut uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:female_long_straight": {
+    "reason": "Long layers uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:layers--face-framing-layers": {
+    "reason": "Face-framing layers uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:layers--c-curl-layers": {
+    "reason": "C-curl layers uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:layers--caramel-soft-layers": {
+    "reason": "Caramel soft layers uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:layers--soft-flipped-layers": {
+    "reason": "Soft flipped layers uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:all_medium_curve_hair": {
+    "reason": "Medium curved layers uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:layers--v-cut-layers": {
+    "reason": "V-cut layers uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:layers--u-cut-layers": {
+    "reason": "U-cut layers uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:layers--90s-blowout-layers": {
+    "reason": "90s blowout layers uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:all_short_feather_cut": {
+    "reason": "Feathered layers uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:layers--mid-length-layered-with-wisps": {
+    "reason": "Mid-length layered with wisps uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:layers--soft-chestnut-mid-cut": {
+    "reason": "Soft chestnut mid cut uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:layers--ghost-layers": {
+    "reason": "Ghost layers uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:female_long_boho_waves": {
+    "reason": "Mermaid layers uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:layers--long-layers-with-side-bangs": {
+    "reason": "Long layers with side bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:layers--headband-flipped-ends": {
+    "reason": "Headband flipped ends places gentle fullness near the jawline to balance the forehead while keeping daily styling around 15 minutes."
+  },
+  "haircut:butterfly--butterfly-cut": {
+    "reason": "Butterfly cut uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:butterfly--short-butterfly-cut": {
+    "reason": "Short butterfly cut uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 15 minutes."
+  },
+  "haircut:butterfly--butterfly-cut-with-curtain-bangs": {
+    "reason": "Butterfly cut with curtain bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:curtains": {
+    "reason": "Wavy butterfly cut uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:butterfly--butterfly-without-bangs": {
+    "reason": "Butterfly without bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:shag": {
+    "reason": "Wavy shag uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 5 minutes."
+  },
+  "haircut:short-shag": {
+    "reason": "Face-framing shag uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:shag--copper-flipped-shag": {
+    "reason": "Copper flipped shag uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:shag--short-shag": {
+    "reason": "Short shag uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 5 minutes."
+  },
+  "haircut:shag--hush-cut": {
+    "reason": "Hush cut uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 10 minutes."
+  },
+  "haircut:shag--long-shag": {
+    "reason": "Long shag uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:shag--curly-shag": {
+    "reason": "Curly shag uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 5 minutes."
+  },
+  "haircut:shag--shag-with-blunt-bangs": {
+    "reason": "Shag with blunt bangs adds soft width through the sides and fringe to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:shag--modern-70s-shag": {
+    "reason": "Modern 70s shag uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 5 minutes."
+  },
+  "haircut:shag--short-feather-cut": {
+    "reason": "Short feather cut adds soft width through the sides and fringe to balance a longer face while keeping daily styling around 15 minutes."
+  },
+  "haircut:shag--straight-shag": {
+    "reason": "Straight shag uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 10 minutes."
+  },
+  "haircut:shag--mixie-mullet-pixie-shag": {
+    "reason": "Mixie uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 5 minutes."
+  },
+  "haircut:wolf-cut": {
+    "reason": "Wolf cut uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 5 minutes."
+  },
+  "haircut:wolf-cut--brunette-long-wolf-cut": {
+    "reason": "Brunette long wolf cut uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:wolf-cut--short-wolf-cut": {
+    "reason": "Short wolf cut uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 5 minutes."
+  },
+  "haircut:wolf-cut--curly-wolf-cut": {
+    "reason": "Curly wolf cut uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 5 minutes."
+  },
+  "haircut:wolf-cut--soft-wolf-cut": {
+    "reason": "Soft wolf cut uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 10 minutes."
+  },
+  "haircut:wolf-cut--hime-wolf-cut": {
+    "reason": "Hime wolf cut places gentle fullness near the jawline to balance the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:mullet--soft-mullet": {
+    "reason": "Soft mullet uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:mullet--curly-mullet-w": {
+    "reason": "Curly mullet uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:mullet--shullet": {
+    "reason": "Shullet uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:curtain-bangs--long-hair-with-curtain-bangs": {
+    "reason": "Long hair with curtain bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:curtain-bangs--curtain-bangs-wavy": {
+    "reason": "Curtain bangs wavy uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:curtain-bangs--red-wavy-curtain-bangs": {
+    "reason": "Red wavy curtain bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:curtain-bangs--birkin-bangs": {
+    "reason": "Birkin bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:curtain-bangs--bottleneck-bangs": {
+    "reason": "Bottleneck bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:curtain-bangs--shoulder-cut-with-curtain-bangs": {
+    "reason": "Shoulder cut with curtain bangs uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 15 minutes."
+  },
+  "haircut:curtain-bangs--curly-curtain-bangs": {
+    "reason": "Curly curtain bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:fringe--blunt-bangs-long-straight": {
+    "reason": "Blunt bangs long straight uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:fringe--wispy-bangs": {
+    "reason": "Wispy bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:fringe--side-swept-bangs": {
+    "reason": "Side-swept bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:fringe--micro-bangs": {
+    "reason": "Micro bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:fringe--baby-bangs-with-long-hair": {
+    "reason": "Baby bangs with long hair uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:fringe--choppy-bangs": {
+    "reason": "Choppy bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:fringe--arched-bangs": {
+    "reason": "Arched bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:fringe--jane-austen-curly-bangs": {
+    "reason": "Jane Austen curly bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:fringe--see-through-bangs": {
+    "reason": "See-through bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:hime--classic-hime-cut": {
+    "reason": "Classic hime cut uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:hime--soft-hime-cut": {
+    "reason": "Soft hime cut uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:hime--short-hime-cut": {
+    "reason": "Short hime cut places gentle fullness near the jawline to balance the forehead while keeping daily styling around 15 minutes."
+  },
+  "haircut:hime--hime-cut-no-bangs": {
+    "reason": "Hime cut no bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:hime--wavy-hime-cut": {
+    "reason": "Wavy hime cut uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:k-style--c-curl-perm": {
+    "reason": "C-curl perm uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:k-style--s-curl-perm": {
+    "reason": "S-curl perm uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:k-style--build-perm": {
+    "reason": "Build perm uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:k-style--hippie-perm": {
+    "reason": "Hippie perm uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:k-style--korean-hush-cut": {
+    "reason": "Korean hush cut uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 5 minutes."
+  },
+  "haircut:k-style--tassel-cut": {
+    "reason": "Tassel cut places gentle fullness near the jawline to balance the forehead while keeping daily styling around 15 minutes."
+  },
+  "haircut:k-style--elizabeth-perm": {
+    "reason": "Elizabeth perm uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 15 minutes."
+  },
+  "haircut:k-style--korean-bob-with-see-through-bangs": {
+    "reason": "Korean bob with see-through bangs places gentle fullness near the jawline to balance the forehead while keeping daily styling around 15 minutes."
+  },
+  "haircut:k-style--hug-perm": {
+    "reason": "Hug perm uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:j-style--kiripani-raw-cut-bob": {
+    "reason": "Kiripani raw-cut bob places gentle fullness near the jawline to balance the forehead while keeping daily styling around 10 minutes."
+  },
+  "haircut:j-style--jellyfish-cut": {
+    "reason": "Jellyfish cut uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:j-style--japanese-layered-medium": {
+    "reason": "Japanese layered medium uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:j-style--mash-short-mash-bob": {
+    "reason": "Mash short adds soft width through the sides and fringe to balance a longer face while keeping daily styling around 10 minutes."
+  },
+  "haircut:j-style--gal-style-long-waves": {
+    "reason": "Gal-style long waves uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--long-straight": {
+    "reason": "Long straight uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:female_long_wavy": {
+    "reason": "Long wavy uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--long-boho-waves": {
+    "reason": "Long boho waves uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:long--beachy-waves": {
+    "reason": "Beachy waves uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:long--loose-waves": {
+    "reason": "Loose waves uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--romantic-waves": {
+    "reason": "Romantic waves uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--gentle-waves": {
+    "reason": "Gentle waves uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--defined-waves": {
+    "reason": "Defined waves uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:long--aura-waves": {
+    "reason": "Aura waves uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--goddess-waves": {
+    "reason": "Goddess waves uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:all_long_wavy_blonde": {
+    "reason": "Long blonde waves uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--long-crimped-hair": {
+    "reason": "Long crimped hair uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:long--loose-crimped-waves": {
+    "reason": "Loose crimped waves uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:long--long-s-waves": {
+    "reason": "Long S-waves uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:long--long-balayage-waves": {
+    "reason": "Long balayage waves uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--long-red-ombre-waves": {
+    "reason": "Long red ombre waves uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--long-honey-highlights": {
+    "reason": "Long honey highlights uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:long--waist-length-straight": {
+    "reason": "Waist-length straight uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:long--hip-length-hair": {
+    "reason": "Hip-length hair uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:long--long-sleek-side-part": {
+    "reason": "Long sleek side part uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:long--long-hair-money-piece": {
+    "reason": "Long hair money piece uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:retro--classic-hollywood-waves": {
+    "reason": "Classic Hollywood waves uses angled framing to create a longer, more balanced line while keeping daily styling around 25 minutes."
+  },
+  "haircut:retro--retro-brown-waves": {
+    "reason": "Retro brown waves uses angled framing to create a longer, more balanced line while keeping daily styling around 25 minutes."
+  },
+  "haircut:retro--finger-waves-bob": {
+    "reason": "Finger waves bob uses angled framing to create a longer, more balanced line while keeping daily styling around 25 minutes."
+  },
+  "haircut:retro--victory-rolls": {
+    "reason": "Victory rolls uses angled framing to create a longer, more balanced line while keeping daily styling around 25 minutes."
+  },
+  "haircut:retro--60s-bouffant-flip": {
+    "reason": "60s bouffant flip uses angled framing to create a longer, more balanced line while keeping daily styling around 25 minutes."
+  },
+  "haircut:curly--bouncy-curls": {
+    "reason": "Bouncy curls uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:female_long_spiral_curls": {
+    "reason": "Long spiral curls uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:female_bobcut_curly": {
+    "reason": "Curly bob places gentle fullness near the jawline to balance the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:curly--short-curly-bob": {
+    "reason": "Short curly bob places gentle fullness near the jawline to balance the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:curly--curly-layers-with-bangs": {
+    "reason": "Curly layers with bangs uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 5 minutes."
+  },
+  "haircut:curly--round-curly-cut": {
+    "reason": "Round curly cut uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 5 minutes."
+  },
+  "haircut:curly--curly-collarbone-cut": {
+    "reason": "Curly collarbone cut uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:curly--purple-curly": {
+    "reason": "Purple curly uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 5 minutes."
+  },
+  "haircut:curly--curly-ear-length-cut": {
+    "reason": "Curly ear-length cut adds soft width through the sides and fringe to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:curly--tapered-curly-cut": {
+    "reason": "Tapered curly cut adds soft width through the sides and fringe to balance a longer face while keeping daily styling around 5 minutes."
+  },
+  "haircut:curly--long-curly-with-face-framing": {
+    "reason": "Long curly with face-framing uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:curly--half-up-curls": {
+    "reason": "Half-up curls uses soft movement and face-framing pieces to soften the jawline while keeping daily styling around 5 minutes."
+  },
+  "haircut:coily--afro": {
+    "reason": "Afro places gentle fullness near the jawline to balance the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:coily--big-afro": {
+    "reason": "Big afro falls gracefully past the jawline with soft layers that flatter your features while keeping daily styling around 10 minutes."
+  },
+  "haircut:coily--twa-teeny-weeny-afro": {
+    "reason": "Teeny weeny afro uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:coily--tapered-afro": {
+    "reason": "Tapered afro builds natural fullness and body through the crown in about 5 minutes of daily styling."
+  },
+  "haircut:coily--wash-and-go": {
+    "reason": "Wash and go places gentle fullness near the jawline to balance the forehead while keeping daily styling around 10 minutes."
+  },
+  "haircut:coily--afro-puff": {
+    "reason": "Afro puff places gentle fullness near the jawline to balance the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:coily--afro-puffs-two": {
+    "reason": "Afro puffs places gentle fullness near the jawline to balance the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:coily--twist-out": {
+    "reason": "Twist-out places gentle fullness near the jawline to balance the forehead while keeping daily styling around 10 minutes."
+  },
+  "haircut:coily--braid-out": {
+    "reason": "Braid-out places gentle fullness near the jawline to balance the forehead while keeping daily styling around 10 minutes."
+  },
+  "haircut:coily--bantu-knot-out": {
+    "reason": "Bantu knot-out places gentle fullness near the jawline to balance the forehead while keeping daily styling around 10 minutes."
+  },
+  "haircut:coily--silk-press": {
+    "reason": "Silk press uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:coily--pineapple-updo": {
+    "reason": "Pineapple updo places gentle fullness near the jawline to balance the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:coily--curly-frohawk": {
+    "reason": "Curly frohawk places gentle fullness near the jawline to balance the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:coily--shaved-sides-natural": {
+    "reason": "Shaved sides natural places gentle fullness near the jawline to balance the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:braids--two-braids": {
+    "reason": "Two braids uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:braids--boho-side-braid": {
+    "reason": "Boho side braid uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:braids--dutch-braids": {
+    "reason": "Dutch braids uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:braids--french-braid": {
+    "reason": "French braid uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:braids--fishtail-braid": {
+    "reason": "Fishtail braid uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:braids--bubble-braids": {
+    "reason": "Bubble braids uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:braids--crown-braid": {
+    "reason": "Crown braid uses angled framing to create a longer, more balanced line while keeping daily styling around 25 minutes."
+  },
+  "haircut:braids--waterfall-braid": {
+    "reason": "Waterfall braid uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:braids--braided-accents-with-bows": {
+    "reason": "Braided accents with bows uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:protective--box-braids": {
+    "reason": "Box braids uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--knotless-braids": {
+    "reason": "Knotless braids uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--small-baby-braids": {
+    "reason": "Small baby braids uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--jumbo-box-braids": {
+    "reason": "Jumbo box braids uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--goddess-braids": {
+    "reason": "Goddess braids uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--bob-box-braids": {
+    "reason": "Bob box braids places gentle fullness near the jawline to balance the forehead while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--waist-length-knotless": {
+    "reason": "Waist-length knotless uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--fulani-braids": {
+    "reason": "Fulani braids uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--lemonade-braids": {
+    "reason": "Lemonade braids uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--cornrows-straight-back": {
+    "reason": "Cornrows straight back places gentle fullness near the jawline to balance the forehead while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--feed-in-stitch-braids": {
+    "reason": "Feed-in stitch braids uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--tribal-braids": {
+    "reason": "Tribal braids uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--senegalese-twists": {
+    "reason": "Senegalese twists uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--passion-twists": {
+    "reason": "Passion twists uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--marley-twists": {
+    "reason": "Marley twists uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--two-strand-twists": {
+    "reason": "Two-strand twists places gentle fullness near the jawline to balance the forehead while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--mini-twists": {
+    "reason": "Mini twists places gentle fullness near the jawline to balance the forehead while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--bantu-knots": {
+    "reason": "Bantu knots gives the ends a fuller, healthier-looking weight line in about 2 minutes of daily styling."
+  },
+  "haircut:protective--crochet-curls": {
+    "reason": "Crochet curls places gentle fullness near the jawline to balance the forehead while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--sew-in-weave": {
+    "reason": "Sew-in weave uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--wig-install-straight": {
+    "reason": "Wig install straight uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--box-braids-high-bun": {
+    "reason": "Box braids high bun uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:protective--half-up-box-braids": {
+    "reason": "Half-up box braids uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:locs--medium-locs": {
+    "reason": "Medium locs uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:locs--starter-locs-w": {
+    "reason": "Starter locs places gentle fullness near the jawline to balance the forehead while keeping daily styling around 2 minutes."
+  },
+  "haircut:locs--sisterlocks": {
+    "reason": "Sisterlocks uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:locs--faux-locs": {
+    "reason": "Faux locs uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:locs--butterfly-locs": {
+    "reason": "Butterfly locs places gentle fullness near the jawline to balance the forehead while keeping daily styling around 2 minutes."
+  },
+  "haircut:locs--goddess-locs": {
+    "reason": "Goddess locs uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:locs--loc-bob": {
+    "reason": "Loc bob places gentle fullness near the jawline to balance the forehead while keeping daily styling around 2 minutes."
+  },
+  "haircut:locs--loc-updo": {
+    "reason": "Loc updo uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:locs--freeform-locs-w": {
+    "reason": "Freeform locs uses angled framing to create a longer, more balanced line while keeping daily styling around 2 minutes."
+  },
+  "haircut:updo--messy-bun": {
+    "reason": "Messy bun uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:updo--messy-top-bun-brown": {
+    "reason": "Messy top bun brown uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:updo--casual-updo": {
+    "reason": "Casual updo uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:updo--updo-with-bangs": {
+    "reason": "Updo with bangs uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:updo--sleek-low-bun": {
+    "reason": "Sleek low bun uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:updo--high-ponytail": {
+    "reason": "High ponytail uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:updo--low-ponytail": {
+    "reason": "Low ponytail uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:updo--half-up-soft-waves": {
+    "reason": "Half-up soft waves uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:updo--kitty-bun": {
+    "reason": "Kitty bun uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:updo--space-buns": {
+    "reason": "Space buns uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:updo--spiral-buns": {
+    "reason": "Spiral buns uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:updo--curly-double-buns": {
+    "reason": "Curly double buns uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:updo--curly-space-buns": {
+    "reason": "Curly space buns uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:updo--idol-twin-tails": {
+    "reason": "Idol twin tails uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:updo--ballerina-bun": {
+    "reason": "Ballerina bun uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:updo--chignon": {
+    "reason": "Chignon uses angled framing to create a longer, more balanced line while keeping daily styling around 25 minutes."
+  },
+  "haircut:updo--french-twist": {
+    "reason": "French twist uses angled framing to create a longer, more balanced line while keeping daily styling around 25 minutes."
+  },
+  "haircut:updo--claw-clip-twist": {
+    "reason": "Claw clip twist uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:updo--bubble-ponytail": {
+    "reason": "Bubble ponytail uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:updo--half-up-top-knot": {
+    "reason": "Half-up top knot uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:fashion-color--split-rainbow-dye": {
+    "reason": "Split rainbow dye uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:fashion-color--neon-root-black-hair": {
+    "reason": "Neon root black hair uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:fashion-color--pink-brown-waves": {
+    "reason": "Pink-brown waves uses angled framing to create a longer, more balanced line while keeping daily styling around 5 minutes."
+  },
+  "haircut:fashion-color--leopard-highlights": {
+    "reason": "Leopard highlights uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:fashion-color--rainbow-highlight-waves": {
+    "reason": "Rainbow highlight waves places gentle fullness near the jawline to balance the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:fashion-color--lavender-messy-bob": {
+    "reason": "Lavender messy bob places gentle fullness near the jawline to balance the forehead while keeping daily styling around 5 minutes."
+  },
+  "haircut:fashion-color--mist-violet-bob": {
+    "reason": "Mist violet bob places gentle fullness near the jawline to balance the forehead while keeping daily styling around 10 minutes."
+  },
+  "haircut:fashion-color--pink-pixie": {
+    "reason": "Pink pixie breaks up forehead length with soft front framing in about 5 minutes of daily styling."
+  },
+  "haircut:fashion-color--steel-blonde-bob": {
+    "reason": "Steel blonde bob places gentle fullness near the jawline to balance the forehead while keeping daily styling around 10 minutes."
+  },
+  "haircut:fashion-color--two-tone-blonde-cut": {
+    "reason": "Two-tone blonde cut uses angled framing to create a longer, more balanced line while keeping daily styling around 10 minutes."
+  },
+  "haircut:thin-hair--blunt-collarbone-cut-for-fine-hair": {
+    "reason": "Blunt collarbone cut for fine hair uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:thin-hair--short-blunt-bob-for-fine-hair": {
+    "reason": "Short blunt bob for fine hair uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:thin-hair--pixie-for-thinning-hair": {
+    "reason": "Pixie for thinning hair uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  },
+  "haircut:thin-hair--side-part-volume-lob": {
+    "reason": "Side-part volume lob uses angled framing to create a longer, more balanced line while keeping daily styling around 15 minutes."
+  }
+}

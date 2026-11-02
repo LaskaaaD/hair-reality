@@ -1,0 +1,5 @@
+Jost and Manrope are used under the SIL Open Font License.
+See public/marketing/fonts/Jost-OFL.txt and public/marketing/fonts/Manrope-OFL.txt.
+
+Jost: https://fonts.google.com/specimen/Jost
+Manrope: https://fonts.google.com/specimen/Manrope

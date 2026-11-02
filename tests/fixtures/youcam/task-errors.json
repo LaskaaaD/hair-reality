@@ -1,0 +1,23 @@
+{
+  "faceAngle": {
+    "status": 200,
+    "data": {
+      "task_status": "error",
+      "error": "The face angle is not within the supported range. For front-facing photos, keep the head within 10°; for side-facing photos, use more than 15°."
+    }
+  },
+  "noFace": {
+    "status": 200,
+    "data": {
+      "task_status": "error",
+      "error": "No face was detected in the source image."
+    }
+  },
+  "unknown": {
+    "status": 200,
+    "data": {
+      "task_status": "error",
+      "error": "The face angle looks unusual."
+    }
+  }
+}

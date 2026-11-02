@@ -1,0 +1,154 @@
+{
+  "families": [
+    {
+      "id": "colour",
+      "service": "colour",
+      "affinity": "either",
+      "defaults": {
+        "requirements": {
+          "curl": [
+            "1",
+            "2a",
+            "2b",
+            "2c",
+            "3a",
+            "3b",
+            "3c",
+            "4a",
+            "4b",
+            "4c"
+          ],
+          "densityMin": 1,
+          "frontCm": null,
+          "topCm": null,
+          "sidesCm": null,
+          "strand": [
+            "fine",
+            "medium",
+            "coarse"
+          ],
+          "blunt": false,
+          "needsExtension": false
+        },
+        "geometry": {
+          "addsHeight": 0,
+          "addsWidth": 0,
+          "coversForehead": 0,
+          "softensJaw": 0
+        },
+        "compatibility": {
+          "oval": 0.8,
+          "round": 0.8,
+          "square": 0.8,
+          "heart": 0.8,
+          "long": 0.8
+        },
+        "lifestyle": {
+          "stylingMinutes": 8,
+          "blowdryer": false,
+          "maintenanceWeeks": 6
+        },
+        "bodyHint": null,
+        "beardFullness": null
+      },
+      "variants": [
+        {
+          "id": "Jet Black",
+          "title": "Jet Black",
+          "colourLevel": 1,
+          "swatch": "#1b1b1b",
+          "preset": "Jet Black",
+          "reference": {
+            "kind": "brief",
+            "brief": "Jet Black colour reference, level 1, cool undertone."
+          },
+          "stylistScript": "Jet black gloss. No lift. Target about level 1, cool undertone."
+        },
+        {
+          "id": "Chocolate Brown",
+          "title": "Chocolate Brown",
+          "colourLevel": 3,
+          "swatch": "#4a2c1a",
+          "preset": "Chocolate Brown",
+          "reference": {
+            "kind": "brief",
+            "brief": "Chocolate Brown colour reference, level 3, warm undertone."
+          },
+          "stylistScript": "Chocolate brown, close to a natural level 3. Target about level 3, warm undertone."
+        },
+        {
+          "id": "Burgundy",
+          "title": "Burgundy",
+          "colourLevel": 4,
+          "swatch": "#6e2430",
+          "preset": "Burgundy",
+          "reference": {
+            "kind": "brief",
+            "brief": "Burgundy colour reference, level 4, warm undertone."
+          },
+          "stylistScript": "Burgundy gloss. Darker bases take it more easily than a lift. Target about level 4, warm undertone."
+        },
+        {
+          "id": "Copper Red",
+          "title": "Copper Red",
+          "colourLevel": 6,
+          "swatch": "#b65a33",
+          "preset": "Copper Red",
+          "reference": {
+            "kind": "brief",
+            "brief": "Copper Red colour reference, level 6, warm undertone."
+          },
+          "stylistScript": "Copper. More than three levels lighter than the current colour needs a treatment plan. Target about level 6, warm undertone."
+        },
+        {
+          "id": "Honey Blonde",
+          "title": "Honey Blonde",
+          "colourLevel": 7,
+          "swatch": "#c4a574",
+          "preset": "Honey Blonde",
+          "reference": {
+            "kind": "brief",
+            "brief": "Honey Blonde colour reference, level 7, warm undertone."
+          },
+          "stylistScript": "Honey blonde. Check the lift against the current level and any box dye. Target about level 7, warm undertone."
+        },
+        {
+          "id": "Ash Gray",
+          "title": "Ash Gray",
+          "colourLevel": 7,
+          "swatch": "#b7b7b7",
+          "preset": "Ash Gray",
+          "reference": {
+            "kind": "brief",
+            "brief": "Ash Gray colour reference, level 7, cool undertone."
+          },
+          "stylistScript": "Ash gray. Warm undertones need toning, not just a gloss. Target about level 7, cool undertone."
+        },
+        {
+          "id": "Rose Gold",
+          "title": "Rose Gold",
+          "colourLevel": 8,
+          "swatch": "#c48b8b",
+          "preset": "Rose Gold",
+          "reference": {
+            "kind": "brief",
+            "brief": "Rose Gold colour reference, level 8, warm undertone."
+          },
+          "stylistScript": "Rose gold. This is a light result and a high-maintenance tone. Target about level 8, warm undertone."
+        },
+        {
+          "id": "Platinum Blonde",
+          "title": "Platinum Blonde",
+          "colourLevel": 10,
+          "swatch": "#f3efe4",
+          "preset": "Platinum Blonde",
+          "reference": {
+            "kind": "brief",
+            "brief": "Platinum Blonde colour reference, level 10, cool undertone."
+          },
+          "stylistScript": "Platinum. A lift this far is a correction, not one gloss. Target about level 10, cool undertone."
+        }
+      ]
+    }
+  ]
+}

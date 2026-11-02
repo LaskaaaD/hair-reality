@@ -1,0 +1,103 @@
+{
+  "observedOn": "2026-10-11",
+  "endpoint": "GET /s2s/v2.0/task/template/beard-style",
+  "documentationSchema": "absent",
+  "response": {
+    "status": 200,
+    "data": {
+      "templates": [
+        {
+          "id": "all_shaved",
+          "title": "Shaved",
+          "category_name": "All",
+          "thumb": "https://thumbnail.redacted.invalid/0"
+        },
+        {
+          "id": "all_anchor",
+          "title": "Anchor",
+          "category_name": "All",
+          "thumb": "https://thumbnail.redacted.invalid/1"
+        },
+        {
+          "id": "all_circle",
+          "title": "Circle",
+          "category_name": "All",
+          "thumb": "https://thumbnail.redacted.invalid/2"
+        },
+        {
+          "id": "all_garibaldi",
+          "title": "Garibaldi",
+          "category_name": "All",
+          "thumb": "https://thumbnail.redacted.invalid/3"
+        },
+        {
+          "id": "all_mustache",
+          "title": "Mustache",
+          "category_name": "All",
+          "thumb": "https://thumbnail.redacted.invalid/4"
+        },
+        {
+          "id": "all_soul_patch",
+          "title": "Soul Patch",
+          "category_name": "All",
+          "thumb": "https://thumbnail.redacted.invalid/5"
+        },
+        {
+          "id": "all_long_bandholz",
+          "title": "Long Bandholz",
+          "category_name": "All",
+          "thumb": "https://thumbnail.redacted.invalid/6"
+        },
+        {
+          "id": "all_ducktail",
+          "title": "Ducktail",
+          "category_name": "All",
+          "thumb": "https://thumbnail.redacted.invalid/7"
+        },
+        {
+          "id": "all_bandholz",
+          "title": "Bandholz",
+          "category_name": "All",
+          "thumb": "https://thumbnail.redacted.invalid/8"
+        },
+        {
+          "id": "all_chin_curtain",
+          "title": "Chin Curtain",
+          "category_name": "All",
+          "thumb": "https://thumbnail.redacted.invalid/9"
+        },
+        {
+          "id": "all_walrus",
+          "title": "Walrus",
+          "category_name": "All",
+          "thumb": "https://thumbnail.redacted.invalid/10"
+        },
+        {
+          "id": "all_mutton_chops",
+          "title": "Mutton Chops",
+          "category_name": "All",
+          "thumb": "https://thumbnail.redacted.invalid/11"
+        },
+        {
+          "id": "all_french_fork",
+          "title": "French Fork",
+          "category_name": "All",
+          "thumb": "https://thumbnail.redacted.invalid/12"
+        },
+        {
+          "id": "all_goatee",
+          "title": "Goatee",
+          "category_name": "All",
+          "thumb": "https://thumbnail.redacted.invalid/13"
+        },
+        {
+          "id": "all_horse_shoe",
+          "title": "Horse Shoe",
+          "category_name": "All",
+          "thumb": "https://thumbnail.redacted.invalid/14"
+        }
+      ],
+      "next_token": null
+    }
+  }
+}

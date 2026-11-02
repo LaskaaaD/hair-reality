@@ -1,0 +1,47 @@
+/* Hair Reality design tokens — HR-104 palette. Fonts: public/marketing/fonts/fonts.css (linked in index.html). */
+
+:root {
+  --hr-photo-bg: #ECE5DB;
+  --hr-bg: hsl(36 33% 96%);
+  --hr-surface: hsl(35 30% 89%);
+  --hr-surface-raised: hsl(40 45% 99%);
+  --hr-ink: hsl(25 14% 11%);
+  --hr-ink-muted: hsl(28 9% 36%);
+  --hr-line: hsl(30 14% 80%);
+  --hr-primary: hsl(25 14% 11%);
+  --hr-primary-hover: hsl(25 10% 22%);
+  --hr-primary-active: hsl(25 16% 5%);
+  --hr-primary-disabled: hsl(30 10% 78%);
+  --hr-on-primary: hsl(36 33% 96%);
+  --hr-secondary-border: hsl(25 14% 11%);
+  --hr-accent: hsl(162 30% 27%);
+  --hr-accent-hover: hsl(162 32% 20%);
+  --hr-accent-tint: hsl(150 20% 88%);
+  --hr-accent-ink: var(--hr-accent);
+  --hr-track: hsl(35 22% 86%);
+  --hr-scrim: hsl(25 14% 11% / 0.55);
+  --hr-success: var(--hr-accent);
+  --hr-warning: hsl(38 62% 38%);
+  --hr-danger: hsl(8 55% 40%);
+  --hr-font-display: "Jost", "Manrope", system-ui, sans-serif;
+  --hr-font-ui: "Manrope", system-ui, sans-serif;
+  --hr-radius-sm: 8px;
+  --hr-radius: 12px;
+  --hr-radius-lg: 20px;
+  --hr-radius-pill: 999px;
+  --hr-space: 8px;
+  --hr-max: 1200px;
+  /* Landing layout: wide container, fluid gutters, generous section rhythm */
+  --hr-container: 1320px;
+  --hr-gutter: clamp(20px, 4vw, 64px);
+  --hr-section-y: clamp(64px, 8vw, 144px);
+  /* Landing type + card scale (fluid; mobile floor, desktop ceiling) */
+  --hr-text-lede: clamp(16px, 0.85rem + 0.35vw, 19px);
+  --hr-text-body: clamp(14px, 0.8rem + 0.25vw, 16px);
+  --hr-text-small: clamp(13px, 0.75rem + 0.18vw, 15px);
+  --hr-text-card-title: clamp(1rem, 0.85rem + 0.4vw, 1.25rem);
+  --hr-card-pad: clamp(12px, 1.6vw, 24px);
+  --hr-shadow: 0 1px 2px color-mix(in srgb, var(--hr-ink) 6%, transparent), 0 8px 24px color-mix(in srgb, var(--hr-ink) 6%, transparent);
+  --hr-on-dark-text: var(--hr-on-primary);
+  --hr-on-dark-muted: color-mix(in srgb, var(--hr-on-primary) 78%, transparent);
+}

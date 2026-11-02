@@ -1,0 +1,167 @@
+.compare-board__row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
+  grid-auto-flow: column;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.compare-board__tile {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  background: var(--hr-surface-raised);
+  border: 1px solid var(--hr-line);
+  border-radius: var(--hr-radius-lg);
+  overflow: hidden;
+}
+
+.compare-board__tile--you {
+  background: var(--hr-surface);
+}
+
+.compare-board__tile img,
+.compare-board__pending {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  background: var(--hr-photo-bg);
+}
+
+.compare-board__pending {
+  display: grid;
+  place-items: center;
+  padding: 16px;
+  text-align: center;
+  color: var(--hr-ink-muted);
+}
+
+.compare-board__open {
+  position: relative;
+  display: block;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+}
+
+.compare-board__open:focus-visible {
+  outline: 3px solid var(--hr-accent);
+  outline-offset: -3px;
+}
+
+.compare-board__hint {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  padding: 4px 10px;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--hr-on-primary);
+  background: var(--hr-scrim);
+  border-radius: var(--hr-radius-pill);
+}
+
+.compare-board__caption {
+  display: grid;
+  gap: 4px;
+  padding: 12px 14px 16px;
+}
+
+.compare-board__caption p {
+  margin: 0;
+}
+
+.compare-board__name {
+  font-family: var(--hr-font-display);
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.compare-board__score {
+  font-weight: 700;
+  color: var(--hr-accent-ink);
+}
+
+.compare-board__reason {
+  font-size: 13px;
+  color: var(--hr-ink-muted);
+}
+
+.compare-details {
+  margin-top: 20px;
+}
+
+.compare-details > summary {
+  cursor: pointer;
+  font-weight: 700;
+  padding: 8px 0;
+}
+
+@media (max-width: 719px) {
+  .compare-board__row {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    padding-bottom: 8px;
+  }
+
+  .compare-board__tile {
+    flex: 0 0 72%;
+    scroll-snap-align: start;
+  }
+}
+
+/* Photos step and loading helpers */
+.hr-photos__slot-why {
+  margin: 2px 0 8px;
+  font-size: 12px;
+  line-height: 1.35;
+  /* Two lines reserved so every frame starts on the same row whatever the copy length. */
+  min-height: 2.7em;
+  color: var(--hr-ink-muted);
+}
+
+.hr-photos__grid {
+  align-items: start;
+}
+
+/* On the two-column phone grid the copy wraps to three lines, so reserve three. */
+@media (max-width: 960px) {
+  .hr-photos__slot-why {
+    min-height: 4.05em;
+  }
+}
+
+.hr-photos__progress {
+  margin: 12px 0 0;
+  font-weight: 700;
+  color: var(--hr-ink);
+}
+
+.e34-render-wait {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 12px 0 0;
+  font-weight: 600;
+}
+
+.flow-tryon-layout--compare,
+.compare-board {
+  min-width: 0;
+  max-width: 100%;
+}
+
+@media (max-width: 719px) {
+  .compare-board__row {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    position: relative;
+    contain: inline-size;
+  }
+}

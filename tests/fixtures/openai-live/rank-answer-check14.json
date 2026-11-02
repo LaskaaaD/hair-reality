@@ -1,0 +1,315 @@
+{
+ "path": "llm",
+ "note": "1 of 91 criterion scores kept ours",
+ "ms": 47063,
+ "usage": [
+  {
+   "kind": "completed",
+   "usage": {
+    "inputTokens": 5287,
+    "outputTokens": 2506
+   }
+  }
+ ],
+ "rawAnswer": "{\"ranked\":[{\"id\":\"haircut:fringe--messy-fringe\",\"s\":{\"hb\":28,\"fc\":22,\"hl\":13,\"hp\":8,\"ls\":9,\"ft\":5,\"tr\":5},\"v\":\"adapt\",\"a\":\"Keep the crown longer and slightly heavier so the back doesn't kick up while the fringe stays loose and broken.\",\"r\":\"Your straight medium-density hair wants to fall forward, so this messy fringe works naturally and softens the front without overbuilding height.\",\"b\":\"I want a messy textured fringe with a low taper, but leave extra length through the crown so it doesn't stick up.\"},{\"id\":\"haircut:male_tousled_cut\",\"s\":{\"hb\":28,\"fc\":22,\"hl\":13,\"hp\":8,\"ls\":9,\"ft\":5,\"tr\":5},\"v\":\"adapt\",\"a\":\"Leave more length at the crown and connect it softly into the top so the tousled shape stays relaxed instead of spiking at the back.\",\"r\":\"Your forward growth and current top length suit a textured fringe shape that looks easy and keeps the overall silhouette balanced.\",\"b\":\"Give me a textured fringe with a low taper and keep the crown a bit longer so the back lays flatter.\"},{\"id\":\"haircut:crop--soft-french-crop-scissor-sides\",\"s\":{\"hb\":28,\"fc\":23,\"hl\":14,\"hp\":9,\"ls\":9,\"ft\":5,\"tr\":4},\"v\":\"adapt\",\"a\":\"Keep the crown longer than a standard crop and cut the scissor sides with a softer blend so the back stays controlled.\",\"r\":\"Your straight hair and average forehead make this softer crop very wearable, with enough width at the sides to keep an oval face looking natural.\",\"b\":\"I'd like a soft French crop with scissor sides, and please leave the crown slightly longer so it doesn't pop up.\"},{\"id\":\"haircut:crop--textured-french-crop-low-taper\",\"s\":{\"hb\":27,\"fc\":22,\"hl\":14,\"hp\":8,\"ls\":9,\"ft\":5,\"tr\":5},\"v\":\"great\",\"a\":null,\"r\":\"Your hair already pushes forward well, so this textured crop is an easy match that frames the forehead cleanly without needing much styling.\",\"b\":\"Give me a textured French crop with a low taper and keep the top pushed forward with natural texture.\"},{\"id\":\"haircut:crop--textured-caesar-low-taper\",\"s\":{\"hb\":27,\"fc\":21,\"hl\":14,\"hp\":8,\"ls\":10,\"ft\":5,\"tr\":4},\"v\":\"great\",\"a\":null,\"r\":\"Because your hair is straight with a front cowlick, this Caesar keeps the direction working for you and stays neat with almost no effort.\",\"b\":\"I want a textured Caesar with a low taper, worn forward and kept easy to maintain.\"},{\"id\":\"haircut:crop--side-swept-textured-crop\",\"s\":{\"hb\":26,\"fc\":22,\"hl\":12,\"hp\":8,\"ls\":9,\"ft\":5,\"tr\":4},\"v\":\"adapt\",\"a\":\"Leave the crown a touch longer and direct the top into a loose side sweep so the back doesn't fight the parting.\",\"r\":\"Your density can support a side-swept crop nicely, and the lighter side movement gives your oval face shape without feeling too formal.\",\"b\":\"Give me a side-swept textured crop, but leave extra length at the crown so it stays controlled.\"},{\"id\":\"haircut:side-part--soft-side-part\",\"s\":{\"hb\":25,\"fc\":23,\"hl\":12,\"hp\":8,\"ls\":9,\"ft\":5,\"tr\":4},\"v\":\"adapt\",\"a\":\"Build the part softly and keep the crown longer behind it so the shape doesn't separate or spring up at the back.\",\"r\":\"Your medium strand thickness can hold a gentle side part well, and this version adds clean shape without making the style look too stiff.\",\"b\":\"I'd like a soft side part with scissor-cut sides, and keep the crown longer so it sits smoothly.\"},{\"id\":\"haircut:crew--ivy-league\",\"s\":{\"hb\":25,\"fc\":22,\"hl\":12,\"hp\":8,\"ls\":9,\"ft\":5,\"tr\":4},\"v\":\"adapt\",\"a\":\"Keep a little more length through the crown and a softer front lift so the short shape doesn't stand up unevenly.\",\"r\":\"Your straight hair and average features suit an Ivy League well, especially if you want something tidy that still has a bit of shape on top.\",\"b\":\"Give me an Ivy League with a low taper, but leave the crown slightly longer and not too stiff on top.\"},{\"id\":\"haircut:choppy-fringe\",\"s\":{\"hb\":27,\"fc\":21,\"hl\":13,\"hp\":8,\"ls\":9,\"ft\":5,\"tr\":5},\"v\":\"adapt\",\"a\":\"Keep the crown longer and make the fringe piecey rather than bulky so the front stays light while the back stays flat.\",\"r\":\"Your forward pattern and front length are strong for a choppy fringe, giving you movement up front without asking for a lot of daily work.\",\"b\":\"I want a choppy textured fringe with a low taper, and leave more length at the crown to stop it sticking out.\"},{\"id\":\"haircut:asian-fringe--asian-textured-crop\",\"s\":{\"hb\":27,\"fc\":21,\"hl\":13,\"hp\":8,\"ls\":9,\"ft\":5,\"tr\":5},\"v\":\"adapt\",\"a\":\"Preserve more crown length and keep the fringe airy and textured so the silhouette stays compact without the back kicking up.\",\"r\":\"Your straight hair type matches this cropped fringe look well, and the lighter front keeps the style current while staying easy to wear.\",\"b\":\"Give me an Asian textured crop with a low taper, and leave the crown a bit longer with an airy fringe.\"},{\"id\":\"haircut:curtains--short-curtains-low-taper\",\"s\":{\"hb\":25,\"fc\":23,\"hl\":12,\"hp\":8,\"ls\":9,\"ft\":5,\"tr\":5},\"v\":\"adapt\",\"a\":\"Hold extra length at the crown and keep the curtain split soft at the front so the middle opening doesn't force the back upright.\",\"r\":\"Your oval face can wear the width from short curtains easily, and your straight hair helps the split front sit clean without looking heavy.\",\"b\":\"I want short curtains with a low taper, but keep the crown longer and the front split soft.\"},{\"id\":\"haircut:side-part--classic-side-part\",\"s\":{\"hb\":24,\"fc\":22,\"hl\":11,\"hp\":8,\"ls\":9,\"ft\":5,\"tr\":3},\"v\":\"adapt\",\"a\":\"Leave more support at the crown and avoid a hard part so the classic side shape flows instead of breaking at the back.\",\"r\":\"Your hair can take a side direction, and this classic shape gives tidy structure while still keeping enough width for balanced proportions.\",\"b\":\"Give me a classic side part with a low taper, and keep the crown fuller so it lays neatly.\"},{\"id\":\"haircut:side-part--side-part-fade\",\"s\":{\"hb\":24,\"fc\":21,\"hl\":11,\"hp\":7,\"ls\":8,\"ft\":5,\"tr\":4},\"v\":\"adapt\",\"a\":\"Keep the crown longer above the fade and use a softer side part so the short sides don't make the back stand up more.\",\"r\":\"Your straight hair can handle this sharper side-part look, though it works best if the top stays soft so the overall finish doesn't feel too severe.\",\"b\":\"I want a side part fade, but leave the crown longer and keep the part natural rather than hard.\"},{\"id\":\"haircut:taper--tapered-neckline\",\"s\":{\"hb\":25,\"fc\":21,\"hl\":11,\"hp\":8,\"ls\":9,\"ft\":5,\"tr\":3},\"v\":\"adapt\",\"a\":\"Keep the crown slightly longer and shape the top with a relaxed side direction so the neckline stays clean without the crown lifting.\",\"r\":\"Your hair density is enough for a simple taper, and this option keeps things polished while still looking natural around the head shape.\",\"b\":\"Give me a clean tapered neckline with a natural top, and leave extra crown length so it sits down.\"},{\"id\":\"haircut:taper--low-taper-fade\",\"s\":{\"hb\":25,\"fc\":21,\"hl\":11,\"hp\":7,\"ls\":9,\"ft\":5,\"tr\":4},\"v\":\"adapt\",\"a\":\"Leave more crown length above the taper and keep the top loosely side-directed so the shorter perimeter doesn't make the whorl more obvious.\",\"r\":\"Your current length suits a low taper well, and it gives a crisp outline while keeping enough top to avoid looking flat or overcut.\",\"b\":\"I'd like a low taper fade with a natural top, and keep the crown a bit longer so it behaves.\"},{\"id\":\"haircut:retro--mod-cut-60s\",\"s\":{\"hb\":20,\"fc\":24,\"hl\":13,\"hp\":8,\"ls\":8,\"ft\":5,\"tr\":5},\"v\":\"good\",\"a\":null,\"r\":\"Your forward-growing straight hair suits the direction of a mod shape, and the fuller sides would frame your face in a stylish way.\",\"b\":\"I want a mod-inspired cut with fuller scissor-cut sides and a forward textured shape on top.\"},{\"id\":\"haircut:two-block--korean-two-block-curtain-fringe\",\"s\":{\"hb\":22,\"fc\":23,\"hl\":12,\"hp\":7,\"ls\":8,\"ft\":5,\"tr\":5},\"v\":\"adapt\",\"a\":\"Keep the crown longer than the top transition and open the curtain fringe softly so the two-block shape doesn't puff at the back.\",\"r\":\"Your straight hair can support the clean separation of a Korean two block, and the curtain front gives flattering width across an oval face.\",\"b\":\"Give me a Korean two block with a soft curtain fringe, and leave the crown longer so it stays smooth.\"},{\"id\":\"haircut:curtains--middle-part-short\",\"s\":{\"hb\":21,\"fc\":23,\"hl\":11,\"hp\":7,\"ls\":8,\"ft\":5,\"tr\":5},\"v\":\"good\",\"a\":null,\"r\":\"Your face shape can carry a middle part well, and this cut uses your natural straight texture for a neat, balanced curtain effect.\",\"b\":\"I want a short middle part with a low taper and enough softness so it falls naturally.\"},{\"id\":\"haircut:asian-fringe--see-through-fringe\",\"s\":{\"hb\":21,\"fc\":22,\"hl\":13,\"hp\":7,\"ls\":8,\"ft\":5,\"tr\":5},\"v\":\"adapt\",\"a\":\"Leave extra crown length and thin the fringe visually rather than shortening it, so the see-through front stays light without the back lifting.\",\"r\":\"Your hair type is suitable for an airy fringe, and this style gives soft forehead framing without making the front look too dense.\",\"b\":\"I want a see-through fringe with soft scissor sides, and keep the crown longer so the back stays down.\"},{\"id\":\"haircut:male_textured_comma\",\"s\":{\"hb\":19,\"fc\":22,\"hl\":11,\"hp\":7,\"ls\":8,\"ft\":5,\"tr\":5},\"v\":\"good\",\"a\":null,\"r\":\"Your straight hair is a sensible base for comma styling, and the curved front adds personality while keeping the overall look refined.\",\"b\":\"Give me a comma hairstyle with a soft curved fringe and enough texture so it doesn't look stiff.\"}],\"notes\":\"I treated the authoritative feasibility verdicts as final even where some listed minimum lengths look longer than the measured lengths today. Unknown recession, temple loss, crown loss, occipital, and neck were not assumed either way. Best matches favored straight, medium-density hair with forward growth plus both front and crown cowlicks, so crown-control adaptations ranked highly.\"}",
+ "rows": [
+  {
+   "rank": 1,
+   "key": "haircut:crop--soft-french-crop-scissor-sides",
+   "title": "Soft French crop with scissor sides",
+   "fit": 80.3,
+   "components": {
+    "hairBehavior": 26,
+    "face": 20,
+    "hairline": 13,
+    "head": 8,
+    "lifestyle": 10,
+    "features": 5,
+    "trend": 5,
+    "goals": 0,
+    "taste": 10
+   },
+   "reason": "Your straight hair and average forehead make this softer crop very wearable, with enough width at the sides to keep an oval face looking natural.",
+   "tell": "I'd like a soft French crop with scissor sides, and please leave the crown slightly longer so it doesn't pop up."
+  },
+  {
+   "rank": 2,
+   "key": "haircut:fringe--messy-fringe",
+   "title": "Messy fringe",
+   "fit": 78.6,
+   "components": {
+    "hairBehavior": 26,
+    "face": 20,
+    "hairline": 12,
+    "head": 7,
+    "lifestyle": 10,
+    "features": 5,
+    "trend": 5,
+    "goals": 0,
+    "taste": 10
+   },
+   "reason": "Your straight medium-density hair wants to fall forward, so this messy fringe works naturally and softens the front without overbuilding height.",
+   "tell": "I want a messy textured fringe with a low taper, but leave extra length through the crown so it doesn't stick up."
+  },
+  {
+   "rank": 3,
+   "key": "haircut:crop--textured-french-crop-low-taper",
+   "title": "Textured French crop with low taper",
+   "fit": 77.7,
+   "components": {
+    "hairBehavior": 27,
+    "face": 20,
+    "hairline": 13,
+    "head": 7,
+    "lifestyle": 7,
+    "features": 5,
+    "trend": 5,
+    "goals": 0,
+    "taste": 10
+   },
+   "reason": "Your hair already pushes forward well, so this textured crop is an easy match that frames the forehead cleanly without needing much styling.",
+   "tell": "Give me a textured French crop with a low taper and keep the top pushed forward with natural texture."
+  },
+  {
+   "rank": 4,
+   "key": "haircut:curtains--short-curtains-low-taper",
+   "title": "Short curtains with low taper",
+   "fit": 77.6,
+   "components": {
+    "hairBehavior": 24,
+    "face": 21,
+    "hairline": 12,
+    "head": 7,
+    "lifestyle": 10,
+    "features": 5,
+    "trend": 5,
+    "goals": 0,
+    "taste": 10
+   },
+   "reason": "Your oval face can wear the width from short curtains easily, and your straight hair helps the split front sit clean without looking heavy.",
+   "tell": "I want short curtains with a low taper, but keep the crown longer and the front split soft."
+  },
+  {
+   "rank": 5,
+   "key": "haircut:side-part--soft-side-part",
+   "title": "Soft side part",
+   "fit": 76.9,
+   "components": {
+    "hairBehavior": 23,
+    "face": 21,
+    "hairline": 12,
+    "head": 7,
+    "lifestyle": 10,
+    "features": 5,
+    "trend": 5,
+    "goals": 0,
+    "taste": 10
+   },
+   "reason": "Your medium strand thickness can hold a gentle side part well, and this version adds clean shape without making the style look too stiff.",
+   "tell": "I'd like a soft side part with scissor-cut sides, and keep the crown longer so it sits smoothly."
+  },
+  {
+   "rank": 6,
+   "key": "haircut:male_tousled_cut",
+   "title": "Textured fringe",
+   "fit": 76,
+   "components": {
+    "hairBehavior": 26,
+    "face": 20,
+    "hairline": 12,
+    "head": 7,
+    "lifestyle": 10,
+    "features": 5,
+    "trend": 5,
+    "goals": 0,
+    "taste": 4
+   },
+   "reason": "Your forward growth and current top length suit a textured fringe shape that looks easy and keeps the overall silhouette balanced.",
+   "tell": "Give me a textured fringe with a low taper and keep the crown a bit longer so the back lays flatter."
+  },
+  {
+   "rank": 7,
+   "key": "haircut:retro--mod-cut-60s",
+   "title": "Mod cut",
+   "fit": 75.9,
+   "components": {
+    "hairBehavior": 23,
+    "face": 21,
+    "hairline": 12,
+    "head": 7,
+    "lifestyle": 9,
+    "features": 5,
+    "trend": 5,
+    "goals": 0,
+    "taste": 10
+   },
+   "reason": "Your forward-growing straight hair suits the direction of a mod shape, and the fuller sides would frame your face in a stylish way.",
+   "tell": "I want a mod-inspired cut with fuller scissor-cut sides and a forward textured shape on top."
+  },
+  {
+   "rank": 8,
+   "key": "haircut:crew--ivy-league",
+   "title": "Ivy League",
+   "fit": 75.8,
+   "components": {
+    "hairBehavior": 23,
+    "face": 20,
+    "hairline": 12,
+    "head": 7,
+    "lifestyle": 10,
+    "features": 5,
+    "trend": 5,
+    "goals": 0,
+    "taste": 10
+   },
+   "reason": "Your straight hair and average features suit an Ivy League well, especially if you want something tidy that still has a bit of shape on top.",
+   "tell": "Give me an Ivy League with a low taper, but leave the crown slightly longer and not too stiff on top."
+  },
+  {
+   "rank": 9,
+   "key": "haircut:crop--side-swept-textured-crop",
+   "title": "Side-swept textured crop",
+   "fit": 75.7,
+   "components": {
+    "hairBehavior": 23,
+    "face": 20,
+    "hairline": 12,
+    "head": 7,
+    "lifestyle": 10,
+    "features": 5,
+    "trend": 5,
+    "goals": 0,
+    "taste": 10
+   },
+   "reason": "Your density can support a side-swept crop nicely, and the lighter side movement gives your oval face shape without feeling too formal.",
+   "tell": "Give me a side-swept textured crop, but leave extra length at the crown so it stays controlled."
+  },
+  {
+   "rank": 10,
+   "key": "haircut:two-block--korean-two-block-curtain-fringe",
+   "title": "Korean two-block with curtain fringe",
+   "fit": 75.1,
+   "components": {
+    "hairBehavior": 23,
+    "face": 20,
+    "hairline": 12,
+    "head": 7,
+    "lifestyle": 9,
+    "features": 5,
+    "trend": 5,
+    "goals": 0,
+    "taste": 10
+   },
+   "reason": "Your straight hair can support the clean separation of a Korean two block, and the curtain front gives flattering width across an oval face.",
+   "tell": "Give me a Korean two block with a soft curtain fringe, and leave the crown longer so it stays smooth."
+  },
+  {
+   "rank": 11,
+   "key": "haircut:two-block--two-block-taper",
+   "title": "Two block taper",
+   "fit": 72.3,
+   "components": {
+    "hairBehavior": 26.75,
+    "face": 17,
+    "hairline": 11,
+    "head": 6,
+    "lifestyle": 10,
+    "features": 5,
+    "trend": 5,
+    "goals": 0,
+    "taste": 4
+   },
+   "reason": "Two block taper is a two-block cut with a tucked-in undercut and movement on top, and your hair already grows forward, so the front lies down without a fight."
+  },
+  {
+   "rank": 12,
+   "key": "haircut:two-block--two-block-fade",
+   "title": "Two block fade",
+   "fit": 71,
+   "components": {
+    "hairBehavior": 26.74,
+    "face": 17,
+    "hairline": 11,
+    "head": 6,
+    "lifestyle": 10,
+    "features": 5,
+    "trend": 5,
+    "goals": 0,
+    "taste": 1
+   },
+   "reason": "Two block fade is a two-block cut with a tucked-in undercut and movement on top, and your hair already grows forward, so the front lies down without a fight."
+  },
+  {
+   "rank": 13,
+   "key": "haircut:asian-fringe--center-part-korean",
+   "title": "Center part Korean",
+   "fit": 63.8,
+   "components": {
+    "hairBehavior": 25.56,
+    "face": 18,
+    "hairline": 11,
+    "head": 6,
+    "lifestyle": 5,
+    "features": 5,
+    "trend": 5,
+    "goals": -9,
+    "taste": 4
+   },
+   "reason": "Center part Korean keeps the sides soft and scissor-cut instead of clippered tight, and the curtain split lets the front cowlick part where it wants to."
+  },
+  {
+   "rank": 14,
+   "key": "haircut:curtains--e-boy-curtains",
+   "title": "E-boy curtains",
+   "fit": 62.8,
+   "components": {
+    "hairBehavior": 25.35,
+    "face": 18,
+    "hairline": 11,
+    "head": 6,
+    "lifestyle": 5,
+    "features": 5,
+    "trend": 5,
+    "goals": -11,
+    "taste": 4
+   },
+   "reason": "E-boy curtains is a curtain cut, parted in the middle and falling to both sides, and the curtain split lets the front cowlick part where it wants to."
+  },
+  {
+   "rank": 15,
+   "key": "haircut:two-block--two-block-long-fringe",
+   "title": "Two block long fringe",
+   "fit": 62.4,
+   "components": {
+    "hairBehavior": 25.42,
+    "face": 17,
+    "hairline": 11,
+    "head": 6,
+    "lifestyle": 5,
+    "features": 5,
+    "trend": 5,
+    "goals": -10,
+    "taste": 4
+   },
+   "reason": "Two block long fringe fades the sides in at mid height for a clear but gentle contrast, and the choppy front breaks up the front cowlick so it never stands out."
+  },
+  {
+   "rank": 16,
+   "key": "haircut:flow--ear-tuck",
+   "title": "Ear tuck",
+   "fit": 62.1,
+   "components": {
+    "hairBehavior": 25.06,
+    "face": 18,
+    "hairline": 11,
+    "head": 6,
+    "lifestyle": 5,
+    "features": 5,
+    "trend": 5,
+    "goals": -12,
+    "taste": 4
+   },
+   "reason": "Ear tuck keeps the sides soft and scissor-cut instead of clippered tight, and a crown cowlick has little room to stand up at this height."
+  }
+ ]
+}

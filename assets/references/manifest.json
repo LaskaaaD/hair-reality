@@ -1,0 +1,289 @@
+[
+  {
+    "variant": "burr-cut",
+    "file": "burr-cut.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "516cc8af2e227e780ee7f7f3444d59d29d3392a5915663e1dfc6f8955a9f1382"
+  },
+  {
+    "variant": "ivy-league",
+    "file": "ivy-league.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "f44bdc4a28603bd70b06e997186504e32148634ce1285db36c4287d9fe685925"
+  },
+  {
+    "variant": "french-crop",
+    "file": "french-crop.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "f6605307ba2ad6f81b87a8efdcead47ebafb92743dc71720a666f85be8b7d8ba"
+  },
+  {
+    "variant": "two-block-heavy-fringe",
+    "file": "two-block-heavy-fringe.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "8c6aa4560306b85167dcdc8331d710d277715504a4bd22cf46d67d6b12f48246"
+  },
+  {
+    "variant": "two-block-60-40",
+    "file": "two-block-60-40.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "319d1dd020a321e1b97527cf37cc4648aebe486fcde6557968cf5dd0405606d6"
+  },
+  {
+    "variant": "two-block-middle-part",
+    "file": "two-block-middle-part.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "2908aa62ef1319703c425e2b5386cfde60b45a52f3394b50987ff6de0455dae7"
+  },
+  {
+    "variant": "two-block-textured",
+    "file": "two-block-textured.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "e035d372ea5b8a185a43d885cfa707ea464e2e9b789659c618899ea9f2f6cd0a"
+  },
+  {
+    "variant": "two-block-curly",
+    "file": "two-block-curly.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "adb73fee5a670ff48aa0289da28c41c83fe1578dac6de65397a88808e9e768b8"
+  },
+  {
+    "variant": "two-block-low-taper",
+    "file": "two-block-low-taper.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "d31460cf071a9aab78dab251cb324bdb6ecdf10cf60196e106c466e05ad07bbc"
+  },
+  {
+    "variant": "two-block-high-fade",
+    "file": "two-block-high-fade.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "3b8353b43599ee6e293d61200f6126b84ca8e1801f12ec612d79b324043b8db9"
+  },
+  {
+    "variant": "two-block-comma",
+    "file": "two-block-comma.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "a00936bbf13022550eca63cc1aa4fa0442a5117e32e793bd14ee2b288b531274"
+  },
+  {
+    "variant": "two-block-soft",
+    "file": "two-block-soft.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "a52852aa2e1c665dbfa1898d3bc765cea632096cbb731b7b14bee5a1087c0124"
+  },
+  {
+    "variant": "two-block-slick",
+    "file": "two-block-slick.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "68245afe0ad6e962f850087c98b03ab1376a9965cec2bde132039592b0c54514"
+  },
+  {
+    "variant": "two-block-curtain",
+    "file": "two-block-curtain.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "60ff19aae2211945f8c0e4ba0f88f252aeebfa134d9712305e8d4af6ed7ac7f9"
+  },
+  {
+    "variant": "two-block-skin-fade",
+    "file": "two-block-skin-fade.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "ba737a602fcb18d595c58bcca20b67ce0e489b22d2b623df01aa9987333d2829"
+  },
+  {
+    "variant": "side-swept-fringe",
+    "file": "side-swept-fringe.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "52278365d474110753e8a2a746b1c17067ac0d122116c55d8af8e0b9dbf22be8"
+  },
+  {
+    "variant": "textured-fringe",
+    "file": "textured-fringe.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "becead9191f8fb94f8274c3002c52564a8bcf231de3719583416ec7303039c8e"
+  },
+  {
+    "variant": "mop-top",
+    "file": "mop-top.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "e97aea85bb06a88220133989fb932250b18f3943b7ffe26abf04c9d3f6a3ce35"
+  },
+  {
+    "variant": "caesar",
+    "file": "caesar.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "22c4e48846a1c132ea2e25df93796738e546bde121c15c3ac0b1f70161c9691f"
+  },
+  {
+    "variant": "comma-fringe",
+    "file": "comma-fringe.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "b9371cb13fd01fc0681145cf133a54918f22f86c31d8f8de709124592b5df321"
+  },
+  {
+    "variant": "scissor-fringe",
+    "file": "scissor-fringe.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "50b098e5c42083b311a85308d674d3637fea34cfc4990989c1b39b46b32481f5"
+  },
+  {
+    "variant": "messy-side-part",
+    "file": "messy-side-part.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "bbd5b1946c914c05189d53cfa9896e38b8ffa70967ea4471d4de77ba5e8b3e28"
+  },
+  {
+    "variant": "long-ivy",
+    "file": "long-ivy.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "ee748e5851ff408005a08e5a6dcd2e3b80615a4c7cb1d368353c313237e0fec3"
+  },
+  {
+    "variant": "executive-side",
+    "file": "executive-side.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "16b4e2a86b3f0d0c88ac6b8448484554b58b1c4d2fc3b76f2441a9877c30962b"
+  },
+  {
+    "variant": "layered-flow",
+    "file": "layered-flow.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "4c5c627b90f078424f2d36be846466dc2c7fccfd6ab56e247448394bd48fcc78"
+  },
+  {
+    "variant": "mini-quiff",
+    "file": "mini-quiff.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "0f00b0a1d28f7634f8974beb8fce3bfb60627809d1837d8e223b64fada91b8c6"
+  },
+  {
+    "variant": "comb-over",
+    "file": "comb-over.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "870b07fe8a608b7d98668604a29ba33b50048d8b4e6401a562459b3ac16a755d"
+  },
+  {
+    "variant": "soft-bowl",
+    "file": "soft-bowl.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "ee911e89cc28edee5e41b7b44e8ef2d598bbb9e4612e1f0ed797c9580076b418"
+  },
+  {
+    "variant": "regulation",
+    "file": "regulation.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "3a40ef9b5357481af427b25d6b24d7bbc0e91342f8ee105a528cb16791f08265"
+  },
+  {
+    "variant": "disconnected-crop",
+    "file": "disconnected-crop.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "5058ad8f4dabdfdf8063427cb8b8a681208a0755ae4ac8ee8391464609f965ca"
+  },
+  {
+    "variant": "low-quiff",
+    "file": "low-quiff.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "045075ce417cd3b4cdf1084859625b0e19993bf6df7e084ed04290d221af7fb1"
+  },
+  {
+    "variant": "high-quiff",
+    "file": "high-quiff.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "e1e623a281d1dd26fd169d4d30e3e2351d79a88a1c8e4d9613c0455e791dc9da"
+  },
+  {
+    "variant": "classic-pompadour",
+    "file": "classic-pompadour.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "07977b5f2b997243327c2e350cc176c01425b08cfaa36ca3bd3685e35df9eef2"
+  },
+  {
+    "variant": "low-pompadour",
+    "file": "low-pompadour.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "fd3eb1035beb0ea876767b381d2ba01360675fe833996dee7b73bef8dd1470b7"
+  },
+  {
+    "variant": "slick-back",
+    "file": "slick-back.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "73d9e7c34959a1154de3992555d948ded9f15ef44c49ed0f6eec23ff9a9aca4a"
+  },
+  {
+    "variant": "slick-undercut",
+    "file": "slick-undercut.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "d6849b79d37426b701c6db3db389705a005d0c1c5d49221d429f06c29c5f9b13"
+  },
+  {
+    "variant": "faux-hawk",
+    "file": "faux-hawk.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "acda8ccb4c8af3040fc393073501dae5aedcce3bc9e1286fd30e33a2e5ae6df5"
+  },
+  {
+    "variant": "high-and-tight",
+    "file": "high-and-tight.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "bfb18c7e8b43df7ef53f0bf7f3cd1f44bfe611e868f110e46572ac9ca75d4573"
+  },
+  {
+    "variant": "flat-top",
+    "file": "flat-top.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "5461b46de38063766e6f68ca2f6a9696f4f0190b3cb72af77b2d40c0c20d6a09"
+  },
+  {
+    "variant": "burst-mullet",
+    "file": "burst-mullet.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "e7d4909f93677c536068dba391b93d6b2e13912e1ca96c40bcf2f031c48bf3ae"
+  },
+  {
+    "variant": "center-flow",
+    "file": "center-flow.jpg",
+    "source": "generated-neutral-reference",
+    "review": "reviewed",
+    "sha256": "a21dd0d6d6217ea9a1e29e7d530c6761241fad1757330dadf39222c4e1a2b41c"
+  }
+]

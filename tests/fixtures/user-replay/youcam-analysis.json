@@ -1,0 +1,183 @@
+{
+  "sex": {
+    "value": "unknown",
+    "confidence": 0,
+    "source": "youcam"
+  },
+  "face": {
+    "shape": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "aspectRatio": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "cheekbones": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "jaw": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "forehead": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "asymmetry": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    }
+  },
+  "head": {
+    "occipital": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    }
+  },
+  "hair": {
+    "curl": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "density": {
+      "value": 3,
+      "confidence": 0.85,
+      "source": "youcam"
+    },
+    "diameter": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "growthDirection": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "cowlickFront": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "cowlickCrown": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "hairline": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "damage": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "lengthCm": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "frontCm": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "topCm": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "sideCm": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "frizz": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    }
+  },
+  "hairLoss": {
+    "temples": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "crown": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "diffuse": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    }
+  },
+  "facialHair": {
+    "style": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "growth": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    }
+  },
+  "body": {
+    "neck": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "shoulders": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    }
+  },
+  "context": {
+    "glasses": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    }
+  },
+  "colour": {
+    "level": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "name": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "skinTone": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "undertone": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    }
+  }
+}

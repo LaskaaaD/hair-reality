@@ -1,0 +1,206 @@
+{
+  "families": [
+    {
+      "id": "beard",
+      "service": "beard",
+      "affinity": "masculine",
+      "defaults": {
+        "requirements": {
+          "curl": [
+            "1",
+            "2a",
+            "2b",
+            "2c",
+            "3a",
+            "3b",
+            "3c",
+            "4a",
+            "4b",
+            "4c"
+          ],
+          "densityMin": 1,
+          "frontCm": null,
+          "topCm": null,
+          "sidesCm": null,
+          "strand": [
+            "fine",
+            "medium",
+            "coarse"
+          ],
+          "blunt": false,
+          "needsExtension": false
+        },
+        "geometry": {
+          "addsHeight": 0.05,
+          "addsWidth": 0.3,
+          "coversForehead": 0,
+          "softensJaw": 0.2
+        },
+        "compatibility": {
+          "oval": 0.9,
+          "round": 0.75,
+          "square": 0.8,
+          "heart": 0.85,
+          "long": 0.8
+        },
+        "lifestyle": {
+          "stylingMinutes": 3,
+          "blowdryer": false,
+          "maintenanceWeeks": 2
+        },
+        "bodyHint": "Beard width changes how wide the jaw reads.",
+        "beardFullness": "medium"
+      },
+      "variants": [
+        {
+          "id": "all_shaved",
+          "title": "Shaved",
+          "lifestyle": {
+            "stylingMinutes": 5,
+            "blowdryer": false,
+            "maintenanceWeeks": 1
+          },
+          "beardFullness": "none",
+          "reference": {
+            "kind": "youcam",
+            "templateId": "all_shaved"
+          },
+          "stylistScript": "Clean shave. No beard density required."
+        },
+        {
+          "id": "all_mustache",
+          "title": "Mustache",
+          "beardFullness": "light",
+          "reference": {
+            "kind": "youcam",
+            "templateId": "all_mustache"
+          },
+          "stylistScript": "Mustache only, cheeks shaved."
+        },
+        {
+          "id": "all_soul_patch",
+          "title": "Soul Patch",
+          "beardFullness": "light",
+          "reference": {
+            "kind": "youcam",
+            "templateId": "all_soul_patch"
+          },
+          "stylistScript": "Small soul patch under the lip."
+        },
+        {
+          "id": "all_goatee",
+          "title": "Goatee",
+          "geometry": {
+            "addsHeight": 0.15,
+            "addsWidth": 0.15,
+            "coversForehead": 0,
+            "softensJaw": 0.1
+          },
+          "beardFullness": "medium",
+          "reference": {
+            "kind": "youcam",
+            "templateId": "all_goatee"
+          },
+          "stylistScript": "Goatee on the chin and moustache, cheeks clear."
+        },
+        {
+          "id": "all_anchor",
+          "title": "Anchor",
+          "beardFullness": "medium",
+          "reference": {
+            "kind": "youcam",
+            "templateId": "all_anchor"
+          },
+          "stylistScript": "Anchor beard, moustache joined to a short chin beard."
+        },
+        {
+          "id": "all_circle",
+          "title": "Circle Beard",
+          "beardFullness": "medium",
+          "reference": {
+            "kind": "youcam",
+            "templateId": "all_circle"
+          },
+          "stylistScript": "Circle beard, rounded chin, cheeks off."
+        },
+        {
+          "id": "all_chin_curtain",
+          "title": "Chin Curtain",
+          "geometry": {
+            "addsHeight": 0,
+            "addsWidth": 0.45,
+            "coversForehead": 0,
+            "softensJaw": 0.05
+          },
+          "beardFullness": "medium",
+          "reference": {
+            "kind": "youcam",
+            "templateId": "all_chin_curtain"
+          },
+          "stylistScript": "Chin curtain, jaw line only, no moustache."
+        },
+        {
+          "id": "all_mutton_chops",
+          "title": "Mutton Chops",
+          "beardFullness": "medium",
+          "reference": {
+            "kind": "youcam",
+            "templateId": "all_mutton_chops"
+          },
+          "stylistScript": "Mutton chops, wide sideburns, clean chin."
+        },
+        {
+          "id": "all_bandholz",
+          "title": "Bandholz",
+          "geometry": {
+            "addsHeight": 0.25,
+            "addsWidth": 0.55,
+            "coversForehead": 0,
+            "softensJaw": 0.1
+          },
+          "lifestyle": {
+            "stylingMinutes": 5,
+            "blowdryer": false,
+            "maintenanceWeeks": 4
+          },
+          "beardFullness": "full",
+          "reference": {
+            "kind": "youcam",
+            "templateId": "all_bandholz"
+          },
+          "stylistScript": "Full Bandholz. Cheeks and chin need even growth."
+        },
+        {
+          "id": "all_long_bandholz",
+          "title": "Long Bandholz",
+          "beardFullness": "full",
+          "reference": {
+            "kind": "youcam",
+            "templateId": "all_long_bandholz"
+          },
+          "stylistScript": "Long full beard. Patchy cheeks will show."
+        },
+        {
+          "id": "all_garibaldi",
+          "title": "Garibaldi",
+          "beardFullness": "full",
+          "reference": {
+            "kind": "youcam",
+            "templateId": "all_garibaldi"
+          },
+          "stylistScript": "Round full Garibaldi, even cheek growth."
+        },
+        {
+          "id": "all_ducktail",
+          "title": "Ducktail",
+          "beardFullness": "full",
+          "reference": {
+            "kind": "youcam",
+            "templateId": "all_ducktail"
+          },
+          "stylistScript": "Ducktail, full cheeks tapering to a point."
+        }
+      ]
+    }
+  ]
+}

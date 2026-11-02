@@ -1,0 +1,182 @@
+.brief-page {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 24px clamp(16px, 4vw, 32px) 64px;
+  color: var(--hr-ink);
+  font-family: var(--hr-font-ui);
+}
+
+.brief-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.brief-eyebrow {
+  margin: 0 0 8px;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--hr-accent-ink);
+}
+
+.brief-head h1 {
+  margin: 0;
+  font-family: var(--hr-font-display);
+  font-size: clamp(1.5rem, 1.1rem + 1.6vw, 2.2rem);
+  line-height: 1.15;
+}
+
+.brief-card {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 20px;
+  padding: 20px;
+  margin-bottom: 16px;
+  background: var(--hr-surface-raised);
+  border: 1px solid var(--hr-line);
+  border-radius: var(--hr-radius-lg);
+}
+
+.brief-card img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  border-radius: var(--hr-radius);
+  background: var(--hr-photo-bg);
+}
+
+.brief-client-body h2,
+.brief-section-title {
+  margin: 0 0 12px;
+  font-family: var(--hr-font-display);
+  font-size: 1.25rem;
+}
+
+.brief-section-title {
+  margin-top: 28px;
+}
+
+.brief-facts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 12px;
+  margin: 0 0 12px;
+}
+
+.brief-facts div {
+  padding: 10px 12px;
+  background: var(--hr-surface);
+  border-radius: var(--hr-radius-sm);
+}
+
+.brief-facts dt {
+  font-size: 12px;
+  color: var(--hr-ink-muted);
+}
+
+.brief-facts dd {
+  margin: 2px 0 0;
+  font-weight: 700;
+}
+
+.brief-source {
+  display: block;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--hr-accent-ink);
+}
+
+.brief-notes,
+.brief-look-body ul {
+  margin: 0;
+  padding-left: 18px;
+  display: grid;
+  gap: 4px;
+}
+
+.brief-looks {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.brief-rank {
+  margin: 0;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--hr-ink-muted);
+}
+
+.brief-look-body h3 {
+  margin: 4px 0;
+  font-family: var(--hr-font-display);
+  font-size: 1.3rem;
+}
+
+.brief-score {
+  margin: 0 0 8px;
+  font-weight: 700;
+  color: var(--hr-accent-ink);
+}
+
+.brief-barber {
+  margin: 10px 0 0;
+  padding: 10px 12px;
+  background: var(--hr-accent-tint);
+  border-radius: var(--hr-radius-sm);
+}
+
+.brief-meta {
+  margin: 10px 0 0;
+  font-size: 13px;
+  color: var(--hr-ink-muted);
+}
+
+.brief-foot {
+  margin-top: 28px;
+  font-size: 13px;
+  color: var(--hr-ink-muted);
+}
+
+.brief-empty {
+  max-width: 520px;
+  margin: 80px auto;
+  text-align: center;
+}
+
+.flow-wordmark-by {
+  font-weight: 500;
+  font-size: 0.8em;
+  color: var(--hr-ink-muted);
+}
+
+@media (max-width: 640px) {
+  .brief-card {
+    grid-template-columns: 110px 1fr;
+    gap: 12px;
+    padding: 14px;
+  }
+
+  .brief-head {
+    flex-direction: column;
+  }
+}
+
+@media print {
+  .brief-print,
+  .skip-link {
+    display: none;
+  }
+
+  .brief-card {
+    break-inside: avoid;
+    border-color: #999;
+  }
+}

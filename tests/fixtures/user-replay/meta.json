@@ -1,0 +1,30 @@
+{
+  "source": "live-test/openai-v6.json (live run v6, 2026-10-27, HEAD b27c3f2)",
+  "youcam": {
+    "file": "youcam-analysis.json",
+    "provenance": "real, complete: the lean live capability set returned only hair density 3 (confidence 0.85); every other field was unknown in the merged profile of live runs v3, v4 and v5 before vision.",
+    "reconstructed": false
+  },
+  "vision": {
+    "file": "vision-reply.json",
+    "provenance": "REAL: the raw demo_vision reply recorded as rawVision in live-test/openai-v6.json (curl 2a, growth right which merges as side, front cowlick yes, crown cowlick null, medium strands, density 3, front 7 / top 6 / sides 2.5 cm).",
+    "reconstructed": false
+  },
+  "visionUserDescription": {
+    "file": "vision-reply-user-description.json",
+    "provenance": "Variant for robustness only: the same reply with faceRatio 1.42 (run v4 logged 1.42) and foreheadWidth wide (the user description). Not a logged reply."
+  },
+  "llm": {
+    "file": "llm-rank-reply.json",
+    "provenance": "SYNTHETIC (round 11): a fixture-stylist answer in the stylist-consultation schema (per-criterion scores within their maxima, verdict, adaptNote, reason, tellYourBarber) for the 14 best shortlisted styles of the v6 profile. Generated offline from the rule scores (tests/fixtures/stylist-fixture.ts); not a live reply.",
+    "reconstructed": true
+  },
+  "llmLegacy": {
+    "file": "llm-rank-reply-v1.json",
+    "provenance": "REAL: the raw demo_rank reply recorded as rawRank in live-test/openai-v6.json, in the pre-round-11 schema {id, fit, reason}. It still replays: only its reasons are used."
+  },
+  "visionV9": {
+    "file": "vision-reply-v9.json",
+    "provenance": "REAL: the raw demo_vision reply recorded as rawVision in live-test/openai-v9.json (curl 1, forward growth, front cowlick yes, crown whorl unread, front 6 / top 7 / sides 2.5 cm, density 3)."
+  }
+}

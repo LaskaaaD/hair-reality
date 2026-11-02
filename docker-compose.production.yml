@@ -1,0 +1,90 @@
+name: hair-reality-production
+x-logging: &logging
+  driver: json-file
+  options:
+    max-size: "10m"
+    max-file: "3"
+services:
+  db:
+    image: postgres:17
+    environment:
+      POSTGRES_USER: hair_reality
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?POSTGRES_PASSWORD is required}
+      POSTGRES_DB: hair_reality
+    volumes:
+      - hair-reality-pg:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U hair_reality -d hair_reality"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+    restart: unless-stopped
+    logging: *logging
+  app:
+    image: hair-reality:${HAIR_REALITY_IMAGE_TAG:?HAIR_REALITY_IMAGE_TAG is required}
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    environment:
+      NODE_ENV: production
+      PORT: "3000"
+      TRUST_PROXY: "1"
+      PROVIDER_MODE: ${PROVIDER_MODE:?PROVIDER_MODE is required}
+      APP_ORIGIN: ${APP_ORIGIN:?APP_ORIGIN is required}
+      SESSION_SECRET: ${SESSION_SECRET:?SESSION_SECRET is required}
+      DATABASE_URL: postgres://hair_reality:${POSTGRES_PASSWORD}@db:5432/hair_reality
+      PRIVATE_STORAGE_DIR: /var/lib/hair-reality/private
+      # The render cache sits inside the persistent volume so cached renders (zero units) survive a rebuild.
+      RENDER_CACHE_DIR: /var/lib/hair-reality/private/render-cache
+      OPENAI_DEMO_LEDGER: /var/lib/hair-reality/private/openai-demo-ledger.json
+      HAIR_REALITY_CATALOGUE_DIR: /var/lib/hair-reality/private/catalogue
+      # The demo never uses the consultation deletion journal; "none" makes that path fail closed.
+      DELETION_JOURNAL_MODE: none
+      BUDGET_PHASE: ${BUDGET_PHASE:-}
+      DEMO_SALON_TIMEZONE: ${DEMO_SALON_TIMEZONE:-}
+      DEMO_JUDGE_SECRET: ${DEMO_JUDGE_SECRET:-}
+      YOUCAM_API_BASE_URL: ${YOUCAM_API_BASE_URL:-}
+      YOUCAM_API_KEY: ${YOUCAM_API_KEY:-}
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      OPENAI_MODEL: ${OPENAI_MODEL:-}
+      YOUCAM_LIVE_SUBMISSION: ${YOUCAM_LIVE_SUBMISSION:-}
+      OPENAI_LIVE_SUBMISSION: ${OPENAI_LIVE_SUBMISSION:-}
+      HAIR_REALITY_OPERATOR_PROBE: ${HAIR_REALITY_OPERATOR_PROBE:-}
+      PROVIDER_DOWNLOAD_ALLOWLIST: ${PROVIDER_DOWNLOAD_ALLOWLIST:-}
+      YOUCAM_DEV_CAP: ${YOUCAM_DEV_CAP:-}
+      YOUCAM_DEMO_CAP: ${YOUCAM_DEMO_CAP:-}
+      YOUCAM_TOTAL_CAP: ${YOUCAM_TOTAL_CAP:-}
+      YOUCAM_RESERVE: ${YOUCAM_RESERVE:-}
+      OPENAI_BUDGET_USD: ${OPENAI_BUDGET_USD:-}
+    volumes:
+      - hair-reality-private:/var/lib/hair-reality/private
+    depends_on:
+      db:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:3000/api/v1/ready').then((response)=>process.exit(response.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+      start_period: 40s
+    restart: unless-stopped
+    logging: *logging
+  caddy:
+    image: caddy:2
+    environment:
+      APP_DOMAIN: ${APP_DOMAIN:?APP_DOMAIN is required}
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./docker/Caddyfile:/etc/caddy/Caddyfile:ro
+      - hair-reality-caddy:/data
+    depends_on:
+      app:
+        condition: service_healthy
+    restart: unless-stopped
+    logging: *logging
+volumes:
+  hair-reality-pg:
+  hair-reality-private:
+  hair-reality-caddy:

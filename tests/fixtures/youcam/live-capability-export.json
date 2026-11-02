@@ -1,0 +1,64 @@
+{
+  "provenance": "live-rows-and-status-reads-2026-10-11",
+  "personalPayloads": "omitted",
+  "photographs": "omitted",
+  "signedUrls": "omitted",
+  "secrets": "omitted",
+  "youcamStatusError": {
+    "httpStatus": 200,
+    "sameBodyFor": ["hair-type-detection", "hair-frizziness-detection"],
+    "body": {
+      "status": 200,
+      "data": {
+        "task_status": "error",
+        "error": "The face angle is not within the supported range. For front-facing photos, keep the head within 10°; for side-facing photos, use more than 15°.",
+        "error_message": "The face angle is not within the supported range. For front-facing photos, keep the head within 10°; for side-facing photos, use more than 15°.",
+        "results": null
+      }
+    }
+  },
+  "storedResultShapes": {
+    "hair-length": { "term": "string" },
+    "hair-density": { "term": "string", "mapping": "string" },
+    "face-attributes": {
+      "faceshape": "string",
+      "facialratio": {
+        "vertical_fifth": "int[5]",
+        "horizontal_third": "int[3]",
+        "face_aspect_ratio": "int[2]"
+      },
+      "eyebrow": {},
+      "hair_color_name": { "known": "boolean" }
+    },
+    "facial-color-tones": {
+      "skin_color": "string",
+      "hair_color": "string",
+      "hair_color_name": "string",
+      "eye_color": "string",
+      "eye_color_name": "string",
+      "eyebrow_color": "string",
+      "lip_color": "string"
+    },
+    "hairstyle": { "stored": "boolean" },
+    "hair-color": { "stored": "boolean" },
+    "beard": { "stored": "boolean" },
+    "openai-target_interpretation": {
+      "observations": [{ "statement": "string", "support": "string", "evidenceIds": ["string"] }],
+      "uncertainty": "string"
+    },
+    "openai-priority_extraction": {
+      "proposals": [{ "text": "string", "requiresConfirmation": "boolean" }],
+      "uncertainty": "string"
+    },
+    "openai-candidate_ranking": { "rankedIds": ["string"], "omittedIds": [] },
+    "openai-finding_explanation": {
+      "findings": [{ "id": "string", "outcome": "string", "evidenceIds": ["string"] }],
+      "explanation": "string",
+      "provenance": "string"
+    },
+    "openai-stylist_brief": { "brief": "string", "evidenceIds": ["string"] },
+    "openai-preview_deviation": {
+      "flags": [{ "candidateId": "string", "visibleDifference": "string", "reviewRequired": "boolean" }]
+    }
+  }
+}

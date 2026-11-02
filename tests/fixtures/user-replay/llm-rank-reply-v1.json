@@ -1,0 +1,104 @@
+{
+  "ranked": [
+    {
+      "id": "haircut:side-part--soft-side-part",
+      "fit": 83,
+      "reason": "The scissor sides keep nice width for your oval balance, and the side-swept top works with your natural side growth instead of fighting it."
+    },
+    {
+      "id": "haircut:crop--soft-french-crop-scissor-sides",
+      "fit": 82,
+      "reason": "This gives you a soft textured front to calm the front cowlick, while the fuller sides keep your face from looking too narrow."
+    },
+    {
+      "id": "haircut:curtains--short-curtains-low-taper",
+      "fit": 81,
+      "reason": "The curtain split frames an average forehead well, and the low taper keeps enough side presence for your proportions."
+    },
+    {
+      "id": "haircut:crop--side-swept-textured-crop",
+      "fit": 80,
+      "reason": "A side-swept crop suits your 2a movement and side parting pattern, with just enough top without stretching the face."
+    },
+    {
+      "id": "haircut:crop--textured-caesar-low-taper",
+      "fit": 80,
+      "reason": "The short textured fringe gives partial forehead coverage and is friendly to your medium-density hair and front lift tendency."
+    },
+    {
+      "id": "haircut:crop--textured-french-crop-low-taper",
+      "fit": 79,
+      "reason": "Its broken fringe softens the hairline nicely, and the low taper avoids the tall-top effect that is less flattering on an oval shape."
+    },
+    {
+      "id": "haircut:side-part--classic-side-part",
+      "fit": 79,
+      "reason": "This has a clean side flow that matches your growth direction, and the low taper keeps the silhouette balanced from the front and side."
+    },
+    {
+      "id": "haircut:fringe--messy-fringe",
+      "fit": 79,
+      "reason": "The messy fringe uses your slight wave well and adds easy forehead framing, which helps keep the overall look relaxed and proportional."
+    },
+    {
+      "id": "haircut:taper--tapered-neckline",
+      "fit": 78,
+      "reason": "A tapered outline with modest top sits well on your balanced features, and it follows your side-falling hair without much fuss."
+    },
+    {
+      "id": "haircut:asian-fringe--asian-textured-crop",
+      "fit": 78,
+      "reason": "The textured front gives useful control around your front cowlick, and the lower sides still leave enough width for your face shape."
+    },
+    {
+      "id": "haircut:crew-cut",
+      "fit": 77,
+      "reason": "This keeps the profile neat and even, with a slight sweep that suits your side growth better than a straight-up finish would."
+    },
+    {
+      "id": "haircut:male_tousled_cut",
+      "fit": 77,
+      "reason": "The tousled fringe complements your natural 2a texture, and the forward texture softens the forehead without making the top too vertical."
+    },
+    {
+      "id": "haircut:taper--low-taper-fade",
+      "fit": 77,
+      "reason": "A low taper is a safe match for your oval proportions, and the moderate top avoids the narrow-sided look you should skip."
+    },
+    {
+      "id": "haircut:side-part--gentleman-cut",
+      "fit": 76,
+      "reason": "This shape is tidy but not severe, and the gentle side sweep fits your average jaw and side-directed growth very naturally."
+    },
+    {
+      "id": "haircut:side-part--professional-short-cut",
+      "fit": 76,
+      "reason": "The shorter top keeps things practical, while the side-swept front gives enough softness around your average hairline."
+    },
+    {
+      "id": "haircut:male_gray_taper_fade",
+      "fit": 76,
+      "reason": "Its classic taper keeps the outline controlled and balanced, and your medium-density hair should hold this shape without looking flat."
+    },
+    {
+      "id": "haircut:fringe--choppy-fringe",
+      "fit": 76,
+      "reason": "The choppy texture breaks up the front nicely for your cowlick, and the low taper keeps the overall width more flattering."
+    },
+    {
+      "id": "haircut:two-block--korean-two-block-curtain-fringe",
+      "fit": 76,
+      "reason": "The curtain fringe suits your forehead proportions, and the extra top length can work because the front falls forward rather than standing tall."
+    },
+    {
+      "id": "haircut:side-part--side-part-fade",
+      "fit": 75,
+      "reason": "The side part matches your natural direction well, though the tighter sides make it a touch less ideal than softer shapes for your oval face."
+    },
+    {
+      "id": "haircut:retro--frat-cut",
+      "fit": 75,
+      "reason": "This has an easy balanced outline with modest top lift, which plays well with your face ratio and straightforward hairline."
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+/* Shared Hair Reality UI components — use --hr-* tokens only. */
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.hr-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: calc(var(--hr-space) * 1);
+  min-height: 44px;
+  padding: calc(var(--hr-space) * 1.5) calc(var(--hr-space) * 3);
+  border-radius: var(--hr-radius-pill);
+  font-family: var(--hr-font-ui);
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: background 150ms ease, color 150ms ease, border-color 150ms ease;
+}
+
+.hr-btn--primary {
+  background: var(--hr-primary);
+  color: var(--hr-on-primary);
+  box-shadow: var(--hr-shadow);
+}
+
+.hr-btn--primary:hover {
+  background: var(--hr-primary-hover);
+}
+
+.hr-btn--primary:active {
+  background: var(--hr-primary-active);
+}
+
+.hr-btn--secondary {
+  background: transparent;
+  color: var(--hr-ink);
+  border: 1.5px solid var(--hr-secondary-border);
+  box-shadow: none;
+}
+
+.hr-btn--secondary:hover {
+  background: var(--hr-surface);
+}
+
+.hr-btn:focus-visible {
+  outline: 2px solid var(--hr-accent);
+  outline-offset: 3px;
+}
+
+a.hr-btn[aria-disabled="true"] {
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+.hr-progress-nav ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: calc(var(--hr-space) * 2);
+  align-items: center;
+}
+
+.hr-progress-nav__item {
+  display: flex;
+  align-items: center;
+  gap: calc(var(--hr-space) * 1);
+  color: var(--hr-ink-muted);
+  font-size: 13px;
+}
+
+.hr-progress-nav__item--current {
+  color: var(--hr-primary);
+  font-weight: 600;
+}
+
+.hr-progress-nav__item--done {
+  color: var(--hr-ink);
+}
+
+.hr-progress-nav__dot {
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 50%;
+  border: 1px solid var(--hr-line);
+  display: grid;
+  place-items: center;
+  font-size: 11px;
+  font-weight: 700;
+  background: var(--hr-surface-raised);
+}
+
+.hr-progress-nav__item--current .hr-progress-nav__dot {
+  border-color: var(--hr-primary);
+  background: color-mix(in srgb, var(--hr-primary) 12%, var(--hr-surface-raised));
+}
+
+.hr-category-card {
+  position: relative;
+  display: grid;
+  gap: calc(var(--hr-space) * 1.5);
+  padding: 0 0 calc(var(--hr-space) * 2);
+  border: 1px solid var(--hr-line);
+  border-radius: var(--hr-radius);
+  background: var(--hr-surface-raised);
+  overflow: hidden;
+  text-align: left;
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+
+.hr-category-card img {
+  width: 100%;
+  height: 12rem;
+  object-fit: cover;
+}
+
+.hr-category-card__body {
+  padding: 0 calc(var(--hr-space) * 2);
+  display: grid;
+  gap: calc(var(--hr-space) * 0.5);
+}
+
+.hr-category-card__body span {
+  color: var(--hr-ink-muted);
+  font-size: 14px;
+}
+
+.hr-category-card--selected {
+  border-color: var(--hr-primary);
+  box-shadow: var(--hr-shadow);
+}
+
+.hr-category-card__check {
+  position: absolute;
+  top: calc(var(--hr-space) * 1.5);
+  right: calc(var(--hr-space) * 1.5);
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  background: var(--hr-primary);
+  color: var(--hr-on-primary);
+  display: grid;
+  place-items: center;
+  font-size: 12px;
+}
+
+.hr-question-option {
+  display: flex;
+  align-items: center;
+  gap: calc(var(--hr-space) * 1.5);
+  padding: calc(var(--hr-space) * 1.5) calc(var(--hr-space) * 2);
+  border: 1px solid var(--hr-line);
+  border-radius: var(--hr-radius);
+  background: var(--hr-surface-raised);
+  cursor: pointer;
+}
+
+.hr-question-option input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.hr-question-option__control {
+  width: 1.1rem;
+  height: 1.1rem;
+  border-radius: 50%;
+  border: 1px solid var(--hr-line);
+  flex-shrink: 0;
+}
+
+.hr-question-option--checked .hr-question-option__control {
+  border-color: var(--hr-primary);
+  background: radial-gradient(circle, var(--hr-primary) 45%, transparent 46%);
+}
+
+.hr-data-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: calc(var(--hr-space) * 1);
+  padding: calc(var(--hr-space) * 0.75) calc(var(--hr-space) * 1.5);
+  border-radius: var(--hr-radius-pill);
+  background: var(--hr-surface);
+  font-size: 13px;
+  color: var(--hr-ink);
+}
+
+.hr-data-chip__label {
+  color: var(--hr-ink-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.hr-score-ring {
+  position: relative;
+  display: grid;
+  place-items: center;
+}
+
+.hr-score-ring svg {
+  width: 100%;
+  height: 100%;
+  transform: rotate(-90deg);
+}
+
+.hr-score-ring__track {
+  fill: none;
+  stroke: var(--hr-line);
+  stroke-width: 6;
+}
+
+.hr-score-ring__fill {
+  fill: none;
+  stroke-width: 6;
+  stroke-linecap: round;
+}
+
+.hr-score-ring--high .hr-score-ring__fill {
+  stroke: var(--hr-success);
+}
+
+.hr-score-ring--mid .hr-score-ring__fill {
+  stroke: var(--hr-warning);
+}
+
+.hr-score-ring--low .hr-score-ring__fill {
+  stroke: var(--hr-danger);
+}
+
+.hr-score-ring__value {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  align-content: center;
+  gap: 2px;
+  padding: 14%;
+  text-align: center;
+  font-family: var(--hr-font-display);
+}
+
+.hr-score-ring__value strong {
+  font-size: 1.15rem;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+  color: var(--hr-ink);
+}
+
+.hr-score-ring__value span {
+  display: block;
+  font-family: var(--hr-font-ui);
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--hr-ink-muted);
+}
+
+.hr-score-ring--sm {
+  width: 4.5rem;
+  height: 4.5rem;
+}
+
+/* Small ring: the value and its caption must fit inside the circle (the ring is 100 units, the stroke sits at radius 42). */
+.hr-score-ring--sm .hr-score-ring__value {
+  padding: 18%;
+  gap: 1px;
+}
+
+.hr-score-ring--sm .hr-score-ring__value strong {
+  font-size: 1rem;
+}
+
+.hr-score-ring--sm .hr-score-ring__value span {
+  font-size: 8px;
+  letter-spacing: 0.04em;
+}
+
+.hr-score-ring--md {
+  width: 6rem;
+  height: 6rem;
+}
+
+.hr-score-ring--lg {
+  width: 7rem;
+  height: 7rem;
+}
+
+.hr-feasibility-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: calc(var(--hr-space) * 1);
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--hr-ink);
+}
+
+.hr-feasibility-badge__dot {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background: var(--hr-accent);
+}
+
+.hr-feasibility-badge--highly_feasible .hr-feasibility-badge__dot {
+  background: var(--hr-success);
+}
+
+.hr-feasibility-badge--realistic .hr-feasibility-badge__dot {
+  background: color-mix(in srgb, var(--hr-success) 70%, var(--hr-warning));
+}
+
+.hr-feasibility-badge--possible .hr-feasibility-badge__dot {
+  background: var(--hr-warning);
+}
+
+.hr-feasibility-badge--challenging .hr-feasibility-badge__dot {
+  background: var(--hr-accent);
+}
+
+.hr-feasibility-badge--not_recommended .hr-feasibility-badge__dot {
+  background: var(--hr-danger);
+}
+
+.hr-growth-timeline ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: calc(var(--hr-space) * 1);
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+}
+
+.hr-growth-timeline li {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  scroll-snap-align: start;
+}
+
+.hr-growth-timeline figure {
+  margin: 0;
+  width: 6.5rem;
+  display: grid;
+  gap: calc(var(--hr-space) * 1);
+}
+
+.hr-growth-timeline picture {
+  display: block;
+  width: 100%;
+}
+
+.hr-growth-timeline img {
+  width: 100%;
+  height: 8rem;
+  object-fit: cover;
+  border-radius: var(--hr-radius);
+  border: 1px solid var(--hr-line);
+}
+
+.hr-growth-timeline figcaption {
+  font-size: 12px;
+  font-weight: 600;
+  text-align: center;
+  color: var(--hr-ink);
+}
+
+.hr-growth-timeline__index {
+  display: block;
+  font-size: 10px;
+  color: var(--hr-ink-muted);
+  letter-spacing: 0.08em;
+}
+
+.hr-growth-timeline__connector {
+  width: calc(var(--hr-space) * 2);
+  height: 2px;
+  background: var(--hr-line);
+  margin-inline: calc(var(--hr-space) * 0.5);
+}
+
+.hr-pricing-card {
+  display: grid;
+  gap: calc(var(--hr-space) * 2);
+  padding: calc(var(--hr-space) * 3);
+  border-radius: var(--hr-radius-lg);
+  border: 1px solid var(--hr-line);
+  background: var(--hr-surface-raised);
+}
+
+.hr-pricing-card--featured {
+  background: var(--hr-ink);
+  color: var(--hr-on-primary);
+  border-color: transparent;
+}
+
+.hr-pricing-card--featured .hr-btn--primary {
+  background: var(--hr-on-primary);
+  color: var(--hr-ink);
+  border-color: var(--hr-on-primary);
+}
+
+.hr-pricing-card--featured .hr-btn--primary:hover {
+  background: var(--hr-bg);
+  border-color: var(--hr-bg);
+}
+
+.hr-pricing-card--featured h3 {
+  color: var(--hr-on-dark-text);
+}
+
+.hr-pricing-card--featured .hr-pricing-card__period {
+  color: var(--hr-on-dark-muted);
+}
+
+.hr-pricing-card--featured .hr-pricing-card__description {
+  color: var(--hr-on-dark-text);
+}
+
+.hr-pricing-card--featured .hr-pricing-card__allowance {
+  color: var(--hr-on-dark-text);
+}
+
+.hr-pricing-card__badge {
+  display: inline-block;
+  width: fit-content;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: normal;
+  text-transform: none;
+  color: var(--hr-ink);
+  background: var(--hr-on-primary);
+  padding: 4px 10px;
+  border-radius: var(--hr-radius-pill);
+}
+
+.hr-pricing-card h3 {
+  margin: 0;
+  font-family: var(--hr-font-display);
+  font-size: 1.5rem;
+}
+
+.hr-pricing-card__price {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 6px;
+}
+
+.hr-pricing-card__amount {
+  font-family: var(--hr-font-display);
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1;
+  color: var(--hr-ink);
+}
+
+.hr-pricing-card--featured .hr-pricing-card__amount {
+  color: var(--hr-on-dark-text);
+}
+
+.hr-pricing-card__period {
+  font-size: 14px;
+  color: var(--hr-ink-muted);
+}
+
+.hr-pricing-card__allowance {
+  margin: 0;
+  font-size: 15px;
+  color: var(--hr-ink);
+}
+
+.hr-pricing-card__allowance strong {
+  font-weight: 700;
+}
+
+.hr-pricing-card__description {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.45;
+  color: var(--hr-ink-muted);
+}
+
+.hr-app-header nav a {
+  color: var(--hr-ink-muted);
+  text-decoration: none;
+  font-size: 14px;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.hr-app-header .brand {
+  font-family: var(--hr-font-display);
+  font-size: 1.35rem;
+  color: var(--hr-ink);
+  text-decoration: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hr-btn {
+    transition: none;
+  }
+}

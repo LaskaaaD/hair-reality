@@ -1,0 +1,47 @@
+{
+  "sex": { "value": "male", "confidence": 0.92, "source": "youcam" },
+  "face": {
+    "shape": { "value": "oval", "confidence": 0.88, "source": "youcam" },
+    "aspectRatio": { "value": 1.42, "confidence": 0.85, "source": "youcam" },
+    "cheekbones": { "value": "average", "confidence": 0.8, "source": "youcam" },
+    "jaw": { "value": "average", "confidence": 0.82, "source": "youcam" },
+    "forehead": { "value": "average", "confidence": 0.78, "source": "youcam" },
+    "asymmetry": { "value": "mild", "confidence": 0.7, "source": "youcam" }
+  },
+  "head": { "occipital": { "value": "round", "confidence": 0.75, "source": "youcam" } },
+  "hair": {
+    "curl": { "value": "2b", "confidence": 0.86, "source": "youcam" },
+    "density": { "value": 3, "confidence": 0.84, "source": "youcam" },
+    "diameter": { "value": "medium", "confidence": 0.8, "source": "youcam" },
+    "growthDirection": { "value": "forward", "confidence": 0.77, "source": "youcam" },
+    "cowlickFront": { "value": false, "confidence": 0.72, "source": "youcam" },
+    "cowlickCrown": { "value": false, "confidence": 0.72, "source": "youcam" },
+    "hairline": { "value": "average", "confidence": 0.83, "source": "youcam" },
+    "damage": { "value": "none", "confidence": 0.9, "source": "youcam" },
+    "lengthCm": { "value": 9, "confidence": 0.88, "source": "youcam" },
+    "frontCm": { "value": 7, "confidence": 0.8, "source": "youcam" },
+    "topCm": { "value": 8, "confidence": 0.82, "source": "youcam" },
+    "sideCm": { "value": 6, "confidence": 0.78, "source": "youcam" },
+    "frizz": { "value": "slight", "confidence": 0.81, "source": "youcam" }
+  },
+  "hairLoss": {
+    "temples": { "value": "none", "confidence": 0.85, "source": "youcam" },
+    "crown": { "value": "none", "confidence": 0.85, "source": "youcam" },
+    "diffuse": { "value": "none", "confidence": 0.85, "source": "youcam" }
+  },
+  "facialHair": {
+    "style": { "value": "stubble", "confidence": 0.8, "source": "youcam" },
+    "growth": { "value": "full", "confidence": 0.75, "source": "youcam" }
+  },
+  "body": {
+    "neck": { "value": "average", "confidence": 0.7, "source": "youcam" },
+    "shoulders": { "value": "average", "confidence": 0.7, "source": "youcam" }
+  },
+  "context": { "glasses": { "value": false, "confidence": 0.9, "source": "youcam" } },
+  "colour": {
+    "level": { "value": 4, "confidence": 0.86, "source": "youcam" },
+    "name": { "value": "dark brown", "confidence": 0.84, "source": "youcam" },
+    "skinTone": { "value": "medium", "confidence": 0.82, "source": "youcam" },
+    "undertone": { "value": "neutral", "confidence": 0.78, "source": "youcam" }
+  }
+}

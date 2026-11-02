@@ -1,0 +1,465 @@
+{
+  "version": 2,
+  "capturedAt": "2026-10-28T10:54:31.368Z",
+  "rankPath": "llm",
+  "rankNote": "0 of 98 criterion scores kept ours",
+  "rawRank": "{\"ranked\":[{\"id\":\"haircut:side-part--soft-side-part\",\"s\":{\"hb\":28,\"fc\":23,\"hl\":13,\"hp\":8,\"ls\":10,\"ft\":5,\"tr\":4},\"v\":\"great\",\"a\":null,\"r\":\"Your straight medium-density hair and natural side growth make this soft side part sit neatly while the gentler width helps balance a longer face.\",\"b\":\"I'd like a soft side part with natural movement, some width at the sides, and not too much height on top.\"},{\"id\":\"haircut:side-part--gentleman-cut\",\"s\":{\"hb\":28,\"fc\":22,\"hl\":13,\"hp\":8,\"ls\":10,\"ft\":5,\"tr\":4},\"v\":\"great\",\"a\":null,\"r\":\"Because your hair already wants to move sideways, the gentleman cut will look polished quickly and keep your face from reading too long or narrow.\",\"b\":\"Give me a gentleman cut with a clean side shape, soft tapering, and a tidy natural part.\"},{\"id\":\"haircut:side-part--classic-side-part\",\"s\":{\"hb\":28,\"fc\":22,\"hl\":13,\"hp\":8,\"ls\":10,\"ft\":5,\"tr\":3},\"v\":\"great\",\"a\":null,\"r\":\"Your current length and side-directed growth suit a classic side part, and its controlled shape adds structure without stretching your long proportions.\",\"b\":\"I'd like a classic side part with neat sides and a natural sweep across the top.\"},{\"id\":\"haircut:taper--tapered-neckline\",\"s\":{\"hb\":27,\"fc\":21,\"hl\":12,\"hp\":9,\"ls\":10,\"ft\":5,\"tr\":4},\"v\":\"great\",\"a\":null,\"r\":\"A tapered neckline works well with your straight hair and classic taste, giving a clean outline while keeping enough side presence to flatter a longer face.\",\"b\":\"Please keep it classic with a tapered neckline, tidy around the back, and a natural side flow on top.\"},{\"id\":\"haircut:male_gray_taper_fade\",\"s\":{\"hb\":27,\"fc\":21,\"hl\":12,\"hp\":9,\"ls\":10,\"ft\":5,\"tr\":4},\"v\":\"great\",\"a\":null,\"r\":\"Your hair density can support this classic taper easily, and the balanced top-to-side proportion keeps the profile sharp without making the face look taller.\",\"b\":\"I'd like a classic taper with some fullness through the sides and an easy side-swept top.\"},{\"id\":\"haircut:side-part--professional-short-cut\",\"s\":{\"hb\":27,\"fc\":21,\"hl\":12,\"hp\":8,\"ls\":10,\"ft\":5,\"tr\":3},\"v\":\"great\",\"a\":null,\"r\":\"With your straight hair, average hairline, and low styling time, this professional short cut will fall into place fast and stay proportionate on your face.\",\"b\":\"Give me a professional short cut with a clean side part feel and easy everyday shape.\"},{\"id\":\"haircut:crew--ivy-league\",\"s\":{\"hb\":26,\"fc\":20,\"hl\":12,\"hp\":8,\"ls\":10,\"ft\":5,\"tr\":4},\"v\":\"good\",\"a\":null,\"r\":\"The Ivy League matches your classic preference and cooperative straight texture, though keeping it a touch fuller helps it stay balanced on your longer face.\",\"b\":\"I want an Ivy League with a soft side part and not too much height through the front.\"},{\"id\":\"haircut:crop--soft-french-crop-scissor-sides\",\"s\":{\"hb\":27,\"fc\":22,\"hl\":14,\"hp\":8,\"ls\":10,\"ft\":5,\"tr\":4},\"v\":\"great\",\"a\":null,\"r\":\"Your front cowlick is easier to control with this softer textured fringe, and the scissor sides keep welcome width for a face that runs long.\",\"b\":\"Please do a soft French crop with textured fringe and keep the sides fuller rather than too tight.\"},{\"id\":\"haircut:crop--textured-french-crop-low-taper\",\"s\":{\"hb\":27,\"fc\":22,\"hl\":14,\"hp\":8,\"ls\":10,\"ft\":5,\"tr\":4},\"v\":\"great\",\"a\":null,\"r\":\"This textured French crop suits your straight hair and short styling routine, with a forward fringe that helps break up facial length cleanly.\",\"b\":\"I'd like a textured French crop with a forward fringe and a low taper that stays balanced, not severe.\"},{\"id\":\"haircut:crop--textured-caesar-low-taper\",\"s\":{\"hb\":26,\"fc\":23,\"hl\":15,\"hp\":8,\"ls\":10,\"ft\":5,\"tr\":3},\"v\":\"great\",\"a\":null,\"r\":\"A textured Caesar is practical for your routine and especially strong for your longer face because the shorter forward fringe reduces vertical emphasis.\",\"b\":\"Give me a textured Caesar with a soft forward fringe and a low taper, keeping the shape compact and easy.\"},{\"id\":\"haircut:asian-fringe--asian-textured-crop\",\"s\":{\"hb\":27,\"fc\":22,\"hl\":14,\"hp\":8,\"ls\":10,\"ft\":5,\"tr\":4},\"v\":\"great\",\"a\":null,\"r\":\"Your density and straight pattern will hold the broken texture in this crop well, and its forward weight helps frame the forehead in a flattering way.\",\"b\":\"I want an Asian textured crop with a soft choppy fringe and a clean low taper.\"},{\"id\":\"haircut:fringe--messy-fringe\",\"s\":{\"hb\":25,\"fc\":22,\"hl\":14,\"hp\":7,\"ls\":10,\"ft\":5,\"tr\":5},\"v\":\"good\",\"a\":\"Keep the fringe light and slightly broken so it sits with the front cowlick instead of puffing up, and leave more side fullness than a tight taper.\",\"r\":\"This messy fringe uses your current top length well and softens the forehead, but it looks best if the front is kept light so your cowlick doesn't kick it upward.\",\"b\":\"I'd like a messy fringe, but keep the front light and broken with some fullness at the sides.\"},{\"id\":\"haircut:male_tousled_cut\",\"s\":{\"hb\":25,\"fc\":22,\"hl\":14,\"hp\":7,\"ls\":10,\"ft\":5,\"tr\":5},\"v\":\"good\",\"a\":\"Build the texture through the fringe in separated pieces and keep the crown controlled so the style stays low rather than adding extra height.\",\"r\":\"Your straight hair can do this textured fringe nicely, and it gives modern movement without fighting your classic taste as long as the shape stays fairly low.\",\"b\":\"Give me a textured fringe with piecey movement, but keep the crown controlled and the overall shape low.\"},{\"id\":\"haircut:fringe--choppy-fringe\",\"s\":{\"hb\":25,\"fc\":22,\"hl\":14,\"hp\":7,\"ls\":10,\"ft\":5,\"tr\":5},\"v\":\"good\",\"a\":\"Cut the fringe into softer uneven pieces that angle slightly with your natural side movement instead of making it thick and blunt across the front.\",\"r\":\"A choppy fringe can work on your straight medium-density hair and helps shorten facial length visually, especially when the front is cut airy instead of heavy.\",\"b\":\"I want a choppy fringe with soft broken pieces and a lighter front, not a thick blunt fringe.\"},{\"id\":\"haircut:curtains--short-curtains-low-taper\",\"s\":{\"hb\":24,\"fc\":20,\"hl\":12,\"hp\":7,\"ls\":10,\"ft\":5,\"tr\":5},\"v\":\"good\",\"a\":\"Keep the curtain opening narrow and start the split slightly off center so the front cowlick doesn't force the fringe to separate too wide.\",\"r\":\"Short curtains fit your current texture and trend level, though a tighter opening is better so your longer face doesn't get extra vertical length from a big center split.\",\"b\":\"I'd like short curtains with a subtle split, kept fairly narrow through the front and not too much height.\"},{\"id\":\"haircut:taper--low-taper-fade\",\"s\":{\"hb\":26,\"fc\":19,\"hl\":12,\"hp\":8,\"ls\":10,\"ft\":5,\"tr\":4},\"v\":\"good\",\"a\":\"Leave the top styled flatter with a soft side direction and avoid taking the fade too high so the sides keep some balancing width.\",\"r\":\"This low taper fade is easy for your routine and suits your straight hair, but it is strongest when the shape stays low and not overly tight on a long face.\",\"b\":\"Give me a low taper fade, but keep some width at the sides and don't build too much height on top.\"},{\"id\":\"haircut:side-part--side-part-fade\",\"s\":{\"hb\":26,\"fc\":19,\"hl\":12,\"hp\":8,\"ls\":10,\"ft\":5,\"tr\":4},\"v\":\"good\",\"a\":\"Keep the part soft and the fade low with extra weight near the upper sides so the style doesn't narrow the face too much.\",\"r\":\"Your natural side growth makes the side part easy, but this faded version needs a gentler side shape so it still flatters your longer proportions.\",\"b\":\"I want a side part fade, but keep it soft and leave some weight through the upper sides.\"},{\"id\":\"haircut:comb-over--comb-over\",\"s\":{\"hb\":24,\"fc\":18,\"hl\":11,\"hp\":8,\"ls\":8,\"ft\":5,\"tr\":3},\"v\":\"adapt\",\"a\":\"Style the comb-over with low lift and a looser sweep, keeping the front close to the head rather than building a tall quiff shape.\",\"r\":\"Your hair can form a comb-over, but because your face runs long and your routine is short, it works better with restrained height and a relaxed finish.\",\"b\":\"Give me a soft comb-over with minimal lift in front and an easy natural sweep.\"},{\"id\":\"haircut:crop--side-swept-textured-crop\",\"s\":{\"hb\":25,\"fc\":19,\"hl\":11,\"hp\":7,\"ls\":10,\"ft\":5,\"tr\":4},\"v\":\"good\",\"a\":\"Direct the short fringe diagonally with your natural side growth and keep the top texture compact so it doesn't stand up at the front cowlick.\",\"r\":\"This side-swept crop follows the way your hair already moves and stays easy to style, though it looks best with a compact front on your face shape.\",\"b\":\"I'd like a side-swept textured crop that follows my natural part and stays compact through the front.\"},{\"id\":\"haircut:two-block--korean-two-block-curtain-fringe\",\"s\":{\"hb\":22,\"fc\":18,\"hl\":11,\"hp\":7,\"ls\":10,\"ft\":5,\"tr\":5},\"v\":\"adapt\",\"a\":\"Keep the curtain fringe shorter and closer to the brow with less lift at the roots, and reduce the disconnect so the sides don't look too hollow.\",\"r\":\"Your hair can support this two-block, but on a longer face it is more flattering when the curtain sits lower and the side contrast stays softer.\",\"b\":\"I want a Korean two-block, but keep the curtain lower and the sides softer so it doesn't look too disconnected.\"}],\"notes\":\"Assumed the key balancing issue is face length because longFace is true despite the oval reading. I did not use unknown recession, crown, occipital, or neck data. A few long two-block and retro options were passed by feasibility, but I still ranked them lower because face balance and classic practicality were weaker today.\"}",
+  "profile": {
+    "sex": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "face": {
+      "shape": {
+        "value": "oval",
+        "confidence": 0.68,
+        "source": "vision"
+      },
+      "aspectRatio": {
+        "value": 1.42,
+        "confidence": 0.62,
+        "source": "vision"
+      },
+      "cheekbones": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "jaw": {
+        "value": "average",
+        "confidence": 0.67,
+        "source": "vision"
+      },
+      "forehead": {
+        "value": "average",
+        "confidence": 0.55,
+        "source": "vision"
+      },
+      "asymmetry": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "foreheadWidth": {
+        "value": "average",
+        "confidence": 0.62,
+        "source": "vision"
+      }
+    },
+    "head": {
+      "occipital": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "ears": {
+        "value": "average",
+        "confidence": 0.66,
+        "source": "vision"
+      }
+    },
+    "hair": {
+      "curl": {
+        "value": "1",
+        "confidence": 0.82,
+        "source": "vision"
+      },
+      "density": {
+        "value": 3,
+        "confidence": 0.85,
+        "source": "youcam"
+      },
+      "diameter": {
+        "value": "medium",
+        "confidence": 0.58,
+        "source": "vision"
+      },
+      "growthDirection": {
+        "value": "side",
+        "confidence": 0.7,
+        "source": "vision"
+      },
+      "cowlickFront": {
+        "value": true,
+        "confidence": 0.64,
+        "source": "vision"
+      },
+      "cowlickCrown": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "hairline": {
+        "value": "average",
+        "confidence": 0.63,
+        "source": "vision"
+      },
+      "damage": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "lengthCm": {
+        "value": 8,
+        "confidence": 0.74,
+        "source": "vision"
+      },
+      "frontCm": {
+        "value": 7,
+        "confidence": 0.74,
+        "source": "vision"
+      },
+      "topCm": {
+        "value": 8,
+        "confidence": 0.74,
+        "source": "vision"
+      },
+      "sideCm": {
+        "value": 3.5,
+        "confidence": 0.74,
+        "source": "vision"
+      },
+      "frizz": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      }
+    },
+    "hairLoss": {
+      "temples": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "crown": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "diffuse": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      }
+    },
+    "facialHair": {
+      "style": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "growth": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      }
+    },
+    "body": {
+      "neck": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "shoulders": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      }
+    },
+    "context": {
+      "glasses": {
+        "value": false,
+        "confidence": 0.99,
+        "source": "vision"
+      }
+    },
+    "colour": {
+      "level": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "name": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "skinTone": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "undertone": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      }
+    }
+  },
+  "profileFacts": {
+    "longFace": true,
+    "unknownMeans": "not measured",
+    "faceShape": {
+      "value": "oval",
+      "confidence": 0.68,
+      "source": "vision",
+      "readings": {
+        "vision": {
+          "value": "oval",
+          "confidence": 0.68
+        }
+      }
+    },
+    "faceRatio": {
+      "value": 1.42,
+      "confidence": 0.62,
+      "source": "vision",
+      "readings": {
+        "vision": {
+          "value": 1.42,
+          "confidence": 0.62
+        }
+      }
+    },
+    "jaw": {
+      "value": "average",
+      "confidence": 0.67,
+      "source": "vision",
+      "readings": {
+        "vision": {
+          "value": "average",
+          "confidence": 0.67
+        }
+      }
+    },
+    "forehead": {
+      "value": "average",
+      "confidence": 0.55,
+      "source": "vision",
+      "readings": {
+        "vision": {
+          "value": "average",
+          "confidence": 0.55
+        }
+      }
+    },
+    "foreheadWidth": {
+      "value": "average",
+      "confidence": 0.62,
+      "source": "vision",
+      "readings": {
+        "vision": {
+          "value": "average",
+          "confidence": 0.62
+        }
+      }
+    },
+    "curl": {
+      "value": "1",
+      "confidence": 0.82,
+      "source": "vision",
+      "readings": {
+        "vision": {
+          "value": "1",
+          "confidence": 0.82
+        }
+      }
+    },
+    "density": {
+      "value": 3,
+      "confidence": 0.85,
+      "source": "youcam",
+      "readings": {
+        "youcam": {
+          "value": 3,
+          "confidence": 0.85
+        }
+      }
+    },
+    "diameter": {
+      "value": "medium",
+      "confidence": 0.58,
+      "source": "vision",
+      "readings": {
+        "vision": {
+          "value": "medium",
+          "confidence": 0.58
+        }
+      }
+    },
+    "growthDirection": {
+      "value": "side",
+      "confidence": 0.7,
+      "source": "vision",
+      "readings": {
+        "vision": {
+          "value": "side",
+          "confidence": 0.7
+        }
+      }
+    },
+    "cowlickFront": {
+      "value": true,
+      "confidence": 0.64,
+      "source": "vision",
+      "readings": {
+        "vision": {
+          "value": true,
+          "confidence": 0.64
+        }
+      }
+    },
+    "cowlickCrown": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": null
+    },
+    "lengthCm": {
+      "value": 8,
+      "confidence": 0.74,
+      "source": "vision",
+      "readings": {
+        "vision": {
+          "value": 8,
+          "confidence": 0.74
+        }
+      }
+    },
+    "frontCm": {
+      "value": 7,
+      "confidence": 0.74,
+      "source": "vision",
+      "readings": {
+        "vision": {
+          "value": 7,
+          "confidence": 0.74
+        }
+      }
+    },
+    "topCm": {
+      "value": 8,
+      "confidence": 0.74,
+      "source": "vision",
+      "readings": {
+        "vision": {
+          "value": 8,
+          "confidence": 0.74
+        }
+      }
+    },
+    "sideCm": {
+      "value": 3.5,
+      "confidence": 0.74,
+      "source": "vision",
+      "readings": {
+        "vision": {
+          "value": 3.5,
+          "confidence": 0.74
+        }
+      }
+    },
+    "hairline": {
+      "value": "average",
+      "confidence": 0.63,
+      "source": "vision",
+      "readings": {
+        "vision": {
+          "value": "average",
+          "confidence": 0.63
+        }
+      }
+    },
+    "recession": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": null
+    },
+    "templeLoss": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": null
+    },
+    "crownLoss": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": null
+    },
+    "occipital": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": null
+    },
+    "ears": {
+      "value": "average",
+      "confidence": 0.66,
+      "source": "vision",
+      "readings": {
+        "vision": {
+          "value": "average",
+          "confidence": 0.66
+        }
+      }
+    },
+    "neck": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": null
+    },
+    "glasses": {
+      "value": false,
+      "confidence": 0.99,
+      "source": "vision",
+      "readings": {
+        "vision": {
+          "value": false,
+          "confidence": 0.99
+        }
+      }
+    },
+    "zoneLengthsCm": {
+      "top": 8,
+      "front": 7,
+      "sides": 3.5,
+      "overall": 8,
+      "crown": "unknown"
+    }
+  },
+  "answers": {
+    "stylingMinutes": "5",
+    "heatStyle": "sometimes",
+    "keep": "nothing",
+    "colourHistory": "unknown",
+    "beardGrowth": "unknown",
+    "presentation": "masculine",
+    "naturalState": "unknown",
+    "chemical": "unknown",
+    "strand": "unknown",
+    "blowdryer": "unknown",
+    "products": "unknown",
+    "canShorten": "no",
+    "canGrow": "no",
+    "forehead": "unknown",
+    "glassesDaily": "unknown",
+    "aesthetic": "classic",
+    "facialHair": "unknown",
+    "cowlick": "unknown"
+  },
+  "likes": [],
+  "tellYourBarber": {
+    "haircut:crop--soft-french-crop-scissor-sides": "Please do a soft French crop with textured fringe and keep the sides fuller rather than too tight.",
+    "haircut:side-part--soft-side-part": "I'd like a soft side part with natural movement, some width at the sides, and not too much height on top.",
+    "haircut:fringe--messy-fringe": "I'd like a messy fringe, but keep the front light and broken with some fullness at the sides.",
+    "haircut:asian-fringe--asian-textured-crop": "I want an Asian textured crop with a soft choppy fringe and a clean low taper.",
+    "haircut:crew--ivy-league": "I want an Ivy League with a soft side part and not too much height through the front.",
+    "haircut:side-part--classic-side-part": "I'd like a classic side part with neat sides and a natural sweep across the top.",
+    "haircut:taper--tapered-neckline": "Please keep it classic with a tapered neckline, tidy around the back, and a natural side flow on top.",
+    "haircut:male_tousled_cut": "Give me a textured fringe with piecey movement, but keep the crown controlled and the overall shape low.",
+    "haircut:curtains--short-curtains-low-taper": "I'd like short curtains with a subtle split, kept fairly narrow through the front and not too much height.",
+    "haircut:crop--side-swept-textured-crop": "I'd like a side-swept textured crop that follows my natural part and stays compact through the front.",
+    "haircut:fringe--choppy-fringe": "I want a choppy fringe with soft broken pieces and a lighter front, not a thick blunt fringe.",
+    "haircut:side-part--side-part-fade": "I want a side part fade, but keep it soft and leave some weight through the upper sides.",
+    "haircut:taper--low-taper-fade": "Give me a low taper fade, but keep some width at the sides and don't build too much height on top.",
+    "haircut:two-block--korean-two-block-curtain-fringe": "I want a Korean two-block, but keep the curtain lower and the sides softer so it doesn't look too disconnected."
+  }
+}

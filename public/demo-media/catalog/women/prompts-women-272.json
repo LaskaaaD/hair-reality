@@ -1,0 +1,1634 @@
+{
+ "haircut:bixie--classic-bixie": {
+  "name": "bixie-classic-bixie.jpg",
+  "title": "Classic bixie",
+  "face": "Turkish woman, light olive skin, 32, heart-shaped face, green eyes",
+  "core": "CLASSIC BIXIE: dark brown straight hair, layered crown 12 cm, fringe swept to the side at eyebrow, sides cut to just cover the ear tops, tapered nape; between a pixie and a bob, soft piecey texture."
+ },
+ "haircut:bixie--curly-bixie": {
+  "name": "bixie-curly-bixie.jpg",
+  "title": "Curly bixie",
+  "face": "Black woman, medium brown skin, 32, broad nose, freckles",
+  "core": "Curly bixie (Bixie Cut) hairstyle on the woman with naturally curly type 3 hair. Longest length about 14 cm, ending at the ear. Perimeter: point cut. Layers: short layers all over. Bangs: curly fringe cut dry. Parting: side part. Texture/finish: curl; volume medium. Nape/sides: tapered. Hybrid of pixie and bob: longer, shaggier than a pixie, shorter and layered vs a bob."
+ },
+ "haircut:bixie--shaggy-bixie": {
+  "name": "bixie-shaggy-bixie.jpg",
+  "title": "Shaggy bixie",
+  "face": "Mexican woman, olive-tan skin, 40, high cheekbones, dark brown eyes",
+  "core": "Shaggy bixie (Bixie Cut) hairstyle on the woman with straight to wavy hair. Longest length about 14 cm, ending at the ear. Perimeter: point cut. Layers: heavy crown shag layers, razor/point-cut. Bangs: choppy textured fringe. Parting: none. Texture/finish: texturized; volume medium. Nape/sides: tapered. Hybrid of pixie and bob: longer, shaggier than a pixie, shorter and layered vs a bob."
+ },
+ "haircut:bixie--sleek-bixie": {
+  "name": "bixie-sleek-bixie.jpg",
+  "title": "Sleek bixie",
+  "face": "Lebanese woman, olive skin, 47, high cheekbones, angular face",
+  "core": "Sleek bixie (Bixie Cut) hairstyle on the woman with straight to wavy hair. Longest length about 14 cm, ending at the ear. Perimeter: point cut. Layers: short layers all over. Bangs: side-swept fringe grazing the cheekbone. Parting: side part. Texture/finish: sleek; volume medium. Nape/sides: tapered. Hybrid of pixie and bob: longer, shaggier than a pixie, shorter and layered vs a bob."
+ },
+ "haircut:bixie--bixie-with-curtain-bangs": {
+  "name": "bixie-bixie-with-curtain-bangs.jpg",
+  "title": "Bixie with curtain bangs",
+  "face": "white woman, fair skin, 28, soft features, small nose",
+  "core": "Bixie with curtain bangs (Bixie Cut) hairstyle on the woman with straight to wavy hair. Longest length about 14 cm, ending at the ear. Perimeter: point cut. Layers: short layers all over. Bangs: curtain bangs parted center, cheekbone length. Parting: middle part. Texture/finish: texturized; volume medium. Nape/sides: tapered. Hybrid of pixie and bob: longer, shaggier than a pixie, shorter and layered vs a bob."
+ },
+ "haircut:blunt--shoulder-blunt-cut": {
+  "name": "blunt-shoulder-blunt-cut.jpg",
+  "title": "Shoulder blunt cut",
+  "face": "Japanese woman, fair skin, 46, wide-set eyes, dark brown eyes",
+  "core": "Shoulder blunt cut (Blunt One-Length Cut) hairstyle on the woman with straight to wavy hair. Longest length about 32 cm, ending at the shoulder. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: middle part. Texture/finish: sleek; volume medium. All hair falls to a single line; maximises density look at ends."
+ },
+ "haircut:blunt--mid-length-blunt-cut": {
+  "name": "blunt-mid-length-blunt-cut.jpg",
+  "title": "Mid-length blunt cut",
+  "face": "Latina woman, tan skin, 41, dark brown eyes, gap-less natural smile lines",
+  "core": "Mid-length blunt cut (Blunt One-Length Cut) hairstyle on the woman with straight to wavy hair. Longest length about 45 cm, ending at the armpit. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: middle part. Texture/finish: sleek; volume medium. All hair falls to a single line; maximises density look at ends."
+ },
+ "haircut:blunt--long-blunt-cut": {
+  "name": "blunt-long-blunt-cut.jpg",
+  "title": "Long blunt cut",
+  "face": "Japanese woman, fair skin, 36, heart-shaped face, hazel eyes",
+  "core": "Long blunt cut (Blunt One-Length Cut) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: middle part. Texture/finish: sleek; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. All hair falls to a single line; maximises density look at ends."
+ },
+ "haircut:blunt--long-blunt-with-full-fringe": {
+  "name": "blunt-long-blunt-with-full-fringe.jpg",
+  "title": "Long blunt with full fringe",
+  "face": "mixed-heritage woman, light brown skin, 34, soft features, square jaw",
+  "core": "LONG BLUNT WITH FULL FRINGE: straight dark brown hair to mid-chest cut in one perfectly straight blunt line, thick full straight-across fringe at the eyebrows, no layers."
+ },
+ "haircut:blunt--glass-hair-blunt-cut": {
+  "name": "blunt-glass-hair-blunt-cut.jpg",
+  "title": "Glass hair blunt cut",
+  "face": "Filipino woman, tan skin, 46, heart-shaped face, angular face",
+  "core": "GLASS HAIR BLUNT CUT: ultra-glossy mirror-shine poker-straight black hair to the waist/mid-chest, sharp middle part, razor-sharp blunt ends, reflective light streak down the hair."
+ },
+ "haircut:blunt--blunt-cut-side-part": {
+  "name": "blunt-blunt-cut-side-part.jpg",
+  "title": "Blunt cut side part",
+  "face": "Chinese woman, light skin, 31, strong brows, hazel eyes",
+  "core": "BLUNT CUT SIDE PART: straight chestnut hair to the chest, deep side part, all ends cut in one heavy blunt line, no layers, no fringe."
+ },
+ "haircut:blunt--blunt-cut-with-curtain-bangs": {
+  "name": "blunt-blunt-cut-with-curtain-bangs.jpg",
+  "title": "Blunt cut with curtain bangs",
+  "face": "Polish woman, fair skin, 45, hazel eyes, broad nose",
+  "core": "Blunt cut with curtain bangs (Blunt One-Length Cut) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: curtain bangs parted center, cheekbone length. Parting: middle part. Texture/finish: sleek; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. All hair falls to a single line; maximises density look at ends."
+ },
+ "haircut:all_long_straight_black": {
+  "name": "all-long-straight-black.jpg",
+  "title": "Long Blunt",
+  "face": "Black woman, dark brown skin, 32, oval face, full lips",
+  "core": "LONG BLUNT: jet-black straight hair past the shoulders cut in one thick blunt line, straight-across blunt fringe at the eyebrows."
+ },
+ "haircut:blunt--waist-length-blunt-cut": {
+  "name": "blunt-waist-length-blunt-cut.jpg",
+  "title": "Waist-length blunt cut",
+  "face": "Latina woman, tan skin, 21, gap-less natural smile lines, long narrow face",
+  "core": "Waist-length blunt cut (Blunt One-Length Cut) hairstyle on the woman with long thick dark hair. Longest length about 72 cm, ending at the waist. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: middle part. Texture/finish: sleek; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. All hair falls to a single line; maximises density look at ends."
+ },
+ "haircut:bob--classic-chin-bob": {
+  "name": "bob-classic-chin-bob.jpg",
+  "title": "Classic chin bob",
+  "face": "Mexican woman, olive-tan skin, 40, oval face, hazel eyes",
+  "core": "Classic chin bob (Bob) hairstyle on the woman with straight to wavy hair. Longest length about 21 cm, ending at the chin. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: middle part. Texture/finish: straight; volume medium. One-length or lightly graduated cut ending between ear and jaw."
+ },
+ "haircut:bob--blunt-bob": {
+  "name": "bob-blunt-bob.jpg",
+  "title": "Blunt bob",
+  "face": "French woman, light skin, 30, beauty mark on cheek, gap-less natural smile lines",
+  "core": "BLUNT BOB: straight brunette hair cut to one sharp horizontal line at the jaw, heavy blunt edge, middle part, no layers."
+ },
+ "haircut:bob--middle-part-bob": {
+  "name": "bob-middle-part-bob.jpg",
+  "title": "Middle-part bob",
+  "face": "Japanese woman, fair skin, 42, soft features, strong brows",
+  "core": "MIDDLE-PART BOB: chin-length straight bob with an exact centre part, both sides symmetrical, sleek tucked-free."
+ },
+ "haircut:bob--french-bob": {
+  "name": "bob-french-bob.jpg",
+  "title": "French bob",
+  "face": "Turkish woman, light olive skin, 24, square jaw, round face",
+  "core": "FRENCH BOB: short bob ending at the cheekbone/lip line, wispy eyebrow-length bangs, slightly messy undone texture, dark brown."
+ },
+ "haircut:bob--italian-bob": {
+  "name": "bob-italian-bob.jpg",
+  "title": "Italian bob",
+  "face": "Lebanese woman, olive skin, 22, dimpled cheeks, strong brows",
+  "core": "Italian bob (Bob) hairstyle on the woman with straight to wavy hair. Longest length about 24 cm, ending at the jaw. Perimeter: rounded. Layers: no layers (one length). Bangs: no bangs. Parting: side part. Texture/finish: wavy; volume high. One-length or lightly graduated cut ending between ear and jaw."
+ },
+ "haircut:bob--bubble-bob": {
+  "name": "bob-bubble-bob.jpg",
+  "title": "Bubble bob",
+  "face": "Italian woman, olive skin, 22, full lips, soft features",
+  "core": "BUBBLE BOB: chin-length bob blow-dried into a ROUND inflated bubble shape, ends curving under, lots of volume, glossy."
+ },
+ "haircut:bob--wavy-bob-with-bangs": {
+  "name": "bob-wavy-bob-with-bangs.jpg",
+  "title": "Wavy bob with bangs",
+  "face": "Irish woman, freckled pale skin, 38, broad nose, wide-set eyes",
+  "core": "WAVY BOB WITH BANGS: chin-length bob with loose S-waves, soft straight-across bangs at the eyebrows, light brown."
+ },
+ "haircut:bob--wavy-bob": {
+  "name": "bob-wavy-bob.jpg",
+  "title": "Wavy bob",
+  "face": "Japanese woman, fair skin, 41, dimpled cheeks, oval face",
+  "core": "WAVY BOB: jaw-length bob with loose bent waves throughout, side part, no bangs, honey brown."
+ },
+ "haircut:bob--tousled-bob": {
+  "name": "bob-tousled-bob.jpg",
+  "title": "Tousled bob",
+  "face": "Persian woman, light olive skin, 41, beauty mark on cheek, wide-set eyes",
+  "core": "TOUSLED BOB: chin-length bob, messy undone bedhead texture, piecey ends going different directions, side part, dark blonde."
+ },
+ "haircut:bob--choppy-bob": {
+  "name": "bob-choppy-bob.jpg",
+  "title": "Choppy bob",
+  "face": "Italian woman, olive skin, 34, dark brown eyes, green eyes",
+  "core": "CHOPPY BOB: jaw-length bob with choppy point-cut jagged ends and visible short textured layers, dark brown."
+ },
+ "haircut:all_short_bob": {
+  "name": "all-short-bob.jpg",
+  "title": "Short bob with fringe",
+  "face": "Japanese woman, fair skin, 36, freckles, small nose",
+  "core": "SHORT BOB WITH FRINGE: short bob just below the ears with a straight full fringe at the eyebrows, black, rounded neat."
+ },
+ "haircut:bob--classic-bob-with-bangs": {
+  "name": "bob-classic-bob-with-bangs.jpg",
+  "title": "Classic bob with bangs",
+  "face": "Indian woman, brown skin, 25, wide-set eyes, oval face",
+  "core": "CLASSIC BOB WITH BANGS: chin-length straight bob, ends slightly curved under, full straight bangs at the eyebrows, medium brown."
+ },
+ "haircut:bob--ear-length-bob": {
+  "name": "bob-ear-length-bob.jpg",
+  "title": "Ear-length bob",
+  "face": "Italian woman, olive skin, 43, square jaw, strong brows",
+  "core": "Ear-length bob (Bob) hairstyle on the woman with straight to wavy hair. Longest length about 14 cm, ending at the ear. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: middle part. Texture/finish: straight; volume medium. One-length or lightly graduated cut ending between ear and jaw."
+ },
+ "haircut:bob--side-swept-bob": {
+  "name": "bob-side-swept-bob.jpg",
+  "title": "Side-swept bob",
+  "face": "Italian woman, olive skin, 36, soft features, angular face",
+  "core": "Side-swept bob (Bob) hairstyle on the woman with straight to wavy hair. Longest length about 21 cm, ending at the chin. Perimeter: blunt. Layers: no layers (one length). Bangs: side-swept fringe grazing the cheekbone. Parting: deep side part. Texture/finish: straight; volume medium. One-length or lightly graduated cut ending between ear and jaw."
+ },
+ "haircut:bob--sleek-glass-bob": {
+  "name": "bob-sleek-glass-bob.jpg",
+  "title": "Sleek glass bob",
+  "face": "Scandinavian woman, pale skin, 44, wide-set eyes, strong brows",
+  "core": "Sleek glass bob (Bob) hairstyle on the woman with straight to wavy hair. Longest length about 21 cm, ending at the chin. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: middle part. Texture/finish: sleek; volume medium. One-length or lightly graduated cut ending between ear and jaw."
+ },
+ "haircut:bob--crimped-bob": {
+  "name": "bob-crimped-bob.jpg",
+  "title": "Crimped bob",
+  "face": "French woman, light skin, 47, round face, soft features",
+  "core": "CRIMPED BOB: chin-length bob with tight zig-zag CRIMPED texture all over, voluminous, light brown."
+ },
+ "haircut:bob--slicked-side-bob": {
+  "name": "bob-slicked-side-bob.jpg",
+  "title": "Slicked side bob",
+  "face": "Black woman, dark brown skin, 47, dimpled cheeks, oval face",
+  "core": "Slicked side bob (Bob) hairstyle on the woman with straight to wavy hair. Longest length about 21 cm, ending at the chin. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: deep side part. Texture/finish: wet; volume medium. One-length or lightly graduated cut ending between ear and jaw."
+ },
+ "haircut:bob--flipped-bob": {
+  "name": "bob-flipped-bob.jpg",
+  "title": "Flipped bob",
+  "face": "Lebanese woman, olive skin, 30, dark brown eyes, dimpled cheeks",
+  "core": "Flipped bob (Bob) hairstyle on the woman with straight to wavy hair. Longest length about 21 cm, ending at the chin. Perimeter: flipped. Layers: no layers (one length). Bangs: no bangs. Parting: middle part. Texture/finish: blowout; volume medium. One-length or lightly graduated cut ending between ear and jaw."
+ },
+ "haircut:bob--messy-bob": {
+  "name": "bob-messy-bob.jpg",
+  "title": "Messy bob",
+  "face": "Persian woman, light olive skin, 45, broad nose, green eyes",
+  "core": "Messy bob (Bob) hairstyle on the woman with straight to wavy hair. Longest length about 21 cm, ending at the chin. Perimeter: point cut. Layers: no layers (one length). Bangs: wispy see-through fringe. Parting: none. Texture/finish: texturized; volume medium. One-length or lightly graduated cut ending between ear and jaw."
+ },
+ "haircut:bob--jaw-bob-with-see-through-bangs": {
+  "name": "bob-jaw-bob-with-see-through-bangs.jpg",
+  "title": "Jaw bob with see-through bangs",
+  "face": "Mexican woman, olive-tan skin, 44, freckles, green eyes",
+  "core": "Jaw bob with see-through bangs (Bob) hairstyle on the woman with straight to wavy hair. Longest length about 24 cm, ending at the jaw. Perimeter: blunt. Layers: no layers (one length). Bangs: see-through (Korean) fringe, thinned. Parting: none. Texture/finish: straight; volume medium. One-length or lightly graduated cut ending between ear and jaw."
+ },
+ "haircut:bob--micro-bob": {
+  "name": "bob-micro-bob.jpg",
+  "title": "Micro bob",
+  "face": "Chinese woman, light skin, 32, green eyes, dimpled cheeks",
+  "core": "Micro bob (Bob) hairstyle on the woman with straight to wavy hair. Longest length about 14 cm, ending at the ear. Perimeter: blunt. Layers: no layers (one length). Bangs: micro bangs well above the brow. Parting: none. Texture/finish: straight; volume medium. One-length or lightly graduated cut ending between ear and jaw."
+ },
+ "haircut:bob--lazy-bob": {
+  "name": "bob-lazy-bob.jpg",
+  "title": "Lazy bob",
+  "face": "Irish woman, freckled pale skin, 27, high cheekbones, square jaw",
+  "core": "Lazy bob (Bob) hairstyle on the woman with straight to wavy hair. Longest length about 24 cm, ending at the jaw. Perimeter: point cut. Layers: no layers (one length). Bangs: no bangs. Parting: side part. Texture/finish: wavy; volume medium. One-length or lightly graduated cut ending between ear and jaw."
+ },
+ "haircut:braids--two-braids": {
+  "name": "braids-two-braids.jpg",
+  "title": "Two braids",
+  "face": "Black woman, deep brown skin, 24, strong brows, beauty mark on cheek",
+  "core": "TWO BRAIDS: centre part, hair in two long three-strand braids hanging in front of each shoulder to the chest, brown."
+ },
+ "haircut:braids--boho-side-braid": {
+  "name": "braids-boho-side-braid.jpg",
+  "title": "Boho side braid",
+  "face": "Nigerian woman, very dark skin, 21, small nose, soft features",
+  "core": "BOHO SIDE BRAID: loose messy fishtail braid swept over one shoulder to the chest, face-framing loose tendrils, dark blonde."
+ },
+ "haircut:braids--dutch-braids": {
+  "name": "braids-dutch-braids.jpg",
+  "title": "Dutch braids",
+  "face": "Black woman, dark brown skin, 34, long narrow face, wide-set eyes",
+  "core": "DUTCH BRAIDS: two raised boxer/Dutch braids running from the forehead back over the scalp and hanging in front of the shoulders, centre part."
+ },
+ "haircut:braids--french-braid": {
+  "name": "braids-french-braid.jpg",
+  "title": "French braid",
+  "face": "Ghanaian woman, dark skin, 38, freckles, broad nose",
+  "core": "French braid (Braids) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: none. Texture/finish: french braid; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. Hair woven into 3-strand or rope patterns; protective when not tight (AAD)."
+ },
+ "haircut:braids--fishtail-braid": {
+  "name": "braids-fishtail-braid.jpg",
+  "title": "Fishtail braid",
+  "face": "Ghanaian woman, dark skin, 30, full lips, square jaw",
+  "core": "Fishtail braid (Braids) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: middle part. Texture/finish: fishtail; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. Hair woven into 3-strand or rope patterns; protective when not tight (AAD)."
+ },
+ "haircut:braids--bubble-braids": {
+  "name": "braids-bubble-braids.jpg",
+  "title": "Bubble braids",
+  "face": "Ethiopian woman, brown skin, 47, dark brown eyes, square jaw",
+  "core": "Bubble braids (Braids) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: middle part. Texture/finish: bubble braid; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. Hair woven into 3-strand or rope patterns; protective when not tight (AAD)."
+ },
+ "haircut:braids--crown-braid": {
+  "name": "braids-crown-braid.jpg",
+  "title": "Crown braid",
+  "face": "Ghanaian woman, dark skin, 23, beauty mark on cheek, broad nose",
+  "core": "Crown braid (Braids) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: middle part. Texture/finish: crown braid; volume medium. Styled as crown, face and hairline visible. Hair falls over the shoulders and front of chest so the full length is visible in frame. Hair woven into 3-strand or rope patterns; protective when not tight (AAD)."
+ },
+ "haircut:braids--waterfall-braid": {
+  "name": "braids-waterfall-braid.jpg",
+  "title": "Waterfall braid",
+  "face": "Ethiopian woman, brown skin, 31, square jaw, broad nose",
+  "core": "Waterfall braid (Braids) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: middle part. Texture/finish: waterfall braid; volume medium. Styled as half up, face and hairline visible. Hair falls over the shoulders and front of chest so the full length is visible in frame. Hair woven into 3-strand or rope patterns; protective when not tight (AAD)."
+ },
+ "haircut:braids--braided-accents-with-bows": {
+  "name": "braids-braided-accents-with-bows.jpg",
+  "title": "Braided accents with bows",
+  "face": "Afro-Caribbean woman, warm brown skin, 30, wide-set eyes, dimpled cheeks",
+  "core": "Braided accents with bows (Braids) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: blunt full fringe at brow. Parting: middle part. Texture/finish: accent braid; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. Hair woven into 3-strand or rope patterns; protective when not tight (AAD)."
+ },
+ "haircut:butterfly--butterfly-cut": {
+  "name": "butterfly-butterfly-cut.jpg",
+  "title": "Butterfly cut",
+  "face": "white woman, fair skin, 32, hazel eyes, soft features",
+  "core": "Butterfly cut (Butterfly Cut) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: point cut. Layers: short crown layers at cheek/chin over long length. Bangs: curtain bangs parted center, cheekbone length. Parting: middle part. Texture/finish: blowout; volume high. Hair falls over the shoulders and front of chest so the full length is visible in frame. Short face-framing crown layers (chin-cheek) over long lengths; mimics a shorter cut when pinned."
+ },
+ "haircut:butterfly--butterfly-cut-with-curtain-bangs": {
+  "name": "butterfly-butterfly-cut-with-curtain-bangs.jpg",
+  "title": "Butterfly cut with curtain bangs",
+  "face": "Mexican woman, olive-tan skin, 41, small nose, gap-less natural smile lines",
+  "core": "Butterfly cut with curtain bangs (Butterfly Cut) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: point cut. Layers: short crown layers at cheek/chin over long length. Bangs: long curtain bangs to the jaw. Parting: middle part. Texture/finish: blowout; volume high. Hair falls over the shoulders and front of chest so the full length is visible in frame. Short face-framing crown layers (chin-cheek) over long lengths; mimics a shorter cut when pinned."
+ },
+ "haircut:curtains": {
+  "name": "curtains.jpg",
+  "title": "Wavy butterfly cut",
+  "face": "Korean woman, light skin, 37, broad nose, green eyes",
+  "core": "WAVY BUTTERFLY CUT: long layered hair with short face-framing layers at the cheekbones blending into long layers, big bouncy blow-out waves, brunette."
+ },
+ "haircut:butterfly--butterfly-without-bangs": {
+  "name": "butterfly-butterfly-without-bangs.jpg",
+  "title": "Butterfly without bangs",
+  "face": "French woman, light skin, 41, soft features, dimpled cheeks",
+  "core": "Butterfly without bangs (Butterfly Cut) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: point cut. Layers: short crown layers at cheek/chin over long length. Bangs: no bangs. Parting: middle part. Texture/finish: blowout; volume high. Hair falls over the shoulders and front of chest so the full length is visible in frame. Short face-framing crown layers (chin-cheek) over long lengths; mimics a shorter cut when pinned."
+ },
+ "haircut:buzz--buzz-cut": {
+  "name": "buzz-buzz-cut.jpg",
+  "title": "Buzz cut",
+  "face": "Filipino woman, tan skin, 41, wide-set eyes, hazel eyes",
+  "core": "WOMEN'S BUZZ CUT: hair clipped evenly to 5 mm all over the head, the scalp shape visible, soft natural hairline."
+ },
+ "haircut:buzz--shaved-head": {
+  "name": "buzz-shaved-head.jpg",
+  "title": "Shaved head",
+  "face": "Irish woman, freckled pale skin, 32, full lips, long narrow face",
+  "core": "SHAVED HEAD: completely shaved smooth bald head, no hair."
+ },
+ "haircut:buzz--textured-crop": {
+  "name": "buzz-textured-crop.jpg",
+  "title": "Textured crop",
+  "face": "Persian woman, light olive skin, 26, freckles, dimpled cheeks",
+  "core": "WOMEN'S TEXTURED CROP: very short 4 cm messy textured top pushed slightly forward, short tapered sides, choppy."
+ },
+ "haircut:buzz--short-natural-twa-crop": {
+  "name": "buzz-short-natural-twa-crop.jpg",
+  "title": "Short natural afro crop",
+  "face": "African American woman, medium brown skin, 46, soft features, dimpled cheeks",
+  "core": "Short natural TWA crop (Buzz Cut & Shaved) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 4 cm, ending at the crop. Perimeter: tapered. Layers: no layers (one length). Bangs: no bangs. Parting: none. Texture/finish: coil; volume medium. Nape/sides: clipper. Clipper cut, uniform or near-uniform short length; exposes head shape."
+ },
+ "haircut:buzz--bleached-buzz-cut": {
+  "name": "buzz-bleached-buzz-cut.jpg",
+  "title": "Bleached buzz cut",
+  "face": "Persian woman, light olive skin, 45, round face, high cheekbones",
+  "core": "Bleached buzz cut (Buzz Cut & Shaved) hairstyle on the woman with straight to wavy hair. Longest length about 1 cm, ending at the buzz. Perimeter: tapered. Layers: no layers (one length). Bangs: no bangs. Parting: none. Texture/finish: bleached; volume medium. Nape/sides: clipper. Clipper cut, uniform or near-uniform short length; exposes head shape."
+ },
+ "haircut:buzz--buzz-cut-with-skin-fade": {
+  "name": "buzz-buzz-cut-with-skin-fade.jpg",
+  "title": "Buzz cut with skin fade",
+  "face": "Indian woman, brown skin, 24, green eyes, angular face",
+  "core": "Buzz cut with skin fade (Buzz Cut & Shaved) hairstyle on the woman with straight to wavy hair. Longest length about 1 cm, ending at the buzz. Perimeter: tapered. Layers: no layers (one length). Bangs: no bangs. Parting: none. Texture/finish: natural; volume medium. Nape/sides: fade. Clipper cut, uniform or near-uniform short length; exposes head shape."
+ },
+ "haircut:buzz--buzz-with-design": {
+  "name": "buzz-buzz-with-design.jpg",
+  "title": "Buzz with design",
+  "face": "Irish woman, freckled pale skin, 42, broad nose, wide-set eyes",
+  "core": "Buzz with design (Buzz Cut & Shaved) hairstyle on the woman with straight to wavy hair. Longest length about 1 cm, ending at the buzz. Perimeter: tapered. Layers: no layers (one length). Bangs: no bangs. Parting: none. Texture/finish: natural; volume medium. Nape/sides: design. Clipper cut, uniform or near-uniform short length; exposes head shape."
+ },
+ "haircut:coily--afro": {
+  "name": "coily-afro.jpg",
+  "title": "Afro",
+  "face": "Nigerian woman, very dark skin, 21, heart-shaped face, broad nose",
+  "core": "AFRO: big round full natural 4C coily afro picked out evenly into a large sphere around the head, black."
+ },
+ "haircut:coily--big-afro": {
+  "name": "coily-big-afro.jpg",
+  "title": "Big afro",
+  "face": "Black woman, deep brown skin, 48, hazel eyes, beauty mark on cheek",
+  "core": "Big afro (Coily & Natural Styles (type 4)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 32 cm, ending at the shoulder. Perimeter: rounded. Layers: round curl-by-curl layering for shape. Bangs: no bangs. Parting: none. Texture/finish: coil; volume very_high. Natural type 4 textures; shrinkage up to ~75% (hair.com/Allure); shape cut dry."
+ },
+ "haircut:coily--twa-teeny-weeny-afro": {
+  "name": "coily-twa-teeny-weeny-afro.jpg",
+  "title": "Teeny weeny afro",
+  "face": "Ghanaian woman, dark skin, 23, small nose, oval face",
+  "core": "TWA (teeny weeny afro) (Coily & Natural Styles (type 4)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 4 cm, ending at the crop. Perimeter: rounded. Layers: round curl-by-curl layering for shape. Bangs: no bangs. Parting: none. Texture/finish: coil; volume high. Natural type 4 textures; shrinkage up to ~75% (hair.com/Allure); shape cut dry."
+ },
+ "haircut:coily--tapered-afro": {
+  "name": "coily-tapered-afro.jpg",
+  "title": "Tapered afro",
+  "face": "Nigerian woman, very dark skin, 24, strong brows, full lips",
+  "core": "Tapered afro (Coily & Natural Styles (type 4)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 14 cm, ending at the ear. Perimeter: rounded. Layers: round curl-by-curl layering for shape. Bangs: no bangs. Parting: none. Texture/finish: coil; volume high. Nape/sides: tapered. Natural type 4 textures; shrinkage up to ~75% (hair.com/Allure); shape cut dry."
+ },
+ "haircut:coily--wash-and-go": {
+  "name": "coily-wash-and-go.jpg",
+  "title": "Wash and go",
+  "face": "Black woman, deep brown skin, 28, beauty mark on cheek, dark brown eyes",
+  "core": "Wash and go (Coily & Natural Styles (type 4)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 32 cm, ending at the shoulder. Perimeter: rounded. Layers: round curl-by-curl layering for shape. Bangs: no bangs. Parting: none. Texture/finish: coil defined; volume high. Natural type 4 textures; shrinkage up to ~75% (hair.com/Allure); shape cut dry."
+ },
+ "haircut:coily--afro-puff": {
+  "name": "coily-afro-puff.jpg",
+  "title": "Afro puff",
+  "face": "Ghanaian woman, dark skin, 45, heart-shaped face, small nose",
+  "core": "Afro puff (Coily & Natural Styles (type 4)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 21 cm, ending at the chin. Perimeter: rounded. Layers: round curl-by-curl layering for shape. Bangs: no bangs. Parting: none. Texture/finish: coil; volume high. Styled as puff, face and hairline visible. Natural type 4 textures; shrinkage up to ~75% (hair.com/Allure); shape cut dry."
+ },
+ "haircut:coily--afro-puffs-two": {
+  "name": "coily-afro-puffs-two.jpg",
+  "title": "Afro puffs",
+  "face": "Nigerian woman, very dark skin, 40, full lips, long narrow face",
+  "core": "Afro puffs (two) (Coily & Natural Styles (type 4)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 21 cm, ending at the chin. Perimeter: rounded. Layers: round curl-by-curl layering for shape. Bangs: no bangs. Parting: none. Texture/finish: coil; volume high. Styled as double puff, face and hairline visible. Natural type 4 textures; shrinkage up to ~75% (hair.com/Allure); shape cut dry."
+ },
+ "haircut:coily--twist-out": {
+  "name": "coily-twist-out.jpg",
+  "title": "Twist-out",
+  "face": "Black woman, dark brown skin, 29, full lips, dark brown eyes",
+  "core": "Twist-out (Coily & Natural Styles (type 4)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 21 cm, ending at the chin. Perimeter: rounded. Layers: round curl-by-curl layering for shape. Bangs: no bangs. Parting: none. Texture/finish: twist out; volume high. Natural type 4 textures; shrinkage up to ~75% (hair.com/Allure); shape cut dry."
+ },
+ "haircut:coily--braid-out": {
+  "name": "coily-braid-out.jpg",
+  "title": "Braid-out",
+  "face": "Nigerian woman, very dark skin, 33, full lips, dimpled cheeks",
+  "core": "Braid-out (Coily & Natural Styles (type 4)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 21 cm, ending at the chin. Perimeter: rounded. Layers: round curl-by-curl layering for shape. Bangs: no bangs. Parting: none. Texture/finish: braid out; volume high. Natural type 4 textures; shrinkage up to ~75% (hair.com/Allure); shape cut dry."
+ },
+ "haircut:coily--bantu-knot-out": {
+  "name": "coily-bantu-knot-out.jpg",
+  "title": "Bantu knot-out",
+  "face": "Ghanaian woman, dark skin, 48, long narrow face, angular face",
+  "core": "Bantu knot-out (Coily & Natural Styles (type 4)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 21 cm, ending at the chin. Perimeter: rounded. Layers: round curl-by-curl layering for shape. Bangs: no bangs. Parting: none. Texture/finish: knot out; volume high. Natural type 4 textures; shrinkage up to ~75% (hair.com/Allure); shape cut dry."
+ },
+ "haircut:coily--silk-press": {
+  "name": "coily-silk-press.jpg",
+  "title": "Silk press",
+  "face": "African American woman, medium brown skin, 25, hazel eyes, broad nose",
+  "core": "Silk press (Coily & Natural Styles (type 4)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 45 cm, ending at the armpit. Perimeter: blunt. Layers: round curl-by-curl layering for shape. Bangs: no bangs. Parting: middle part. Texture/finish: silk press; volume medium. Natural type 4 textures; shrinkage up to ~75% (hair.com/Allure); shape cut dry."
+ },
+ "haircut:coily--pineapple-updo": {
+  "name": "coily-pineapple-updo.jpg",
+  "title": "Pineapple updo",
+  "face": "African American woman, medium brown skin, 34, heart-shaped face, strong brows",
+  "core": "Pineapple updo (Coily & Natural Styles (type 4)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 21 cm, ending at the chin. Perimeter: rounded. Layers: round curl-by-curl layering for shape. Bangs: no bangs. Parting: none. Texture/finish: coil; volume high. Styled as pineapple, face and hairline visible. Natural type 4 textures; shrinkage up to ~75% (hair.com/Allure); shape cut dry."
+ },
+ "haircut:coily--curly-frohawk": {
+  "name": "coily-curly-frohawk.jpg",
+  "title": "Curly frohawk",
+  "face": "African American woman, medium brown skin, 41, broad nose, gap-less natural smile lines",
+  "core": "Curly frohawk (Coily & Natural Styles (type 4)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 21 cm, ending at the chin. Perimeter: rounded. Layers: round curl-by-curl layering for shape. Bangs: no bangs. Parting: none. Texture/finish: coil; volume high. Styled as frohawk, face and hairline visible. Nape/sides: shaved sides. Natural type 4 textures; shrinkage up to ~75% (hair.com/Allure); shape cut dry."
+ },
+ "haircut:coily--shaved-sides-natural": {
+  "name": "coily-shaved-sides-natural.jpg",
+  "title": "Shaved sides natural",
+  "face": "Ghanaian woman, dark skin, 34, full lips, angular face",
+  "core": "Shaved sides natural (Coily & Natural Styles (type 4)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 21 cm, ending at the chin. Perimeter: rounded. Layers: round curl-by-curl layering for shape. Bangs: no bangs. Parting: none. Texture/finish: coil; volume high. Nape/sides: shaved sides. Natural type 4 textures; shrinkage up to ~75% (hair.com/Allure); shape cut dry."
+ },
+ "haircut:curly--bouncy-curls": {
+  "name": "curly-bouncy-curls.jpg",
+  "title": "Bouncy curls",
+  "face": "mixed-heritage woman, light brown skin, 27, hazel eyes, full lips",
+  "core": "BOUNCY CURLS: long voluminous bouncy 3B ringlet curls past the shoulders, defined springy coils, brown."
+ },
+ "haircut:female_long_spiral_curls": {
+  "name": "female-long-spiral-curls.jpg",
+  "title": "Long spiral curls",
+  "face": "Brazilian woman, tan skin, 48, broad nose, long narrow face",
+  "core": "LONG SPIRAL CURLS: long tight corkscrew spiral 3C curls falling to the chest, highly defined, dark brown."
+ },
+ "haircut:female_bobcut_curly": {
+  "name": "female-bobcut-curly.jpg",
+  "title": "Curly bob",
+  "face": "Afro-Latina woman, caramel skin, 29, green eyes, hazel eyes",
+  "core": "CURLY BOB: chin-length bob of defined 3A-3B curls, rounded shape, dark brown."
+ },
+ "haircut:curly--short-curly-bob": {
+  "name": "curly-short-curly-bob.jpg",
+  "title": "Short curly bob",
+  "face": "mixed-heritage woman, light brown skin, 47, long narrow face, high cheekbones",
+  "core": "SHORT CURLY BOB: short ear-to-jaw length bob of tight 3C curls, curly fringe, wide rounded shape."
+ },
+ "haircut:curly--curly-layers-with-bangs": {
+  "name": "curly-curly-layers-with-bangs.jpg",
+  "title": "Curly layers with bangs",
+  "face": "Moroccan woman, olive skin, 34, green eyes, full lips",
+  "core": "Curly layers with bangs (Curly Cuts (type 3)) hairstyle on the woman with naturally curly type 3 hair. Longest length about 32 cm, ending at the shoulder. Perimeter: rounded. Layers: medium layers. Bangs: curly fringe cut dry. Parting: middle part. Texture/finish: curl; volume high. Cut dry, curl by curl, to shape volume (Vogue: cut on actual curl pattern, not stretched)."
+ },
+ "haircut:curly--round-curly-cut": {
+  "name": "curly-round-curly-cut.jpg",
+  "title": "Round curly cut",
+  "face": "Afro-Latina woman, caramel skin, 26, long narrow face, angular face",
+  "core": "Round curly cut (Curly Cuts (type 3)) hairstyle on the woman with naturally curly type 3 hair. Longest length about 32 cm, ending at the shoulder. Perimeter: rounded. Layers: round curl-by-curl layering for shape. Bangs: no bangs. Parting: middle part. Texture/finish: curl; volume high. Cut dry, curl by curl, to shape volume (Vogue: cut on actual curl pattern, not stretched)."
+ },
+ "haircut:curly--curly-collarbone-cut": {
+  "name": "curly-curly-collarbone-cut.jpg",
+  "title": "Curly collarbone cut",
+  "face": "Brazilian woman, tan skin, 28, wide-set eyes, strong brows",
+  "core": "Curly collarbone cut (Curly Cuts (type 3)) hairstyle on the woman with naturally curly type 3 hair. Longest length about 38 cm, ending at the collarbone. Perimeter: rounded. Layers: round curl-by-curl layering for shape. Bangs: no bangs. Parting: middle part. Texture/finish: curl; volume high. Cut dry, curl by curl, to shape volume (Vogue: cut on actual curl pattern, not stretched)."
+ },
+ "haircut:curly--purple-curly": {
+  "name": "curly-purple-curly.jpg",
+  "title": "Purple curly",
+  "face": "Moroccan woman, olive skin, 30, soft features, green eyes",
+  "core": "PURPLE CURLY: shoulder-length defined 3B curls dyed vivid violet-purple."
+ },
+ "haircut:curly--curly-ear-length-cut": {
+  "name": "curly-curly-ear-length-cut.jpg",
+  "title": "Curly ear-length cut",
+  "face": "Afro-Latina woman, caramel skin, 28, freckles, high cheekbones",
+  "core": "Curly ear-length cut (Curly Cuts (type 3)) hairstyle on the woman with naturally curly type 3 hair. Longest length about 14 cm, ending at the ear. Perimeter: rounded. Layers: short layers all over. Bangs: no bangs. Parting: middle part. Texture/finish: curl; volume high. Cut dry, curl by curl, to shape volume (Vogue: cut on actual curl pattern, not stretched)."
+ },
+ "haircut:curly--tapered-curly-cut": {
+  "name": "curly-tapered-curly-cut.jpg",
+  "title": "Tapered curly cut",
+  "face": "Moroccan woman, olive skin, 39, strong brows, broad nose",
+  "core": "Tapered curly cut (Curly Cuts (type 3)) hairstyle on the woman with naturally curly type 3 hair. Longest length about 14 cm, ending at the ear. Perimeter: rounded. Layers: round curl-by-curl layering for shape. Bangs: no bangs. Parting: middle part. Texture/finish: curl; volume high. Nape/sides: tapered. Cut dry, curl by curl, to shape volume (Vogue: cut on actual curl pattern, not stretched)."
+ },
+ "haircut:curly--long-curly-with-face-framing": {
+  "name": "curly-long-curly-with-face-framing.jpg",
+  "title": "Long curly with face-framing",
+  "face": "Black woman, medium brown skin, 39, oval face, angular face",
+  "core": "Long curly with face-framing (Curly Cuts (type 3)) hairstyle on the woman with naturally curly type 3 hair. Longest length about 55 cm, ending at the bra. Perimeter: rounded. Layers: face-framing layers from chin down. Bangs: no bangs. Parting: side part. Texture/finish: curl; volume high. Hair falls over the shoulders and front of chest so the full length is visible in frame. Cut dry, curl by curl, to shape volume (Vogue: cut on actual curl pattern, not stretched)."
+ },
+ "haircut:curly--half-up-curls": {
+  "name": "curly-half-up-curls.jpg",
+  "title": "Half-up curls",
+  "face": "Brazilian woman, tan skin, 41, high cheekbones, heart-shaped face",
+  "core": "HALF-UP CURLS: shoulder-length 3B curls with the top section gathered into a small curly knot at the crown, rest loose."
+ },
+ "haircut:curtain-bangs--long-hair-with-curtain-bangs": {
+  "name": "curtain-bangs-long-hair-with-curtain-bangs.jpg",
+  "title": "Long hair with curtain bangs",
+  "face": "Japanese woman, fair skin, 33, angular face, round face",
+  "core": "Long hair with curtain bangs (Curtain Bangs Styles) hairstyle on the woman with straight to wavy hair. Longest length about 45 cm, ending at the armpit. Perimeter: point cut. Layers: face-framing layers from chin down. Bangs: curtain bangs parted center, cheekbone length. Parting: middle part. Texture/finish: blowout; volume medium. Center-parted fringe sweeping to both sides, blending into face-framing."
+ },
+ "haircut:curtain-bangs--curtain-bangs-wavy": {
+  "name": "curtain-bangs-curtain-bangs-wavy.jpg",
+  "title": "Curtain bangs wavy",
+  "face": "Lebanese woman, olive skin, 41, beauty mark on cheek, dimpled cheeks",
+  "core": "CURTAIN BANGS WAVY: long soft waves with cheekbone-length curtain bangs parted in the centre sweeping to both sides, light brown."
+ },
+ "haircut:curtain-bangs--red-wavy-curtain-bangs": {
+  "name": "curtain-bangs-red-wavy-curtain-bangs.jpg",
+  "title": "Red wavy curtain bangs",
+  "face": "Latina woman, tan skin, 34, oval face, high cheekbones",
+  "core": "RED WAVY CURTAIN BANGS: long auburn-red wavy hair with centre-parted curtain bangs framing the face."
+ },
+ "haircut:curtain-bangs--birkin-bangs": {
+  "name": "curtain-bangs-birkin-bangs.jpg",
+  "title": "Birkin bangs",
+  "face": "Lebanese woman, olive skin, 48, green eyes, broad nose",
+  "core": "Birkin bangs (Curtain Bangs Styles) hairstyle on the woman with straight to wavy hair. Longest length about 45 cm, ending at the armpit. Perimeter: point cut. Layers: face-framing layers from chin down. Bangs: Birkin bangs, airy, brushing lashes. Parting: none. Texture/finish: blowout; volume medium. Center-parted fringe sweeping to both sides, blending into face-framing."
+ },
+ "haircut:curtain-bangs--bottleneck-bangs": {
+  "name": "curtain-bangs-bottleneck-bangs.jpg",
+  "title": "Bottleneck bangs",
+  "face": "Turkish woman, light olive skin, 24, heart-shaped face, green eyes",
+  "core": "Bottleneck bangs (Curtain Bangs Styles) hairstyle on the woman with straight to wavy hair. Longest length about 45 cm, ending at the armpit. Perimeter: point cut. Layers: face-framing layers from chin down. Bangs: bottleneck bangs: short at center, widening to cheek. Parting: middle part. Texture/finish: blowout; volume medium. Center-parted fringe sweeping to both sides, blending into face-framing."
+ },
+ "haircut:curtain-bangs--shoulder-cut-with-curtain-bangs": {
+  "name": "curtain-bangs-shoulder-cut-with-curtain-bangs.jpg",
+  "title": "Shoulder cut with curtain bangs",
+  "face": "Turkish woman, light olive skin, 25, angular face, dimpled cheeks",
+  "core": "Shoulder cut with curtain bangs (Curtain Bangs Styles) hairstyle on the woman with straight to wavy hair. Longest length about 32 cm, ending at the shoulder. Perimeter: point cut. Layers: face-framing layers from chin down. Bangs: curtain bangs parted center, cheekbone length. Parting: middle part. Texture/finish: blowout; volume medium. Center-parted fringe sweeping to both sides, blending into face-framing."
+ },
+ "haircut:curtain-bangs--curly-curtain-bangs": {
+  "name": "curtain-bangs-curly-curtain-bangs.jpg",
+  "title": "Curly curtain bangs",
+  "face": "mixed-heritage woman, light brown skin, 25, heart-shaped face, full lips",
+  "core": "Curly curtain bangs (Curtain Bangs Styles) hairstyle on the woman with naturally curly type 3 hair. Longest length about 45 cm, ending at the armpit. Perimeter: point cut. Layers: face-framing layers from chin down. Bangs: curly fringe cut dry. Parting: middle part. Texture/finish: curl; volume medium. Center-parted fringe sweeping to both sides, blending into face-framing."
+ },
+ "haircut:fashion-color--split-rainbow-dye": {
+  "name": "fashion-color-split-rainbow-dye.jpg",
+  "title": "Split rainbow dye",
+  "face": "Scandinavian woman, pale skin, 30, green eyes, dimpled cheeks",
+  "core": "SPLIT DYE: long hair dyed half one colour, half another, split exactly at the centre part, left side bright blue, right side hot pink."
+ },
+ "haircut:fashion-color--neon-root-black-hair": {
+  "name": "fashion-color-neon-root-black-hair.jpg",
+  "title": "Neon root black hair",
+  "face": "Indian woman, brown skin, 43, small nose, freckles",
+  "core": "NEON ROOT BLACK HAIR: long black hair with a bright neon-green root band at the scalp."
+ },
+ "haircut:fashion-color--pink-brown-waves": {
+  "name": "fashion-color-pink-brown-waves.jpg",
+  "title": "Pink-brown waves",
+  "face": "white woman, fair skin, 35, dark brown eyes, beauty mark on cheek",
+  "core": "PINK-BROWN WAVES: long waves, dark brown roots melting into dusty pink mid-lengths and ends."
+ },
+ "haircut:fashion-color--leopard-highlights": {
+  "name": "fashion-color-leopard-highlights.jpg",
+  "title": "Leopard highlights",
+  "face": "Chinese woman, light skin, 40, small nose, dark brown eyes",
+  "core": "LEOPARD HIGHLIGHTS: long brown hair with blonde and black leopard-spot pattern dyed into the lengths."
+ },
+ "haircut:fashion-color--rainbow-highlight-waves": {
+  "name": "fashion-color-rainbow-highlight-waves.jpg",
+  "title": "Rainbow highlight waves",
+  "face": "Indian woman, brown skin, 33, high cheekbones, round face",
+  "core": "RAINBOW HIGHLIGHT WAVES: wavy chin bob with thin rainbow streaks (red, yellow, green, blue, purple) through dark hair."
+ },
+ "haircut:fashion-color--lavender-messy-bob": {
+  "name": "fashion-color-lavender-messy-bob.jpg",
+  "title": "Lavender messy bob",
+  "face": "Lebanese woman, olive skin, 36, broad nose, dimpled cheeks",
+  "core": "LAVENDER MESSY BOB: chin bob, tousled messy texture, pastel lavender colour."
+ },
+ "haircut:fashion-color--mist-violet-bob": {
+  "name": "fashion-color-mist-violet-bob.jpg",
+  "title": "Mist violet bob",
+  "face": "Mexican woman, olive-tan skin, 36, heart-shaped face, dark brown eyes",
+  "core": "MIST VIOLET BOB: sleek straight chin bob in smoky grey-violet colour."
+ },
+ "haircut:fashion-color--pink-pixie": {
+  "name": "fashion-color-pink-pixie.jpg",
+  "title": "Pink pixie",
+  "face": "Filipino woman, tan skin, 29, square jaw, strong brows",
+  "core": "PINK PIXIE: short textured pixie dyed bright bubblegum pink, side-swept fringe."
+ },
+ "haircut:fashion-color--steel-blonde-bob": {
+  "name": "fashion-color-steel-blonde-bob.jpg",
+  "title": "Steel blonde bob",
+  "face": "Turkish woman, light olive skin, 28, strong brows, high cheekbones",
+  "core": "STEEL BLONDE BOB: straight chin bob in icy steel-grey platinum blonde with darker roots."
+ },
+ "haircut:fashion-color--two-tone-blonde-cut": {
+  "name": "fashion-color-two-tone-blonde-cut.jpg",
+  "title": "Two-tone blonde cut",
+  "face": "Turkish woman, light olive skin, 37, soft features, high cheekbones",
+  "core": "TWO-TONE BLONDE CUT: long hair with black top section over platinum blonde underlayer, sharp two-tone contrast."
+ },
+ "haircut:fringe--blunt-bangs-long-straight": {
+  "name": "fringe-blunt-bangs-long-straight.jpg",
+  "title": "Blunt bangs long straight",
+  "face": "Polish woman, fair skin, 34, high cheekbones, strong brows",
+  "core": "BLUNT BANGS LONG STRAIGHT: long straight hair to the chest with a thick blunt eyebrow-skimming straight-across fringe."
+ },
+ "haircut:fringe--wispy-bangs": {
+  "name": "fringe-wispy-bangs.jpg",
+  "title": "Wispy bangs",
+  "face": "Chinese woman, light skin, 43, small nose, wide-set eyes",
+  "core": "Wispy bangs (Fringe / Bangs Styles) hairstyle on the woman with straight to wavy hair. Longest length about 45 cm, ending at the armpit. Perimeter: blunt. Layers: long layers starting below the chin. Bangs: wispy see-through fringe. Parting: none. Texture/finish: straight; volume medium. Fringe is the primary design element; length behind can vary."
+ },
+ "haircut:fringe--side-swept-bangs": {
+  "name": "fringe-side-swept-bangs.jpg",
+  "title": "Side-swept bangs",
+  "face": "white woman, fair skin, 39, small nose, heart-shaped face",
+  "core": "Side-swept bangs (Fringe / Bangs Styles) hairstyle on the woman with straight to wavy hair. Longest length about 45 cm, ending at the armpit. Perimeter: blunt. Layers: long layers starting below the chin. Bangs: side-swept fringe grazing the cheekbone. Parting: side part. Texture/finish: straight; volume medium. Fringe is the primary design element; length behind can vary."
+ },
+ "haircut:fringe--micro-bangs": {
+  "name": "fringe-micro-bangs.jpg",
+  "title": "Micro bangs",
+  "face": "Italian woman, olive skin, 40, hazel eyes, heart-shaped face",
+  "core": "Micro bangs (Fringe / Bangs Styles) hairstyle on the woman with straight to wavy hair. Longest length about 45 cm, ending at the armpit. Perimeter: blunt. Layers: long layers starting below the chin. Bangs: micro bangs well above the brow. Parting: none. Texture/finish: straight; volume medium. Fringe is the primary design element; length behind can vary."
+ },
+ "haircut:fringe--baby-bangs-with-long-hair": {
+  "name": "fringe-baby-bangs-with-long-hair.jpg",
+  "title": "Baby bangs with long hair",
+  "face": "Indian woman, brown skin, 28, beauty mark on cheek, broad nose",
+  "core": "Baby bangs with long hair (Fringe / Bangs Styles) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: long layers starting below the chin. Bangs: baby bangs above brow. Parting: none. Texture/finish: straight; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. Fringe is the primary design element; length behind can vary."
+ },
+ "haircut:fringe--choppy-bangs": {
+  "name": "fringe-choppy-bangs.jpg",
+  "title": "Choppy bangs",
+  "face": "Turkish woman, light olive skin, 22, long narrow face, heart-shaped face",
+  "core": "Choppy bangs (Fringe / Bangs Styles) hairstyle on the woman with straight to wavy hair. Longest length about 45 cm, ending at the armpit. Perimeter: blunt. Layers: long layers starting below the chin. Bangs: choppy textured fringe. Parting: none. Texture/finish: texturized; volume medium. Fringe is the primary design element; length behind can vary."
+ },
+ "haircut:fringe--arched-bangs": {
+  "name": "fringe-arched-bangs.jpg",
+  "title": "Arched bangs",
+  "face": "Scandinavian woman, pale skin, 39, oval face, hazel eyes",
+  "core": "Arched bangs (Fringe / Bangs Styles) hairstyle on the woman with straight to wavy hair. Longest length about 45 cm, ending at the armpit. Perimeter: blunt. Layers: long layers starting below the chin. Bangs: arched bangs curved over brows. Parting: none. Texture/finish: straight; volume medium. Fringe is the primary design element; length behind can vary."
+ },
+ "haircut:fringe--jane-austen-curly-bangs": {
+  "name": "fringe-jane-austen-curly-bangs.jpg",
+  "title": "Jane Austen curly bangs",
+  "face": "Black woman, medium brown skin, 34, strong brows, heart-shaped face",
+  "core": "Jane Austen curly bangs (Fringe / Bangs Styles) hairstyle on the woman with naturally curly type 3 hair. Longest length about 45 cm, ending at the armpit. Perimeter: blunt. Layers: long layers starting below the chin. Bangs: curly fringe cut dry. Parting: none. Texture/finish: curl; volume medium. Fringe is the primary design element; length behind can vary."
+ },
+ "haircut:fringe--see-through-bangs": {
+  "name": "fringe-see-through-bangs.jpg",
+  "title": "See-through bangs",
+  "face": "Italian woman, olive skin, 44, round face, small nose",
+  "core": "See-through bangs (Fringe / Bangs Styles) hairstyle on the woman with straight dark hair. Longest length about 45 cm, ending at the armpit. Perimeter: blunt. Layers: long layers starting below the chin. Bangs: see-through (Korean) fringe, thinned. Parting: none. Texture/finish: c curl; volume medium. Fringe is the primary design element; length behind can vary."
+ },
+ "haircut:graduated-bob--stacked-bob": {
+  "name": "graduated-bob-stacked-bob.jpg",
+  "title": "Stacked bob",
+  "face": "French woman, light skin, 38, broad nose, oval face",
+  "core": "Stacked bob (Graduated / Stacked / A-line Bob) hairstyle on the woman with straight to wavy hair. Longest length about 24 cm, ending at the jaw. Perimeter: stacked. Layers: stacked graduation at the nape. Bangs: no bangs. Parting: side part. Texture/finish: straight; volume high. Nape/sides: tapered. Shorter at the nape, longer toward the front; built with graduation/stacking at the back."
+ },
+ "haircut:graduated-bob--inverted-bob": {
+  "name": "graduated-bob-inverted-bob.jpg",
+  "title": "Inverted bob",
+  "face": "Vietnamese woman, light tan skin, 26, strong brows, dark brown eyes",
+  "core": "Inverted bob (Graduated / Stacked / A-line Bob) hairstyle on the woman with straight to wavy hair. Longest length about 24 cm, ending at the jaw. Perimeter: inverted. Layers: stacked graduation at the nape. Bangs: no bangs. Parting: side part. Texture/finish: straight; volume medium. Nape/sides: tapered. Shorter at the nape, longer toward the front; built with graduation/stacking at the back."
+ },
+ "haircut:graduated-bob--asymmetric-bob": {
+  "name": "graduated-bob-asymmetric-bob.jpg",
+  "title": "Asymmetric bob",
+  "face": "Vietnamese woman, light tan skin, 31, square jaw, gap-less natural smile lines",
+  "core": "Asymmetric bob (Graduated / Stacked / A-line Bob) hairstyle on the woman with straight to wavy hair. Longest length about 24 cm, ending at the jaw. Perimeter: asymmetric. Layers: stacked graduation at the nape. Bangs: no bangs. Parting: deep side part. Texture/finish: straight; volume medium. Nape/sides: tapered. Shorter at the nape, longer toward the front; built with graduation/stacking at the back."
+ },
+ "haircut:graduated-bob--angled-bob-with-side-bangs": {
+  "name": "graduated-bob-angled-bob-with-side-bangs.jpg",
+  "title": "Angled bob with side bangs",
+  "face": "Mexican woman, olive-tan skin, 37, full lips, long narrow face",
+  "core": "Angled bob with side bangs (Graduated / Stacked / A-line Bob) hairstyle on the woman with straight to wavy hair. Longest length about 24 cm, ending at the jaw. Perimeter: a line. Layers: stacked graduation at the nape. Bangs: side-swept fringe grazing the cheekbone. Parting: side part. Texture/finish: straight; volume medium. Nape/sides: tapered. Shorter at the nape, longer toward the front; built with graduation/stacking at the back."
+ },
+ "haircut:graduated-bob--concave-bob": {
+  "name": "graduated-bob-concave-bob.jpg",
+  "title": "Concave bob",
+  "face": "Filipino woman, tan skin, 25, dimpled cheeks, hazel eyes",
+  "core": "Concave bob (Graduated / Stacked / A-line Bob) hairstyle on the woman with straight to wavy hair. Longest length about 24 cm, ending at the jaw. Perimeter: concave. Layers: stacked graduation at the nape. Bangs: no bangs. Parting: side part. Texture/finish: sleek; volume medium. Nape/sides: tapered. Shorter at the nape, longer toward the front; built with graduation/stacking at the back."
+ },
+ "haircut:graduated-bob--undercut-bob": {
+  "name": "graduated-bob-undercut-bob.jpg",
+  "title": "Undercut bob",
+  "face": "Korean woman, light skin, 38, oval face, high cheekbones",
+  "core": "Undercut bob (Graduated / Stacked / A-line Bob) hairstyle on the woman with straight to wavy hair. Longest length about 24 cm, ending at the jaw. Perimeter: blunt. Layers: stacked graduation at the nape. Bangs: no bangs. Parting: side part. Texture/finish: straight; volume medium. Nape/sides: undercut. Shorter at the nape, longer toward the front; built with graduation/stacking at the back."
+ },
+ "haircut:hime--classic-hime-cut": {
+  "name": "hime-classic-hime-cut.jpg",
+  "title": "Classic hime cut",
+  "face": "Japanese woman, fair skin, 46, square jaw, heart-shaped face",
+  "core": "CLASSIC HIME CUT: very long straight black hair, straight blunt bangs, and blunt cheek-length side locks (sidelocks) cut at the cheekbones framing the face, rest long."
+ },
+ "haircut:hime--soft-hime-cut": {
+  "name": "hime-soft-hime-cut.jpg",
+  "title": "Soft hime cut",
+  "face": "Taiwanese woman, fair skin, 29, round face, soft features",
+  "core": "Soft hime cut (Hime Cut) hairstyle on the woman with straight dark hair. Longest length about 62 cm, ending at the mid back. Perimeter: blunt. Layers: blunt cheek-to-chin sidelocks (hime) disconnected from long back. Bangs: see-through (Korean) fringe, thinned. Parting: none. Texture/finish: c curl; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. Blunt full fringe, cheek/chin-length blunt sidelocks (sidelocks = hime), long straight back."
+ },
+ "haircut:hime--short-hime-cut": {
+  "name": "hime-short-hime-cut.jpg",
+  "title": "Short hime cut",
+  "face": "Japanese woman, fair skin, 48, hazel eyes, gap-less natural smile lines",
+  "core": "Short hime cut (Hime Cut) hairstyle on the woman with straight dark hair. Longest length about 32 cm, ending at the shoulder. Perimeter: blunt. Layers: blunt cheek-to-chin sidelocks (hime) disconnected from long back. Bangs: blunt full fringe at brow. Parting: none. Texture/finish: sleek; volume medium. Blunt full fringe, cheek/chin-length blunt sidelocks (sidelocks = hime), long straight back."
+ },
+ "haircut:hime--hime-cut-no-bangs": {
+  "name": "hime-hime-cut-no-bangs.jpg",
+  "title": "Hime cut no bangs",
+  "face": "Chinese woman, light skin, 47, beauty mark on cheek, soft features",
+  "core": "Hime cut no bangs (Hime Cut) hairstyle on the woman with straight dark hair. Longest length about 62 cm, ending at the mid back. Perimeter: blunt. Layers: blunt cheek-to-chin sidelocks (hime) disconnected from long back. Bangs: no bangs. Parting: middle part. Texture/finish: sleek; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. Blunt full fringe, cheek/chin-length blunt sidelocks (sidelocks = hime), long straight back."
+ },
+ "haircut:hime--wavy-hime-cut": {
+  "name": "hime-wavy-hime-cut.jpg",
+  "title": "Wavy hime cut",
+  "face": "Chinese woman, light skin, 27, soft features, beauty mark on cheek",
+  "core": "Wavy hime cut (Hime Cut) hairstyle on the woman with straight dark hair. Longest length about 62 cm, ending at the mid back. Perimeter: blunt. Layers: blunt cheek-to-chin sidelocks (hime) disconnected from long back. Bangs: blunt full fringe at brow. Parting: none. Texture/finish: wavy; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. Blunt full fringe, cheek/chin-length blunt sidelocks (sidelocks = hime), long straight back."
+ },
+ "haircut:j-style--kiripani-raw-cut-bob": {
+  "name": "j-style-kiripani-raw-cut-bob.jpg",
+  "title": "Kiripani raw-cut bob",
+  "face": "Taiwanese woman, fair skin, 34, green eyes, long narrow face",
+  "core": "Kiripani raw-cut bob (Japanese Cuts) hairstyle on the woman with straight dark hair. Longest length about 21 cm, ending at the chin. Perimeter: blunt. Layers: internal/invisible layers. Bangs: see-through (Korean) fringe, thinned. Parting: none. Texture/finish: straight; volume medium. Japanese salon staples: kiripani (raw-cut) bob, jellyfish cut, Japanese layer."
+ },
+ "haircut:j-style--japanese-layered-medium": {
+  "name": "j-style-japanese-layered-medium.jpg",
+  "title": "Japanese layered medium",
+  "face": "Korean woman, light skin, 30, dimpled cheeks, long narrow face",
+  "core": "Japanese layered medium (Japanese Cuts) hairstyle on the woman with straight dark hair. Longest length about 38 cm, ending at the collarbone. Perimeter: blunt. Layers: face-framing layers from chin down. Bangs: see-through (Korean) fringe, thinned. Parting: none. Texture/finish: c curl; volume medium. Japanese salon staples: kiripani (raw-cut) bob, jellyfish cut, Japanese layer."
+ },
+ "haircut:j-style--mash-short-mash-bob": {
+  "name": "j-style-mash-short-mash-bob.jpg",
+  "title": "Mash short",
+  "face": "Japanese woman, fair skin, 43, green eyes, round face",
+  "core": "Mash short (mash bob) (Japanese Cuts) hairstyle on the woman with straight dark hair. Longest length about 14 cm, ending at the ear. Perimeter: rounded. Layers: internal/invisible layers. Bangs: blunt full fringe at brow. Parting: none. Texture/finish: straight; volume medium. Japanese salon staples: kiripani (raw-cut) bob, jellyfish cut, Japanese layer."
+ },
+ "haircut:j-style--gal-style-long-waves": {
+  "name": "j-style-gal-style-long-waves.jpg",
+  "title": "Gal-style long waves",
+  "face": "Chinese woman, light skin, 26, wide-set eyes, heart-shaped face",
+  "core": "Gal-style long waves (Japanese Cuts) hairstyle on the woman with straight dark hair. Longest length about 62 cm, ending at the mid back. Perimeter: blunt. Layers: internal/invisible layers. Bangs: no bangs. Parting: side part. Texture/finish: wavy; volume high. Hair falls over the shoulders and front of chest so the full length is visible in frame. Japanese salon staples: kiripani (raw-cut) bob, jellyfish cut, Japanese layer."
+ },
+ "haircut:k-style--c-curl-perm": {
+  "name": "k-style-c-curl-perm.jpg",
+  "title": "C-curl perm",
+  "face": "Chinese woman, light skin, 38, high cheekbones, soft features",
+  "core": "C-curl perm (Korean Cuts & Perms) hairstyle on the woman with straight dark hair. Longest length about 38 cm, ending at the collarbone. Perimeter: point cut. Layers: face-framing layers from chin down. Bangs: see-through (Korean) fringe, thinned. Parting: middle part. Texture/finish: c curl; volume medium. Salon perms and cuts popular in Korean salons; C-curl inward ends, S-curl waves, build perm volume."
+ },
+ "haircut:k-style--s-curl-perm": {
+  "name": "k-style-s-curl-perm.jpg",
+  "title": "S-curl perm",
+  "face": "Japanese woman, fair skin, 33, freckles, dimpled cheeks",
+  "core": "S-CURL PERM: long hair with soft uniform S-shaped Korean perm waves from mid-length down, dark brown."
+ },
+ "haircut:k-style--build-perm": {
+  "name": "k-style-build-perm.jpg",
+  "title": "Build perm",
+  "face": "Korean woman, light skin, 22, dark brown eyes, soft features",
+  "core": "Build perm (Korean Cuts & Perms) hairstyle on the woman with straight dark hair. Longest length about 55 cm, ending at the bra. Perimeter: point cut. Layers: long layers starting below the chin. Bangs: see-through (Korean) fringe, thinned. Parting: middle part. Texture/finish: s wave; volume high. Hair falls over the shoulders and front of chest so the full length is visible in frame. Salon perms and cuts popular in Korean salons; C-curl inward ends, S-curl waves, build perm volume."
+ },
+ "haircut:k-style--hippie-perm": {
+  "name": "k-style-hippie-perm.jpg",
+  "title": "Hippie perm",
+  "face": "Japanese woman, fair skin, 33, green eyes, long narrow face",
+  "core": "Hippie perm (Korean Cuts & Perms) hairstyle on the woman with straight dark hair. Longest length about 45 cm, ending at the armpit. Perimeter: point cut. Layers: face-framing layers from chin down. Bangs: no bangs. Parting: middle part. Texture/finish: hippie perm; volume medium. Salon perms and cuts popular in Korean salons; C-curl inward ends, S-curl waves, build perm volume."
+ },
+ "haircut:k-style--korean-hush-cut": {
+  "name": "k-style-korean-hush-cut.jpg",
+  "title": "Korean hush cut",
+  "face": "Chinese woman, light skin, 22, broad nose, high cheekbones",
+  "core": "Korean hush cut (Korean Cuts & Perms) hairstyle on the woman with straight dark hair. Longest length about 32 cm, ending at the shoulder. Perimeter: point cut. Layers: feathered layers flicking away from the face. Bangs: see-through (Korean) fringe, thinned. Parting: middle part. Texture/finish: texturized; volume medium. Salon perms and cuts popular in Korean salons; C-curl inward ends, S-curl waves, build perm volume."
+ },
+ "haircut:k-style--tassel-cut": {
+  "name": "k-style-tassel-cut.jpg",
+  "title": "Tassel cut",
+  "face": "Chinese woman, light skin, 35, dark brown eyes, soft features",
+  "core": "Tassel cut (Korean Cuts & Perms) hairstyle on the woman with straight dark hair. Longest length about 32 cm, ending at the shoulder. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: middle part. Texture/finish: sleek; volume medium. Salon perms and cuts popular in Korean salons; C-curl inward ends, S-curl waves, build perm volume."
+ },
+ "haircut:k-style--elizabeth-perm": {
+  "name": "k-style-elizabeth-perm.jpg",
+  "title": "Elizabeth perm",
+  "face": "Taiwanese woman, fair skin, 42, high cheekbones, angular face",
+  "core": "Elizabeth perm (Korean Cuts & Perms) hairstyle on the woman with straight dark hair. Longest length about 32 cm, ending at the shoulder. Perimeter: flipped. Layers: face-framing layers from chin down. Bangs: see-through (Korean) fringe, thinned. Parting: middle part. Texture/finish: s wave; volume medium. Salon perms and cuts popular in Korean salons; C-curl inward ends, S-curl waves, build perm volume."
+ },
+ "haircut:k-style--korean-bob-with-see-through-bangs": {
+  "name": "k-style-korean-bob-with-see-through-bangs.jpg",
+  "title": "Korean bob with see-through bangs",
+  "face": "Korean woman, light skin, 31, soft features, freckles",
+  "core": "Korean bob with see-through bangs (Korean Cuts & Perms) hairstyle on the woman with straight dark hair. Longest length about 21 cm, ending at the chin. Perimeter: point cut. Layers: face-framing layers from chin down. Bangs: see-through (Korean) fringe, thinned. Parting: middle part. Texture/finish: c curl; volume medium. Salon perms and cuts popular in Korean salons; C-curl inward ends, S-curl waves, build perm volume."
+ },
+ "haircut:k-style--hug-perm": {
+  "name": "k-style-hug-perm.jpg",
+  "title": "Hug perm",
+  "face": "Korean woman, light skin, 27, broad nose, gap-less natural smile lines",
+  "core": "Hug perm (Korean Cuts & Perms) hairstyle on the woman with straight dark hair. Longest length about 45 cm, ending at the armpit. Perimeter: point cut. Layers: face-framing layers from chin down. Bangs: long curtain bangs to the jaw. Parting: middle part. Texture/finish: c curl; volume medium. Salon perms and cuts popular in Korean salons; C-curl inward ends, S-curl waves, build perm volume."
+ },
+ "haircut:female_long_straight": {
+  "name": "female-long-straight.jpg",
+  "title": "Long layers",
+  "face": "white woman, fair skin, 40, heart-shaped face, strong brows",
+  "core": "LONG LAYERS: long straight brown hair with visible long V-shaped layers and face-framing pieces."
+ },
+ "haircut:layers--face-framing-layers": {
+  "name": "layers-face-framing-layers.jpg",
+  "title": "Face-framing layers",
+  "face": "Lebanese woman, olive skin, 31, angular face, square jaw",
+  "core": "Face-framing layers (Layered Cuts) hairstyle on the woman with straight to wavy hair. Longest length about 45 cm, ending at the armpit. Perimeter: point cut. Layers: face-framing layers from chin down. Bangs: no bangs. Parting: middle part. Texture/finish: blowout; volume medium. Graduated lengths throughout to add movement and remove weight."
+ },
+ "haircut:layers--c-curl-layers": {
+  "name": "layers-c-curl-layers.jpg",
+  "title": "C-curl layers",
+  "face": "Italian woman, olive skin, 39, dimpled cheeks, dark brown eyes",
+  "core": "C-CURL LAYERS: long layered hair with each layer end curled inward in a C-shape toward the face, Korean-style."
+ },
+ "haircut:layers--caramel-soft-layers": {
+  "name": "layers-caramel-soft-layers.jpg",
+  "title": "Caramel soft layers",
+  "face": "Chinese woman, light skin, 29, small nose, dark brown eyes",
+  "core": "CARAMEL SOFT LAYERS: long soft layers with caramel-brown colour, gentle movement."
+ },
+ "haircut:layers--soft-flipped-layers": {
+  "name": "layers-soft-flipped-layers.jpg",
+  "title": "Soft flipped layers",
+  "face": "Mexican woman, olive-tan skin, 44, strong brows, freckles",
+  "core": "SOFT FLIPPED LAYERS: shoulder-past layers with ends flipped OUTWARD, 90s blow-dry."
+ },
+ "haircut:all_medium_curve_hair": {
+  "name": "all-medium-curve-hair.jpg",
+  "title": "Medium curved layers",
+  "face": "white woman, fair skin, 37, heart-shaped face, dimpled cheeks",
+  "core": "MEDIUM CURVED LAYERS: collarbone-length layers with ends curving softly inward, smooth volume."
+ },
+ "haircut:layers--v-cut-layers": {
+  "name": "layers-v-cut-layers.jpg",
+  "title": "V-cut layers",
+  "face": "Filipino woman, tan skin, 42, long narrow face, soft features",
+  "core": "V-cut layers (Layered Cuts) hairstyle on the woman with straight to wavy hair. Longest length about 62 cm, ending at the mid back. Perimeter: v. Layers: long layers starting below the chin. Bangs: no bangs. Parting: middle part. Texture/finish: blowout; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. Graduated lengths throughout to add movement and remove weight."
+ },
+ "haircut:layers--u-cut-layers": {
+  "name": "layers-u-cut-layers.jpg",
+  "title": "U-cut layers",
+  "face": "French woman, light skin, 45, broad nose, small nose",
+  "core": "U-cut layers (Layered Cuts) hairstyle on the woman with straight to wavy hair. Longest length about 62 cm, ending at the mid back. Perimeter: u. Layers: long layers starting below the chin. Bangs: no bangs. Parting: middle part. Texture/finish: blowout; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. Graduated lengths throughout to add movement and remove weight."
+ },
+ "haircut:layers--90s-blowout-layers": {
+  "name": "layers-90s-blowout-layers.jpg",
+  "title": "90s blowout layers",
+  "face": "Chinese woman, light skin, 34, green eyes, strong brows",
+  "core": "90s blowout layers (Layered Cuts) hairstyle on the woman with straight to wavy hair. Longest length about 45 cm, ending at the armpit. Perimeter: point cut. Layers: face-framing layers from chin down. Bangs: no bangs. Parting: side part. Texture/finish: blowout; volume high. Graduated lengths throughout to add movement and remove weight."
+ },
+ "haircut:all_short_feather_cut": {
+  "name": "all-short-feather-cut.jpg",
+  "title": "Feathered layers",
+  "face": "Scandinavian woman, pale skin, 32, full lips, long narrow face",
+  "core": "FEATHERED LAYERS: long feathered layers blown back away from the face like wings, 70s."
+ },
+ "haircut:layers--mid-length-layered-with-wisps": {
+  "name": "layers-mid-length-layered-with-wisps.jpg",
+  "title": "Mid-length layered with wisps",
+  "face": "Chinese woman, light skin, 43, angular face, strong brows",
+  "core": "MID-LENGTH LAYERED WITH WISPS: collarbone-length layers with thin wispy see-through bangs."
+ },
+ "haircut:layers--soft-chestnut-mid-cut": {
+  "name": "layers-soft-chestnut-mid-cut.jpg",
+  "title": "Soft chestnut mid cut",
+  "face": "Turkish woman, light olive skin, 40, broad nose, wide-set eyes",
+  "core": "SOFT CHESTNUT MID CUT: shoulder-length soft layered cut, rich chestnut brown, side part."
+ },
+ "haircut:layers--ghost-layers": {
+  "name": "layers-ghost-layers.jpg",
+  "title": "Ghost layers",
+  "face": "Irish woman, freckled pale skin, 43, small nose, gap-less natural smile lines",
+  "core": "Ghost layers (Layered Cuts) hairstyle on the woman with straight to wavy hair. Longest length about 45 cm, ending at the armpit. Perimeter: point cut. Layers: internal/invisible layers. Bangs: no bangs. Parting: middle part. Texture/finish: sleek; volume medium. Graduated lengths throughout to add movement and remove weight."
+ },
+ "haircut:female_long_boho_waves": {
+  "name": "female-long-boho-waves.jpg",
+  "title": "Mermaid layers",
+  "face": "Mexican woman, olive-tan skin, 31, soft features, square jaw",
+  "core": "MERMAID LAYERS: long layered hair with loose mermaid beach waves to the chest."
+ },
+ "haircut:layers--long-layers-with-side-bangs": {
+  "name": "layers-long-layers-with-side-bangs.jpg",
+  "title": "Long layers with side bangs",
+  "face": "Indian woman, brown skin, 28, square jaw, small nose",
+  "core": "Long layers with side bangs (Layered Cuts) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: point cut. Layers: long layers starting below the chin. Bangs: side-swept fringe grazing the cheekbone. Parting: side part. Texture/finish: blowout; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. Graduated lengths throughout to add movement and remove weight."
+ },
+ "haircut:layers--headband-flipped-ends": {
+  "name": "layers-headband-flipped-ends.jpg",
+  "title": "Headband flipped ends",
+  "face": "Italian woman, olive skin, 21, full lips, broad nose",
+  "core": "HEADBAND FLIPPED ENDS: shoulder-length hair with a plain black hairband pushing hair back off the forehead and ends flipped outward, 60s."
+ },
+ "haircut:female_medium_straight": {
+  "name": "female-medium-straight.jpg",
+  "title": "Classic lob",
+  "face": "Latina woman, tan skin, 22, long narrow face, soft features",
+  "core": "CLASSIC LOB: straight long bob ending at the collarbone, centre part, sleek."
+ },
+ "haircut:lob--wavy-lob": {
+  "name": "lob-wavy-lob.jpg",
+  "title": "Wavy lob",
+  "face": "Indian woman, brown skin, 25, angular face, green eyes",
+  "core": "WAVY LOB: collarbone-length lob with loose beachy waves."
+ },
+ "haircut:lob--lob-with-fringe": {
+  "name": "lob-lob-with-fringe.jpg",
+  "title": "Lob with fringe",
+  "face": "Scandinavian woman, pale skin, 28, soft features, dark brown eyes",
+  "core": "LOB WITH FRINGE: collarbone-length straight lob with full eyebrow-length bangs."
+ },
+ "haircut:lob--dark-lob-with-bangs": {
+  "name": "lob-dark-lob-with-bangs.jpg",
+  "title": "Dark lob with bangs",
+  "face": "Chinese woman, light skin, 35, hazel eyes, broad nose",
+  "core": "DARK LOB WITH BANGS: espresso-black collarbone lob with wispy bangs."
+ },
+ "haircut:lob--angled-lob": {
+  "name": "lob-angled-lob.jpg",
+  "title": "Angled lob",
+  "face": "Persian woman, light olive skin, 29, heart-shaped face, hazel eyes",
+  "core": "Angled lob (Lob (Long Bob)) hairstyle on the woman with straight to wavy hair. Longest length about 38 cm, ending at the collarbone. Perimeter: a line. Layers: internal/invisible layers. Bangs: no bangs. Parting: side part. Texture/finish: straight; volume medium. Bob that grazes shoulders/collarbone; most versatile mid length."
+ },
+ "haircut:lob--textured-lob": {
+  "name": "lob-textured-lob.jpg",
+  "title": "Textured lob",
+  "face": "Latina woman, tan skin, 26, gap-less natural smile lines, high cheekbones",
+  "core": "Textured lob (Lob (Long Bob)) hairstyle on the woman with straight to wavy hair. Longest length about 38 cm, ending at the collarbone. Perimeter: blunt. Layers: choppy point-cut layers. Bangs: no bangs. Parting: side part. Texture/finish: texturized; volume medium. Bob that grazes shoulders/collarbone; most versatile mid length."
+ },
+ "haircut:lob--shoulder-lob-with-curtain-bangs": {
+  "name": "lob-shoulder-lob-with-curtain-bangs.jpg",
+  "title": "Shoulder lob with curtain bangs",
+  "face": "Italian woman, olive skin, 34, gap-less natural smile lines, wide-set eyes",
+  "core": "Shoulder lob with curtain bangs (Lob (Long Bob)) hairstyle on the woman with straight to wavy hair. Longest length about 32 cm, ending at the shoulder. Perimeter: blunt. Layers: internal/invisible layers. Bangs: curtain bangs parted center, cheekbone length. Parting: middle part. Texture/finish: straight; volume medium. Bob that grazes shoulders/collarbone; most versatile mid length."
+ },
+ "haircut:lob--blunt-lob": {
+  "name": "lob-blunt-lob.jpg",
+  "title": "Blunt lob",
+  "face": "Filipino woman, tan skin, 21, square jaw, high cheekbones",
+  "core": "Blunt lob (Lob (Long Bob)) hairstyle on the woman with straight to wavy hair. Longest length about 38 cm, ending at the collarbone. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: middle part. Texture/finish: sleek; volume medium. Bob that grazes shoulders/collarbone; most versatile mid length."
+ },
+ "haircut:lob--beach-wave-lob": {
+  "name": "lob-beach-wave-lob.jpg",
+  "title": "Beach wave lob",
+  "face": "Italian woman, olive skin, 41, freckles, long narrow face",
+  "core": "Beach wave lob (Lob (Long Bob)) hairstyle on the woman with straight to wavy hair. Longest length about 38 cm, ending at the collarbone. Perimeter: point cut. Layers: internal/invisible layers. Bangs: no bangs. Parting: side part. Texture/finish: beach wave; volume medium. Bob that grazes shoulders/collarbone; most versatile mid length."
+ },
+ "haircut:lob--curly-lob": {
+  "name": "lob-curly-lob.jpg",
+  "title": "Curly lob",
+  "face": "Black woman, medium brown skin, 22, small nose, green eyes",
+  "core": "Curly lob (Lob (Long Bob)) hairstyle on the woman with naturally curly type 3 hair. Longest length about 38 cm, ending at the collarbone. Perimeter: blunt. Layers: medium layers. Bangs: no bangs. Parting: middle part. Texture/finish: curl; volume medium. Bob that grazes shoulders/collarbone; most versatile mid length."
+ },
+ "haircut:lob--flipped-lob": {
+  "name": "lob-flipped-lob.jpg",
+  "title": "Flipped lob",
+  "face": "Persian woman, light olive skin, 33, strong brows, hazel eyes",
+  "core": "Flipped lob (Lob (Long Bob)) hairstyle on the woman with straight to wavy hair. Longest length about 38 cm, ending at the collarbone. Perimeter: flipped. Layers: internal/invisible layers. Bangs: no bangs. Parting: middle part. Texture/finish: blowout; volume medium. Bob that grazes shoulders/collarbone; most versatile mid length."
+ },
+ "haircut:lob--side-part-lob": {
+  "name": "lob-side-part-lob.jpg",
+  "title": "Side-part lob",
+  "face": "Italian woman, olive skin, 36, small nose, gap-less natural smile lines",
+  "core": "Side-part lob (Lob (Long Bob)) hairstyle on the woman with straight to wavy hair. Longest length about 38 cm, ending at the collarbone. Perimeter: blunt. Layers: internal/invisible layers. Bangs: no bangs. Parting: deep side part. Texture/finish: sleek; volume medium. Bob that grazes shoulders/collarbone; most versatile mid length."
+ },
+ "haircut:lob--layered-lob": {
+  "name": "lob-layered-lob.jpg",
+  "title": "Layered lob",
+  "face": "Mexican woman, olive-tan skin, 29, beauty mark on cheek, oval face",
+  "core": "Layered lob (Lob (Long Bob)) hairstyle on the woman with straight to wavy hair. Longest length about 38 cm, ending at the collarbone. Perimeter: blunt. Layers: face-framing layers from chin down. Bangs: no bangs. Parting: middle part. Texture/finish: blowout; volume medium. Bob that grazes shoulders/collarbone; most versatile mid length."
+ },
+ "haircut:locs--medium-locs": {
+  "name": "locs-medium-locs.jpg",
+  "title": "Medium locs",
+  "face": "Ethiopian woman, brown skin, 36, dimpled cheeks, green eyes",
+  "core": "Medium locs (Locs) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: loc; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. Matted/coiled ropes; AAD: thicker & shorter locs pull less."
+ },
+ "haircut:locs--sisterlocks": {
+  "name": "locs-sisterlocks.jpg",
+  "title": "Sisterlocks",
+  "face": "Black woman, deep brown skin, 35, full lips, oval face",
+  "core": "Sisterlocks (Locs) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: sisterloc; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. Matted/coiled ropes; AAD: thicker & shorter locs pull less."
+ },
+ "haircut:locs--faux-locs": {
+  "name": "locs-faux-locs.jpg",
+  "title": "Faux locs",
+  "face": "Ethiopian woman, brown skin, 35, hazel eyes, small nose",
+  "core": "Faux locs (Locs) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: faux loc; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Hair falls over the shoulders and front of chest so the full length is visible in frame. Matted/coiled ropes; AAD: thicker & shorter locs pull less."
+ },
+ "haircut:locs--butterfly-locs": {
+  "name": "locs-butterfly-locs.jpg",
+  "title": "Butterfly locs",
+  "face": "Afro-Caribbean woman, warm brown skin, 36, oval face, freckles",
+  "core": "Butterfly locs (Locs) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 32 cm, ending at the shoulder. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: butterfly loc; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Matted/coiled ropes; AAD: thicker & shorter locs pull less."
+ },
+ "haircut:locs--goddess-locs": {
+  "name": "locs-goddess-locs.jpg",
+  "title": "Goddess locs",
+  "face": "Black woman, dark brown skin, 44, strong brows, square jaw",
+  "core": "Goddess locs (Locs) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: goddess loc; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Hair falls over the shoulders and front of chest so the full length is visible in frame. Matted/coiled ropes; AAD: thicker & shorter locs pull less."
+ },
+ "haircut:locs--loc-bob": {
+  "name": "locs-loc-bob.jpg",
+  "title": "Loc bob",
+  "face": "Afro-Caribbean woman, warm brown skin, 29, small nose, soft features",
+  "core": "Loc bob (Locs) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 21 cm, ending at the chin. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: loc; volume medium. Matted/coiled ropes; AAD: thicker & shorter locs pull less."
+ },
+ "haircut:locs--loc-updo": {
+  "name": "locs-loc-updo.jpg",
+  "title": "Loc updo",
+  "face": "Black woman, deep brown skin, 34, dimpled cheeks, long narrow face",
+  "core": "Loc updo (Locs) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: loc; volume medium. Styled as high bun, face and hairline visible. Hair falls over the shoulders and front of chest so the full length is visible in frame. Matted/coiled ropes; AAD: thicker & shorter locs pull less."
+ },
+ "haircut:locs--freeform-locs-w": {
+  "name": "locs-freeform-locs-w.jpg",
+  "title": "Freeform locs",
+  "face": "Ghanaian woman, dark skin, 27, freckles, square jaw",
+  "core": "FREEFORM LOCS: long organic freeform locs of varied thickness to the chest, natural black."
+ },
+ "haircut:long--long-straight": {
+  "name": "long-long-straight.jpg",
+  "title": "Long straight",
+  "face": "Black woman, dark brown skin, 25, square jaw, oval face",
+  "core": "Long straight (Long Styles) hairstyle on the woman with straight to wavy hair. Longest length about 62 cm, ending at the mid back. Perimeter: point cut. Layers: long layers starting below the chin. Bangs: no bangs. Parting: middle part. Texture/finish: straight; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. Length past the armpit; finish/texture drives the look."
+ },
+ "haircut:female_long_wavy": {
+  "name": "female-long-wavy.jpg",
+  "title": "Long wavy",
+  "face": "Scandinavian woman, pale skin, 37, hazel eyes, dimpled cheeks",
+  "core": "LONG WAVY: very long natural wavy hair to the waist, side part."
+ },
+ "haircut:long--long-boho-waves": {
+  "name": "long-long-boho-waves.jpg",
+  "title": "Long boho waves",
+  "face": "Persian woman, light olive skin, 31, wide-set eyes, angular face",
+  "core": "LONG BOHO WAVES: very long messy undone boho waves, sun-kissed brown."
+ },
+ "haircut:long--beachy-waves": {
+  "name": "long-beachy-waves.jpg",
+  "title": "Beachy waves",
+  "face": "Turkish woman, light olive skin, 28, hazel eyes, long narrow face",
+  "core": "BEACHY WAVES: long textured salt-spray beach waves, piecey, light brown."
+ },
+ "haircut:long--loose-waves": {
+  "name": "long-loose-waves.jpg",
+  "title": "Loose waves",
+  "face": "Vietnamese woman, light tan skin, 21, long narrow face, soft features",
+  "core": "LOOSE WAVES: long hair with big loose open waves."
+ },
+ "haircut:long--romantic-waves": {
+  "name": "long-romantic-waves.jpg",
+  "title": "Romantic waves",
+  "face": "Black woman, dark brown skin, 23, green eyes, small nose",
+  "core": "ROMANTIC WAVES: long glossy big soft curled waves, voluminous, dark."
+ },
+ "haircut:long--gentle-waves": {
+  "name": "long-gentle-waves.jpg",
+  "title": "Gentle waves",
+  "face": "Japanese woman, fair skin, 30, round face, small nose",
+  "core": "GENTLE WAVES: long hair with subtle gentle bends, nearly straight."
+ },
+ "haircut:long--defined-waves": {
+  "name": "long-defined-waves.jpg",
+  "title": "Defined waves",
+  "face": "Polish woman, fair skin, 48, long narrow face, round face",
+  "core": "DEFINED WAVES: chest-length hair with uniform defined S-waves."
+ },
+ "haircut:long--aura-waves": {
+  "name": "long-aura-waves.jpg",
+  "title": "Aura waves",
+  "face": "Turkish woman, light olive skin, 26, high cheekbones, gap-less natural smile lines",
+  "core": "AURA WAVES: long waves with soft halo-like frizz-free volume, glossy."
+ },
+ "haircut:long--goddess-waves": {
+  "name": "long-goddess-waves.jpg",
+  "title": "Goddess waves",
+  "face": "Persian woman, light olive skin, 26, broad nose, round face",
+  "core": "GODDESS WAVES: extremely long waist-length big voluminous waves."
+ },
+ "haircut:all_long_wavy_blonde": {
+  "name": "all-long-wavy-blonde.jpg",
+  "title": "Long blonde waves",
+  "face": "French woman, light skin, 37, soft features, high cheekbones",
+  "core": "LONG BLONDE WAVES: long golden-blonde wavy hair."
+ },
+ "haircut:long--long-crimped-hair": {
+  "name": "long-long-crimped-hair.jpg",
+  "title": "Long crimped hair",
+  "face": "Scandinavian woman, pale skin, 27, hazel eyes, beauty mark on cheek",
+  "core": "LONG CRIMPED HAIR: very long hair with tight zig-zag crimped texture from root to tip."
+ },
+ "haircut:long--loose-crimped-waves": {
+  "name": "long-loose-crimped-waves.jpg",
+  "title": "Loose crimped waves",
+  "face": "Chinese woman, light skin, 24, gap-less natural smile lines, broad nose",
+  "core": "LOOSE CRIMPED WAVES: chest-length hair with large loose crimp waves."
+ },
+ "haircut:long--long-s-waves": {
+  "name": "long-long-s-waves.jpg",
+  "title": "Long S-waves",
+  "face": "Black woman, dark brown skin, 41, small nose, heart-shaped face",
+  "core": "LONG S-WAVES: very long hair in tight uniform S-wave pattern."
+ },
+ "haircut:long--long-balayage-waves": {
+  "name": "long-long-balayage-waves.jpg",
+  "title": "Long balayage waves",
+  "face": "Italian woman, olive skin, 29, gap-less natural smile lines, square jaw",
+  "core": "LONG BALAYAGE WAVES: long waves, dark brown roots with hand-painted blonde balayage ends."
+ },
+ "haircut:long--long-red-ombre-waves": {
+  "name": "long-long-red-ombre-waves.jpg",
+  "title": "Long red ombre waves",
+  "face": "Mexican woman, olive-tan skin, 27, dimpled cheeks, long narrow face",
+  "core": "LONG RED OMBRE WAVES: long waves, dark brown roots fading to bright red ends."
+ },
+ "haircut:long--long-honey-highlights": {
+  "name": "long-long-honey-highlights.jpg",
+  "title": "Long honey highlights",
+  "face": "Irish woman, freckled pale skin, 46, strong brows, oval face",
+  "core": "LONG HONEY HIGHLIGHTS: long brown hair with honey-blonde highlights."
+ },
+ "haircut:long--waist-length-straight": {
+  "name": "long-waist-length-straight.jpg",
+  "title": "Waist-length straight",
+  "face": "Vietnamese woman, light tan skin, 29, high cheekbones, soft features",
+  "core": "Waist-length straight (Long Styles) hairstyle on the woman with long thick dark hair. Longest length about 72 cm, ending at the waist. Perimeter: point cut. Layers: no layers (one length). Bangs: no bangs. Parting: middle part. Texture/finish: straight; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. Length past the armpit; finish/texture drives the look."
+ },
+ "haircut:long--hip-length-hair": {
+  "name": "long-hip-length-hair.jpg",
+  "title": "Hip-length hair",
+  "face": "Persian woman, light olive skin, 45, full lips, hazel eyes",
+  "core": "Hip-length hair (Long Styles) hairstyle on the woman with long thick dark hair. Longest length about 85 cm, ending at the hip. Perimeter: point cut. Layers: no layers (one length). Bangs: no bangs. Parting: middle part. Texture/finish: straight; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. Length past the armpit; finish/texture drives the look."
+ },
+ "haircut:long--long-sleek-side-part": {
+  "name": "long-long-sleek-side-part.jpg",
+  "title": "Long sleek side part",
+  "face": "Lebanese woman, olive skin, 27, gap-less natural smile lines, oval face",
+  "core": "Long sleek side part (Long Styles) hairstyle on the woman with straight to wavy hair. Longest length about 62 cm, ending at the mid back. Perimeter: point cut. Layers: long layers starting below the chin. Bangs: no bangs. Parting: deep side part. Texture/finish: sleek; volume medium. Hair falls over the shoulders and front of chest so the full length is visible in frame. Length past the armpit; finish/texture drives the look."
+ },
+ "haircut:long--long-hair-money-piece": {
+  "name": "long-long-hair-money-piece.jpg",
+  "title": "Long hair money piece",
+  "face": "French woman, light skin, 46, long narrow face, wide-set eyes",
+  "core": "Long hair money piece (Long Styles) hairstyle on the woman with straight to wavy hair. Longest length about 62 cm, ending at the mid back. Perimeter: point cut. Layers: long layers starting below the chin. Bangs: no bangs. Parting: middle part. Texture/finish: blowout; volume medium. Hair color: money piece. Hair falls over the shoulders and front of chest so the full length is visible in frame. Length past the armpit; finish/texture drives the look."
+ },
+ "haircut:mullet--curly-mullet-w": {
+  "name": "mullet-curly-mullet-w.jpg",
+  "title": "Curly mullet",
+  "face": "Latina woman, tan skin, 38, freckles, beauty mark on cheek",
+  "core": "CURLY MULLET: short curly top and sides with longer curly back to the shoulders, curly fringe."
+ },
+ "haircut:mullet--shullet": {
+  "name": "mullet-shullet.jpg",
+  "title": "Shullet",
+  "face": "Turkish woman, light olive skin, 47, beauty mark on cheek, green eyes",
+  "core": "Shullet (Modern Mullet) hairstyle on the woman with straight to wavy hair. Longest length about 38 cm, ending at the collarbone. Perimeter: razored. Layers: heavy crown shag layers, razor/point-cut. Bangs: curtain bangs parted center, cheekbone length. Parting: none. Texture/finish: texturized; volume medium. Nape/sides: long. Short front and sides, long back."
+ },
+ "haircut:pixie--classic-pixie": {
+  "name": "pixie-classic-pixie.jpg",
+  "title": "Classic pixie",
+  "face": "white woman, fair skin, 44, broad nose, angular face",
+  "core": "CLASSIC PIXIE: very short cropped pixie, short side-swept fringe, ears visible, tapered nape."
+ },
+ "haircut:pixie--wispy-fringe-pixie": {
+  "name": "pixie-wispy-fringe-pixie.jpg",
+  "title": "Wispy fringe pixie",
+  "face": "Lebanese woman, olive skin, 24, dark brown eyes, angular face",
+  "core": "WISPY FRINGE PIXIE: short pixie with long wispy fringe over the forehead."
+ },
+ "haircut:pixie--textured-pixie": {
+  "name": "pixie-textured-pixie.jpg",
+  "title": "Textured pixie",
+  "face": "Japanese woman, fair skin, 44, dark brown eyes, oval face",
+  "core": "Textured pixie (Pixie Cut) hairstyle on the woman with straight to wavy hair. Longest length about 7 cm, ending at the pixie. Perimeter: tapered. Layers: short layers all over. Bangs: choppy textured fringe. Parting: side part. Texture/finish: texturized; volume medium. Nape/sides: tapered. Very short all over, cut close at nape and around ears; length concentrated on top/fringe."
+ },
+ "haircut:pixie--long-pixie": {
+  "name": "pixie-long-pixie.jpg",
+  "title": "Long pixie",
+  "face": "Irish woman, freckled pale skin, 22, long narrow face, oval face",
+  "core": "Long pixie (Pixie Cut) hairstyle on the woman with straight to wavy hair. Longest length about 14 cm, ending at the ear. Perimeter: tapered. Layers: short layers all over. Bangs: side-swept fringe grazing the cheekbone. Parting: side part. Texture/finish: texturized; volume medium. Nape/sides: tapered. Very short all over, cut close at nape and around ears; length concentrated on top/fringe."
+ },
+ "haircut:pixie--undercut-pixie": {
+  "name": "pixie-undercut-pixie.jpg",
+  "title": "Undercut pixie",
+  "face": "Irish woman, freckled pale skin, 23, strong brows, heart-shaped face",
+  "core": "Undercut pixie (Pixie Cut) hairstyle on the woman with straight to wavy hair. Longest length about 7 cm, ending at the pixie. Perimeter: tapered. Layers: short layers all over. Bangs: side-swept fringe grazing the cheekbone. Parting: side part. Texture/finish: texturized; volume high. Nape/sides: undercut. Very short all over, cut close at nape and around ears; length concentrated on top/fringe."
+ },
+ "haircut:pixie--asymmetric-pixie": {
+  "name": "pixie-asymmetric-pixie.jpg",
+  "title": "Asymmetric pixie",
+  "face": "Scandinavian woman, pale skin, 29, hazel eyes, round face",
+  "core": "Asymmetric pixie (Pixie Cut) hairstyle on the woman with straight to wavy hair. Longest length about 7 cm, ending at the pixie. Perimeter: asymmetric. Layers: short layers all over. Bangs: long asymmetric side fringe. Parting: deep side part. Texture/finish: texturized; volume medium. Nape/sides: tapered. Very short all over, cut close at nape and around ears; length concentrated on top/fringe."
+ },
+ "haircut:pixie--voluminous-top-pixie": {
+  "name": "pixie-voluminous-top-pixie.jpg",
+  "title": "Voluminous top pixie",
+  "face": "Scandinavian woman, pale skin, 24, round face, square jaw",
+  "core": "Voluminous top pixie (Pixie Cut) hairstyle on the woman with straight to wavy hair. Longest length about 7 cm, ending at the pixie. Perimeter: tapered. Layers: short layers all over. Bangs: no bangs. Parting: none. Texture/finish: texturized; volume high. Nape/sides: tapered. Very short all over, cut close at nape and around ears; length concentrated on top/fringe."
+ },
+ "haircut:pixie--curly-pixie": {
+  "name": "pixie-curly-pixie.jpg",
+  "title": "Curly pixie",
+  "face": "mixed-heritage woman, light brown skin, 37, green eyes, full lips",
+  "core": "Curly pixie (Pixie Cut) hairstyle on the woman with naturally curly type 3 hair. Longest length about 7 cm, ending at the pixie. Perimeter: tapered. Layers: short layers all over. Bangs: side-swept fringe grazing the cheekbone. Parting: side part. Texture/finish: curl; volume medium. Nape/sides: tapered. Very short all over, cut close at nape and around ears; length concentrated on top/fringe."
+ },
+ "haircut:pixie--pixie-with-baby-bangs": {
+  "name": "pixie-pixie-with-baby-bangs.jpg",
+  "title": "Pixie with baby bangs",
+  "face": "Filipino woman, tan skin, 36, dark brown eyes, angular face",
+  "core": "Pixie with baby bangs (Pixie Cut) hairstyle on the woman with straight to wavy hair. Longest length about 7 cm, ending at the pixie. Perimeter: tapered. Layers: short layers all over. Bangs: micro bangs well above the brow. Parting: none. Texture/finish: texturized; volume medium. Nape/sides: tapered. Very short all over, cut close at nape and around ears; length concentrated on top/fringe."
+ },
+ "haircut:pixie--slicked-back-pixie": {
+  "name": "pixie-slicked-back-pixie.jpg",
+  "title": "Slicked-back pixie",
+  "face": "Filipino woman, tan skin, 29, long narrow face, small nose",
+  "core": "Slicked-back pixie (Pixie Cut) hairstyle on the woman with straight to wavy hair. Longest length about 7 cm, ending at the pixie. Perimeter: tapered. Layers: short layers all over. Bangs: no bangs. Parting: none. Texture/finish: sleek; volume medium. Nape/sides: tapered. Very short all over, cut close at nape and around ears; length concentrated on top/fringe."
+ },
+ "haircut:pixie--shaggy-pixie": {
+  "name": "pixie-shaggy-pixie.jpg",
+  "title": "Shaggy pixie",
+  "face": "Italian woman, olive skin, 40, small nose, beauty mark on cheek",
+  "core": "Shaggy pixie (Pixie Cut) hairstyle on the woman with straight to wavy hair. Longest length about 7 cm, ending at the pixie. Perimeter: tapered. Layers: heavy crown shag layers, razor/point-cut. Bangs: choppy textured fringe. Parting: none. Texture/finish: texturized; volume medium. Nape/sides: tapered. Very short all over, cut close at nape and around ears; length concentrated on top/fringe."
+ },
+ "haircut:pixie--mushroom-pixie": {
+  "name": "pixie-mushroom-pixie.jpg",
+  "title": "Mushroom pixie",
+  "face": "Mexican woman, olive-tan skin, 30, dark brown eyes, soft features",
+  "core": "Mushroom pixie (Pixie Cut) hairstyle on the woman with straight to wavy hair. Longest length about 7 cm, ending at the pixie. Perimeter: rounded. Layers: short layers all over. Bangs: blunt full fringe at brow. Parting: none. Texture/finish: texturized; volume medium. Nape/sides: tapered. Very short all over, cut close at nape and around ears; length concentrated on top/fringe."
+ },
+ "haircut:protective--box-braids": {
+  "name": "protective-box-braids.jpg",
+  "title": "Box braids",
+  "face": "Afro-Caribbean woman, warm brown skin, 30, broad nose, soft features",
+  "core": "Box braids (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: box braid; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Hair falls over the shoulders and front of chest so the full length is visible in frame. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--knotless-braids": {
+  "name": "protective-knotless-braids.jpg",
+  "title": "Knotless braids",
+  "face": "Black woman, deep brown skin, 33, strong brows, heart-shaped face",
+  "core": "Knotless braids (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: knotless; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Hair falls over the shoulders and front of chest so the full length is visible in frame. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--small-baby-braids": {
+  "name": "protective-small-baby-braids.jpg",
+  "title": "Small baby braids",
+  "face": "Ghanaian woman, dark skin, 47, long narrow face, freckles",
+  "core": "Small baby braids (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: micro braid; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Hair falls over the shoulders and front of chest so the full length is visible in frame. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--jumbo-box-braids": {
+  "name": "protective-jumbo-box-braids.jpg",
+  "title": "Jumbo box braids",
+  "face": "Black woman, dark brown skin, 21, soft features, freckles",
+  "core": "Jumbo box braids (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: jumbo braid; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Hair falls over the shoulders and front of chest so the full length is visible in frame. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--bob-box-braids": {
+  "name": "protective-bob-box-braids.jpg",
+  "title": "Bob box braids",
+  "face": "African American woman, medium brown skin, 47, angular face, dimpled cheeks",
+  "core": "Bob box braids (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 21 cm, ending at the chin. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: box braid; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--waist-length-knotless": {
+  "name": "protective-waist-length-knotless.jpg",
+  "title": "Waist-length knotless",
+  "face": "Afro-Caribbean woman, warm brown skin, 38, small nose, soft features",
+  "core": "Waist-length knotless (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 72 cm, ending at the waist. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: knotless; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Hair falls over the shoulders and front of chest so the full length is visible in frame. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--fulani-braids": {
+  "name": "protective-fulani-braids.jpg",
+  "title": "Fulani braids",
+  "face": "Afro-Caribbean woman, warm brown skin, 47, small nose, soft features",
+  "core": "Fulani braids (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: fulani; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Hair falls over the shoulders and front of chest so the full length is visible in frame. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--lemonade-braids": {
+  "name": "protective-lemonade-braids.jpg",
+  "title": "Lemonade braids",
+  "face": "Black woman, dark brown skin, 45, hazel eyes, broad nose",
+  "core": "Lemonade braids (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: deep side part. Texture/finish: lemonade; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Hair falls over the shoulders and front of chest so the full length is visible in frame. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--cornrows-straight-back": {
+  "name": "protective-cornrows-straight-back.jpg",
+  "title": "Cornrows straight back",
+  "face": "Afro-Caribbean woman, warm brown skin, 28, square jaw, hazel eyes",
+  "core": "Cornrows straight back (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 32 cm, ending at the shoulder. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: cornrow; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--feed-in-stitch-braids": {
+  "name": "protective-feed-in-stitch-braids.jpg",
+  "title": "Feed-in stitch braids",
+  "face": "Ghanaian woman, dark skin, 33, long narrow face, heart-shaped face",
+  "core": "Feed-in stitch braids (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: stitch braid; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Hair falls over the shoulders and front of chest so the full length is visible in frame. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--tribal-braids": {
+  "name": "protective-tribal-braids.jpg",
+  "title": "Tribal braids",
+  "face": "Ghanaian woman, dark skin, 46, soft features, full lips",
+  "core": "Tribal braids (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: tribal; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Hair falls over the shoulders and front of chest so the full length is visible in frame. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--senegalese-twists": {
+  "name": "protective-senegalese-twists.jpg",
+  "title": "Senegalese twists",
+  "face": "Ghanaian woman, dark skin, 35, small nose, oval face",
+  "core": "Senegalese twists (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: senegalese twist; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Hair falls over the shoulders and front of chest so the full length is visible in frame. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--passion-twists": {
+  "name": "protective-passion-twists.jpg",
+  "title": "Passion twists",
+  "face": "Afro-Caribbean woman, warm brown skin, 46, angular face, freckles",
+  "core": "Passion twists (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 45 cm, ending at the armpit. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: passion twist; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--marley-twists": {
+  "name": "protective-marley-twists.jpg",
+  "title": "Marley twists",
+  "face": "Ethiopian woman, brown skin, 43, wide-set eyes, strong brows",
+  "core": "Marley twists (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: marley twist; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Hair falls over the shoulders and front of chest so the full length is visible in frame. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--two-strand-twists": {
+  "name": "protective-two-strand-twists.jpg",
+  "title": "Two-strand twists",
+  "face": "Afro-Caribbean woman, warm brown skin, 40, angular face, soft features",
+  "core": "Two-strand twists (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 32 cm, ending at the shoulder. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: two strand twist; volume medium. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--mini-twists": {
+  "name": "protective-mini-twists.jpg",
+  "title": "Mini twists",
+  "face": "Ethiopian woman, brown skin, 32, freckles, round face",
+  "core": "Mini twists (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 21 cm, ending at the chin. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: mini twist; volume medium. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--bantu-knots": {
+  "name": "protective-bantu-knots.jpg",
+  "title": "Bantu knots",
+  "face": "Afro-Caribbean woman, warm brown skin, 28, soft features, gap-less natural smile lines",
+  "core": "Bantu knots (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 4 cm, ending at the crop. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: bantu knot; volume medium. Styled as knots, face and hairline visible. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--crochet-curls": {
+  "name": "protective-crochet-curls.jpg",
+  "title": "Crochet curls",
+  "face": "Black woman, deep brown skin, 42, soft features, high cheekbones",
+  "core": "Crochet curls (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 32 cm, ending at the shoulder. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: crochet; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--sew-in-weave": {
+  "name": "protective-sew-in-weave.jpg",
+  "title": "Sew-in weave",
+  "face": "African American woman, medium brown skin, 31, oval face, high cheekbones",
+  "core": "Sew-in weave (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 62 cm, ending at the mid back. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: middle part. Texture/finish: weave; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Hair falls over the shoulders and front of chest so the full length is visible in frame. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--wig-install-straight": {
+  "name": "protective-wig-install-straight.jpg",
+  "title": "Wig install straight",
+  "face": "Ghanaian woman, dark skin, 47, strong brows, soft features",
+  "core": "Wig install straight (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 62 cm, ending at the mid back. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: wig; volume medium. Braiding/twist extensions, neat parts, natural-looking hairline. Hair falls over the shoulders and front of chest so the full length is visible in frame. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--box-braids-high-bun": {
+  "name": "protective-box-braids-high-bun.jpg",
+  "title": "Box braids high bun",
+  "face": "Ghanaian woman, dark skin, 24, green eyes, oval face",
+  "core": "Box braids high bun (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: box braid; volume medium. Styled as high bun, face and hairline visible. Braiding/twist extensions, neat parts, natural-looking hairline. Hair falls over the shoulders and front of chest so the full length is visible in frame. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:protective--half-up-box-braids": {
+  "name": "protective-half-up-box-braids.jpg",
+  "title": "Half-up box braids",
+  "face": "Afro-Caribbean woman, warm brown skin, 37, broad nose, wide-set eyes",
+  "core": "Half-up box braids (Protective Styles (braids & twists with extensions)) hairstyle on the woman with afro-textured type 4 coily hair. Longest length about 55 cm, ending at the bra. Perimeter: blunt. Layers: no layers (one length). Bangs: no bangs. Parting: sections part. Texture/finish: box braid; volume medium. Styled as half up, face and hairline visible. Braiding/twist extensions, neat parts, natural-looking hairline. Hair falls over the shoulders and front of chest so the full length is visible in frame. Extensions braided/twisted from root; AAD: keep loose at hairline, thicker & shorter = less traction, wear \u22646-8 weeks."
+ },
+ "haircut:retro--classic-hollywood-waves": {
+  "name": "retro-classic-hollywood-waves.jpg",
+  "title": "Classic Hollywood waves",
+  "face": "Mexican woman, olive-tan skin, 45, soft features, gap-less natural smile lines",
+  "core": "CLASSIC HOLLYWOOD WAVES: shoulder-length glossy sculpted deep side-part finger waves, 1940s."
+ },
+ "haircut:retro--retro-brown-waves": {
+  "name": "retro-retro-brown-waves.jpg",
+  "title": "Retro brown waves",
+  "face": "white woman, fair skin, 46, hazel eyes, dimpled cheeks",
+  "core": "RETRO BROWN WAVES: chin-length brown pin-curl waves, vintage 1930s."
+ },
+ "haircut:retro--finger-waves-bob": {
+  "name": "retro-finger-waves-bob.jpg",
+  "title": "Finger waves bob",
+  "face": "Polish woman, fair skin, 33, beauty mark on cheek, oval face",
+  "core": "Finger waves bob (Retro & Glam Waves) hairstyle on the woman with straight to wavy hair. Longest length about 21 cm, ending at the chin. Perimeter: u. Layers: long layers starting below the chin. Bangs: no bangs. Parting: deep side part. Texture/finish: finger wave; volume high. Set waves/curls brushed into sculpted S-shapes."
+ },
+ "haircut:retro--victory-rolls": {
+  "name": "retro-victory-rolls.jpg",
+  "title": "Victory rolls",
+  "face": "Black woman, dark brown skin, 39, wide-set eyes, hazel eyes",
+  "core": "Victory rolls (Retro & Glam Waves) hairstyle on the woman with straight to wavy hair. Longest length about 32 cm, ending at the shoulder. Perimeter: u. Layers: long layers starting below the chin. Bangs: no bangs. Parting: deep side part. Texture/finish: pin curl; volume high. Styled as victory rolls, face and hairline visible. Set waves/curls brushed into sculpted S-shapes."
+ },
+ "haircut:retro--60s-bouffant-flip": {
+  "name": "retro-60s-bouffant-flip.jpg",
+  "title": "60s bouffant flip",
+  "face": "Korean woman, light skin, 48, round face, wide-set eyes",
+  "core": "60s bouffant flip (Retro & Glam Waves) hairstyle on the woman with straight to wavy hair. Longest length about 32 cm, ending at the shoulder. Perimeter: flipped. Layers: long layers starting below the chin. Bangs: side-swept fringe grazing the cheekbone. Parting: deep side part. Texture/finish: glam wave; volume very_high. Set waves/curls brushed into sculpted S-shapes."
+ },
+ "haircut:shag": {
+  "name": "shag.jpg",
+  "title": "Wavy shag",
+  "face": "Japanese woman, fair skin, 36, dark brown eyes, freckles",
+  "core": "WAVY SHAG: shoulder-length wavy shag with choppy layers and curtain bangs."
+ },
+ "haircut:short-shag": {
+  "name": "short-shag.jpg",
+  "title": "Face-framing shag",
+  "face": "Vietnamese woman, light tan skin, 26, broad nose, small nose",
+  "core": "FACE-FRAMING SHAG: long shag with lots of short face-framing layers around the face."
+ },
+ "haircut:shag--copper-flipped-shag": {
+  "name": "shag-copper-flipped-shag.jpg",
+  "title": "Copper flipped shag",
+  "face": "Filipino woman, tan skin, 31, strong brows, square jaw",
+  "core": "COPPER FLIPPED SHAG: copper-red shag with outward flipped ends."
+ },
+ "haircut:shag--short-shag": {
+  "name": "shag-short-shag.jpg",
+  "title": "Short shag",
+  "face": "French woman, light skin, 37, wide-set eyes, high cheekbones",
+  "core": "Short shag (Shag) hairstyle on the woman with naturally wavy type 2 hair. Longest length about 24 cm, ending at the jaw. Perimeter: razored. Layers: heavy crown shag layers, razor/point-cut. Bangs: curtain bangs parted center, cheekbone length. Parting: middle part. Texture/finish: wavy; volume high. Choppy, heavy crown layers with thinned ends; volume on top, wispy perimeter."
+ },
+ "haircut:shag--hush-cut": {
+  "name": "shag-hush-cut.jpg",
+  "title": "Hush cut",
+  "face": "Mexican woman, olive-tan skin, 40, hazel eyes, round face",
+  "core": "HUSH CUT: Korean hush cut, shoulder-length with soft wispy layers and see-through bangs."
+ },
+ "haircut:shag--long-shag": {
+  "name": "shag-long-shag.jpg",
+  "title": "Long shag",
+  "face": "Japanese woman, fair skin, 38, beauty mark on cheek, wide-set eyes",
+  "core": "Long shag (Shag) hairstyle on the woman with naturally wavy type 2 hair. Longest length about 55 cm, ending at the bra. Perimeter: razored. Layers: heavy crown shag layers, razor/point-cut. Bangs: curtain bangs parted center, cheekbone length. Parting: middle part. Texture/finish: wavy; volume high. Hair falls over the shoulders and front of chest so the full length is visible in frame. Choppy, heavy crown layers with thinned ends; volume on top, wispy perimeter."
+ },
+ "haircut:shag--curly-shag": {
+  "name": "shag-curly-shag.jpg",
+  "title": "Curly shag",
+  "face": "mixed-heritage woman, light brown skin, 23, full lips, strong brows",
+  "core": "Curly shag (Shag) hairstyle on the woman with naturally curly type 3 hair. Longest length about 32 cm, ending at the shoulder. Perimeter: razored. Layers: heavy crown shag layers, razor/point-cut. Bangs: curly fringe cut dry. Parting: middle part. Texture/finish: curl; volume high. Choppy, heavy crown layers with thinned ends; volume on top, wispy perimeter."
+ },
+ "haircut:shag--shag-with-blunt-bangs": {
+  "name": "shag-shag-with-blunt-bangs.jpg",
+  "title": "Shag with blunt bangs",
+  "face": "Indian woman, brown skin, 46, dimpled cheeks, angular face",
+  "core": "Shag with blunt bangs (Shag) hairstyle on the woman with naturally wavy type 2 hair. Longest length about 32 cm, ending at the shoulder. Perimeter: razored. Layers: heavy crown shag layers, razor/point-cut. Bangs: blunt full fringe at brow. Parting: middle part. Texture/finish: wavy; volume high. Choppy, heavy crown layers with thinned ends; volume on top, wispy perimeter."
+ },
+ "haircut:shag--modern-70s-shag": {
+  "name": "shag-modern-70s-shag.jpg",
+  "title": "Modern 70s shag",
+  "face": "Korean woman, light skin, 36, dimpled cheeks, heart-shaped face",
+  "core": "Modern 70s shag (Shag) hairstyle on the woman with naturally wavy type 2 hair. Longest length about 32 cm, ending at the shoulder. Perimeter: razored. Layers: heavy crown shag layers, razor/point-cut. Bangs: long curtain bangs to the jaw. Parting: middle part. Texture/finish: wavy; volume high. Choppy, heavy crown layers with thinned ends; volume on top, wispy perimeter."
+ },
+ "haircut:shag--short-feather-cut": {
+  "name": "shag-short-feather-cut.jpg",
+  "title": "Short feather cut",
+  "face": "French woman, light skin, 23, oval face, round face",
+  "core": "SHORT FEATHER CUT: short feathered shag at the jaw."
+ },
+ "haircut:shag--straight-shag": {
+  "name": "shag-straight-shag.jpg",
+  "title": "Straight shag",
+  "face": "Black woman, dark brown skin, 29, long narrow face, soft features",
+  "core": "Straight shag (Shag) hairstyle on the woman with naturally wavy type 2 hair. Longest length about 32 cm, ending at the shoulder. Perimeter: razored. Layers: heavy crown shag layers, razor/point-cut. Bangs: curtain bangs parted center, cheekbone length. Parting: middle part. Texture/finish: straight; volume high. Choppy, heavy crown layers with thinned ends; volume on top, wispy perimeter."
+ },
+ "haircut:shag--mixie-mullet-pixie-shag": {
+  "name": "shag-mixie-mullet-pixie-shag.jpg",
+  "title": "Mixie",
+  "face": "Mexican woman, olive-tan skin, 26, beauty mark on cheek, full lips",
+  "core": "Mixie (mullet-pixie shag) (Shag) hairstyle on the woman with naturally wavy type 2 hair. Longest length about 14 cm, ending at the ear. Perimeter: razored. Layers: heavy crown shag layers, razor/point-cut. Bangs: curtain bangs parted center, cheekbone length. Parting: middle part. Texture/finish: wavy; volume high. Nape/sides: long. Choppy, heavy crown layers with thinned ends; volume on top, wispy perimeter."
+ },
+ "haircut:thin-hair--short-blunt-bob-for-fine-hair": {
+  "name": "thin-hair-short-blunt-bob-for-fine-hair.jpg",
+  "title": "Short blunt bob for fine hair",
+  "face": "Italian woman, olive skin, 41, broad nose, soft features",
+  "core": "Short blunt bob for fine hair (Cuts for Fine/Thinning Hair) hairstyle on the woman with straight to wavy hair. Longest length about 21 cm, ending at the chin. Perimeter: blunt. Layers: internal/invisible layers. Bangs: no bangs. Parting: side part. Texture/finish: blowout; volume high. Blunt perimeter keeps ends looking thick; CK: one-length can make fine hair appear thicker."
+ },
+ "haircut:thin-hair--pixie-for-thinning-hair": {
+  "name": "thin-hair-pixie-for-thinning-hair.jpg",
+  "title": "Pixie for thinning hair",
+  "face": "Japanese woman, fair skin, 48, hazel eyes, freckles",
+  "core": "Pixie for thinning hair (Cuts for Fine/Thinning Hair) hairstyle on the woman with straight to wavy hair. Longest length about 7 cm, ending at the pixie. Perimeter: tapered. Layers: short layers all over. Bangs: no bangs. Parting: side part. Texture/finish: blowout; volume high. Blunt perimeter keeps ends looking thick; CK: one-length can make fine hair appear thicker."
+ },
+ "haircut:thin-hair--side-part-volume-lob": {
+  "name": "thin-hair-side-part-volume-lob.jpg",
+  "title": "Side-part volume lob",
+  "face": "Vietnamese woman, light tan skin, 31, round face, broad nose",
+  "core": "Side-part volume lob (Cuts for Fine/Thinning Hair) hairstyle on the woman with straight to wavy hair. Longest length about 32 cm, ending at the shoulder. Perimeter: blunt. Layers: internal/invisible layers. Bangs: no bangs. Parting: deep side part. Texture/finish: blowout; volume high. Blunt perimeter keeps ends looking thick; CK: one-length can make fine hair appear thicker."
+ },
+ "haircut:updo--messy-bun": {
+  "name": "updo-messy-bun.jpg",
+  "title": "Messy bun",
+  "face": "Scandinavian woman, pale skin, 23, high cheekbones, strong brows",
+  "core": "MESSY BUN: hair gathered into a loose messy bun at the back of the head with face tendrils."
+ },
+ "haircut:updo--messy-top-bun-brown": {
+  "name": "updo-messy-top-bun-brown.jpg",
+  "title": "Messy top bun brown",
+  "face": "Chinese woman, light skin, 29, small nose, gap-less natural smile lines",
+  "core": "MESSY TOP BUN: brown hair in a large messy bun on the very top of the head."
+ },
+ "haircut:updo--casual-updo": {
+  "name": "updo-casual-updo.jpg",
+  "title": "Casual updo",
+  "face": "Italian woman, olive skin, 39, round face, full lips",
+  "core": "CASUAL UPDO: loose low twisted updo with soft pieces out."
+ },
+ "haircut:updo--updo-with-bangs": {
+  "name": "updo-updo-with-bangs.jpg",
+  "title": "Updo with bangs",
+  "face": "Irish woman, freckled pale skin, 29, angular face, gap-less natural smile lines",
+  "core": "UPDO WITH BANGS: hair up in a bun with full straight bangs."
+ },
+ "haircut:updo--sleek-low-bun": {
+  "name": "updo-sleek-low-bun.jpg",
+  "title": "Sleek low bun",
+  "face": "Turkish woman, light olive skin, 35, square jaw, dark brown eyes",
+  "core": "Sleek low bun (Updo & Tied Styles) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: point cut. Layers: long layers starting below the chin. Bangs: no bangs. Parting: middle part. Texture/finish: sleek; volume medium. Styled as low bun, face and hairline visible. Hair falls over the shoulders and front of chest so the full length is visible in frame. Requires ~shoulder+ length (updo-worthy). AAD: avoid tight daily pulling."
+ },
+ "haircut:updo--high-ponytail": {
+  "name": "updo-high-ponytail.jpg",
+  "title": "High ponytail",
+  "face": "Latina woman, tan skin, 47, high cheekbones, angular face",
+  "core": "HIGH PONYTAIL: sleek high ponytail at the crown, long tail."
+ },
+ "haircut:updo--low-ponytail": {
+  "name": "updo-low-ponytail.jpg",
+  "title": "Low ponytail",
+  "face": "French woman, light skin, 35, dimpled cheeks, heart-shaped face",
+  "core": "Low ponytail (Updo & Tied Styles) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: point cut. Layers: long layers starting below the chin. Bangs: no bangs. Parting: middle part. Texture/finish: straight; volume medium. Styled as low pony, face and hairline visible. Hair falls over the shoulders and front of chest so the full length is visible in frame. Requires ~shoulder+ length (updo-worthy). AAD: avoid tight daily pulling."
+ },
+ "haircut:updo--half-up-soft-waves": {
+  "name": "updo-half-up-soft-waves.jpg",
+  "title": "Half-up soft waves",
+  "face": "Irish woman, freckled pale skin, 23, soft features, full lips",
+  "core": "HALF-UP SOFT WAVES: top half clipped back, rest in soft waves."
+ },
+ "haircut:updo--kitty-bun": {
+  "name": "updo-kitty-bun.jpg",
+  "title": "Kitty bun",
+  "face": "mixed-heritage woman, light brown skin, 47, oval face, round face",
+  "core": "KITTY BUN: two small buns high on the head like cat ears."
+ },
+ "haircut:updo--space-buns": {
+  "name": "updo-space-buns.jpg",
+  "title": "Space buns",
+  "face": "Irish woman, freckled pale skin, 33, dimpled cheeks, broad nose",
+  "core": "SPACE BUNS: two round buns high on each side."
+ },
+ "haircut:updo--spiral-buns": {
+  "name": "updo-spiral-buns.jpg",
+  "title": "Spiral buns",
+  "face": "French woman, light skin, 46, green eyes, dark brown eyes",
+  "core": "SPIRAL BUNS: two twisted spiral buns."
+ },
+ "haircut:updo--curly-double-buns": {
+  "name": "updo-curly-double-buns.jpg",
+  "title": "Curly double buns",
+  "face": "African American woman, medium brown skin, 38, small nose, long narrow face",
+  "core": "CURLY DOUBLE BUNS: two puff buns of natural curls."
+ },
+ "haircut:updo--curly-space-buns": {
+  "name": "updo-curly-space-buns.jpg",
+  "title": "Curly space buns",
+  "face": "French woman, light skin, 45, long narrow face, small nose",
+  "core": "CURLY SPACE BUNS: two high coily puff space buns."
+ },
+ "haircut:updo--idol-twin-tails": {
+  "name": "updo-idol-twin-tails.jpg",
+  "title": "Idol twin tails",
+  "face": "Lebanese woman, olive skin, 29, long narrow face, beauty mark on cheek",
+  "core": "IDOL TWIN TAILS: two high pigtails on each side, long straight tails, K-pop idol."
+ },
+ "haircut:updo--ballerina-bun": {
+  "name": "updo-ballerina-bun.jpg",
+  "title": "Ballerina bun",
+  "face": "Mexican woman, olive-tan skin, 47, dimpled cheeks, green eyes",
+  "core": "Ballerina bun (Updo & Tied Styles) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: point cut. Layers: long layers starting below the chin. Bangs: no bangs. Parting: none. Texture/finish: sleek; volume medium. Styled as ballet bun, face and hairline visible. Hair falls over the shoulders and front of chest so the full length is visible in frame. Requires ~shoulder+ length (updo-worthy). AAD: avoid tight daily pulling."
+ },
+ "haircut:updo--chignon": {
+  "name": "updo-chignon.jpg",
+  "title": "Chignon",
+  "face": "Vietnamese woman, light tan skin, 25, small nose, strong brows",
+  "core": "Chignon (Updo & Tied Styles) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: point cut. Layers: long layers starting below the chin. Bangs: no bangs. Parting: side part. Texture/finish: straight; volume medium. Styled as chignon, face and hairline visible. Hair falls over the shoulders and front of chest so the full length is visible in frame. Requires ~shoulder+ length (updo-worthy). AAD: avoid tight daily pulling."
+ },
+ "haircut:updo--french-twist": {
+  "name": "updo-french-twist.jpg",
+  "title": "French twist",
+  "face": "Lebanese woman, olive skin, 38, freckles, wide-set eyes",
+  "core": "French twist (Updo & Tied Styles) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: point cut. Layers: long layers starting below the chin. Bangs: no bangs. Parting: none. Texture/finish: straight; volume medium. Styled as french twist, face and hairline visible. Hair falls over the shoulders and front of chest so the full length is visible in frame. Requires ~shoulder+ length (updo-worthy). AAD: avoid tight daily pulling."
+ },
+ "haircut:updo--claw-clip-twist": {
+  "name": "updo-claw-clip-twist.jpg",
+  "title": "Claw clip twist",
+  "face": "Indian woman, brown skin, 28, hazel eyes, oval face",
+  "core": "Claw clip twist (Updo & Tied Styles) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: point cut. Layers: long layers starting below the chin. Bangs: no bangs. Parting: none. Texture/finish: straight; volume medium. Styled as claw clip, face and hairline visible. Hair falls over the shoulders and front of chest so the full length is visible in frame. Requires ~shoulder+ length (updo-worthy). AAD: avoid tight daily pulling."
+ },
+ "haircut:updo--bubble-ponytail": {
+  "name": "updo-bubble-ponytail.jpg",
+  "title": "Bubble ponytail",
+  "face": "French woman, light skin, 46, gap-less natural smile lines, hazel eyes",
+  "core": "Bubble ponytail (Updo & Tied Styles) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: point cut. Layers: long layers starting below the chin. Bangs: no bangs. Parting: none. Texture/finish: straight; volume medium. Styled as bubble pony, face and hairline visible. Hair falls over the shoulders and front of chest so the full length is visible in frame. Requires ~shoulder+ length (updo-worthy). AAD: avoid tight daily pulling."
+ },
+ "haircut:updo--half-up-top-knot": {
+  "name": "updo-half-up-top-knot.jpg",
+  "title": "Half-up top knot",
+  "face": "Japanese woman, fair skin, 42, hazel eyes, heart-shaped face",
+  "core": "Half-up top knot (Updo & Tied Styles) hairstyle on the woman with straight to wavy hair. Longest length about 55 cm, ending at the bra. Perimeter: point cut. Layers: long layers starting below the chin. Bangs: no bangs. Parting: none. Texture/finish: straight; volume medium. Styled as half up knot, face and hairline visible. Hair falls over the shoulders and front of chest so the full length is visible in frame. Requires ~shoulder+ length (updo-worthy). AAD: avoid tight daily pulling."
+ },
+ "haircut:wolf-cut": {
+  "name": "wolf-cut.jpg",
+  "title": "Wolf cut",
+  "face": "Filipino woman, tan skin, 33, freckles, dimpled cheeks",
+  "core": "WOLF CUT: shaggy layered wolf cut with choppy crown layers and curtain bangs."
+ },
+ "haircut:wolf-cut--brunette-long-wolf-cut": {
+  "name": "wolf-cut-brunette-long-wolf-cut.jpg",
+  "title": "Brunette long wolf cut",
+  "face": "Filipino woman, tan skin, 45, hazel eyes, angular face",
+  "core": "BRUNETTE LONG WOLF CUT: long brunette wolf cut with heavy choppy crown layers."
+ },
+ "haircut:wolf-cut--short-wolf-cut": {
+  "name": "wolf-cut-short-wolf-cut.jpg",
+  "title": "Short wolf cut",
+  "face": "Scandinavian woman, pale skin, 37, long narrow face, hazel eyes",
+  "core": "Short wolf cut (Wolf Cut) hairstyle on the woman with straight dark hair. Longest length about 24 cm, ending at the jaw. Perimeter: razored. Layers: very short choppy crown layers disconnected into a longer nape. Bangs: curtain bangs parted center, cheekbone length. Parting: middle part. Texture/finish: texturized; volume high. Nape/sides: long. Shag + mullet hybrid: very short choppy crown, longer wispy nape."
+ },
+ "haircut:wolf-cut--curly-wolf-cut": {
+  "name": "wolf-cut-curly-wolf-cut.jpg",
+  "title": "Curly wolf cut",
+  "face": "Afro-Latina woman, caramel skin, 33, wide-set eyes, square jaw",
+  "core": "Curly wolf cut (Wolf Cut) hairstyle on the woman with naturally curly type 3 hair. Longest length about 32 cm, ending at the shoulder. Perimeter: razored. Layers: very short choppy crown layers disconnected into a longer nape. Bangs: curly fringe cut dry. Parting: middle part. Texture/finish: curl; volume high. Nape/sides: long. Shag + mullet hybrid: very short choppy crown, longer wispy nape."
+ },
+ "haircut:wolf-cut--soft-wolf-cut": {
+  "name": "wolf-cut-soft-wolf-cut.jpg",
+  "title": "Soft wolf cut",
+  "face": "Persian woman, light olive skin, 27, high cheekbones, long narrow face",
+  "core": "Soft wolf cut (Wolf Cut) hairstyle on the woman with straight dark hair. Longest length about 32 cm, ending at the shoulder. Perimeter: razored. Layers: very short choppy crown layers disconnected into a longer nape. Bangs: see-through (Korean) fringe, thinned. Parting: middle part. Texture/finish: straight; volume high. Nape/sides: long. Shag + mullet hybrid: very short choppy crown, longer wispy nape."
+ },
+ "haircut:wolf-cut--hime-wolf-cut": {
+  "name": "wolf-cut-hime-wolf-cut.jpg",
+  "title": "Hime wolf cut",
+  "face": "Turkish woman, light olive skin, 35, square jaw, dimpled cheeks",
+  "core": "Hime wolf cut (Wolf Cut) hairstyle on the woman with straight dark hair. Longest length about 32 cm, ending at the shoulder. Perimeter: razored. Layers: blunt cheek-to-chin sidelocks (hime) disconnected from long back. Bangs: blunt full fringe at brow. Parting: middle part. Texture/finish: texturized; volume high. Nape/sides: long. Shag + mullet hybrid: very short choppy crown, longer wispy nape."
+ }
+}

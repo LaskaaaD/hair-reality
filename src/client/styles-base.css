@@ -1,0 +1,53 @@
+﻿:root {
+  color-scheme: light;
+  --bone: var(--hr-bg);
+  --paper: var(--hr-surface-raised);
+  --ink: var(--hr-ink);
+  --ink-2: var(--hr-ink-muted);
+  --ink-3: var(--hr-ink-muted);
+  --line: var(--hr-line);
+  --accent: var(--hr-accent);
+  --font-display: var(--hr-font-display);
+  --font-ui: var(--hr-font-ui);
+  --page-x: 24px;
+  --s4: 16px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bone);
+  color: var(--ink);
+  font-family: var(--font-ui);
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+*:focus-visible {
+  outline: 2px solid var(--hr-accent);
+  outline-offset: 3px;
+  box-shadow: none;
+}
+
+html, body { overflow-x: clip; }
+
+.e12-capture-angles picture,
+.e12-capture-angles img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  height: auto;
+  object-fit: cover;
+}

@@ -1,0 +1,229 @@
+{
+  "ranked": [
+    {
+      "id": "haircut:crew--ivy-league",
+      "scores": {
+        "hair_behavior": 28,
+        "face_balance": 19,
+        "hairline_forehead": 11,
+        "head_profile": 6,
+        "lifestyle": 10,
+        "features_context": 5,
+        "trend_2026": 5
+      },
+      "verdict": "good",
+      "adaptNote": null,
+      "reason": "A soft broken fringe works with the way your hair already leans forward, and the tapered neckline keeps the shape clean.",
+      "tellYourBarber": "Textured fringe, low taper, keep the sides soft."
+    },
+    {
+      "id": "haircut:curtains--short-curtains-low-taper",
+      "scores": {
+        "hair_behavior": 27,
+        "face_balance": 17,
+        "hairline_forehead": 11,
+        "head_profile": 6,
+        "lifestyle": 10,
+        "features_context": 5,
+        "trend_2026": 5
+      },
+      "verdict": "good",
+      "adaptNote": null,
+      "reason": "Fuller sides keep some width for your oval face, while the short textured top avoids adding height you do not need.",
+      "tellYourBarber": "Scissor-cut sides, textured top, no hard line."
+    },
+    {
+      "id": "haircut:side-part--soft-side-part",
+      "scores": {
+        "hair_behavior": 27,
+        "face_balance": 19,
+        "hairline_forehead": 11,
+        "head_profile": 6,
+        "lifestyle": 10,
+        "features_context": 5,
+        "trend_2026": 5
+      },
+      "verdict": "good",
+      "adaptNote": null,
+      "reason": "The curtain split frames your forehead without a heavy line across it, so the front cowlick has room to move.",
+      "tellYourBarber": "Curtain fringe with a middle split and a low taper."
+    },
+    {
+      "id": "haircut:crop--side-swept-textured-crop",
+      "scores": {
+        "hair_behavior": 28,
+        "face_balance": 18,
+        "hairline_forehead": 11,
+        "head_profile": 6,
+        "lifestyle": 10,
+        "features_context": 5,
+        "trend_2026": 5
+      },
+      "verdict": "good",
+      "adaptNote": null,
+      "reason": "A side sweep follows your natural growth direction, which keeps daily styling to a quick pass with product.",
+      "tellYourBarber": "Side-swept top, tapered neckline, leave it natural."
+    },
+    {
+      "id": "haircut:crop--soft-french-crop-scissor-sides",
+      "scores": {
+        "hair_behavior": 27,
+        "face_balance": 18,
+        "hairline_forehead": 11,
+        "head_profile": 6,
+        "lifestyle": 10,
+        "features_context": 5,
+        "trend_2026": 5
+      },
+      "verdict": "good",
+      "adaptNote": null,
+      "reason": "Short and forward-textured, this top suits medium-density strands that hold shape without much help.",
+      "tellYourBarber": "Short textured top, forward, with a soft taper."
+    },
+    {
+      "id": "haircut:crop--textured-caesar-low-taper",
+      "scores": {
+        "hair_behavior": 27,
+        "face_balance": 16,
+        "hairline_forehead": 11,
+        "head_profile": 6,
+        "lifestyle": 10,
+        "features_context": 5,
+        "trend_2026": 5
+      },
+      "verdict": "good",
+      "adaptNote": null,
+      "reason": "The tight neckline and low sides keep this tidy between visits, and the top stays easy to shape.",
+      "tellYourBarber": "Low taper and a tidy neckline, easy on top."
+    },
+    {
+      "id": "haircut:crop--textured-french-crop-low-taper",
+      "scores": {
+        "hair_behavior": 28,
+        "face_balance": 18,
+        "hairline_forehead": 11,
+        "head_profile": 6,
+        "lifestyle": 10,
+        "features_context": 5,
+        "trend_2026": 5
+      },
+      "verdict": "good",
+      "adaptNote": null,
+      "reason": "Its layered fringe sits over the front cowlick instead of fighting it, which suits straight to slightly wavy hair.",
+      "tellYourBarber": "Layered fringe that breaks up over the cowlick."
+    },
+    {
+      "id": "haircut:fringe--messy-fringe",
+      "scores": {
+        "hair_behavior": 27,
+        "face_balance": 18,
+        "hairline_forehead": 11,
+        "head_profile": 6,
+        "lifestyle": 10,
+        "features_context": 5,
+        "trend_2026": 5
+      },
+      "verdict": "good",
+      "adaptNote": null,
+      "reason": "Moderate length on top balances the width of your forehead and leaves the ears and temples softly framed.",
+      "tellYourBarber": "Medium top, soft temples, nothing too short at the sides."
+    },
+    {
+      "id": "haircut:two-block--korean-two-block-curtain-fringe",
+      "scores": {
+        "hair_behavior": 27,
+        "face_balance": 18,
+        "hairline_forehead": 11,
+        "head_profile": 6,
+        "lifestyle": 10,
+        "features_context": 5,
+        "trend_2026": 5
+      },
+      "verdict": "good",
+      "adaptNote": null,
+      "reason": "A neat part and an even outline read polished, and your hair lies in this direction without being forced.",
+      "tellYourBarber": "Neat side part, even outline, soft finish."
+    },
+    {
+      "id": "haircut:side-part--classic-side-part",
+      "scores": {
+        "hair_behavior": 28,
+        "face_balance": 17,
+        "hairline_forehead": 11,
+        "head_profile": 6,
+        "lifestyle": 10,
+        "features_context": 5,
+        "trend_2026": 5
+      },
+      "verdict": "good",
+      "adaptNote": null,
+      "reason": "The cropped front keeps weight off the forehead, which helps a longer oval face look more balanced from the front.",
+      "tellYourBarber": "Cropped front, textured, low taper behind the ears."
+    },
+    {
+      "id": "haircut:side-part--side-part-fade",
+      "scores": {
+        "hair_behavior": 27,
+        "face_balance": 19,
+        "hairline_forehead": 11,
+        "head_profile": 6,
+        "lifestyle": 10,
+        "features_context": 5,
+        "trend_2026": 5
+      },
+      "verdict": "good",
+      "adaptNote": null,
+      "reason": "Clean sides with a little texture above them give the profile shape without a hard line at the temples.",
+      "tellYourBarber": "Low sides blended up, keep texture on top."
+    },
+    {
+      "id": "haircut:taper--low-taper-fade",
+      "scores": {
+        "hair_behavior": 27,
+        "face_balance": 19,
+        "hairline_forehead": 11,
+        "head_profile": 6,
+        "lifestyle": 10,
+        "features_context": 5,
+        "trend_2026": 5
+      },
+      "verdict": "good",
+      "adaptNote": null,
+      "reason": "This keeps the length you have now on top, so there is nothing to wait for before it works.",
+      "tellYourBarber": "Keep the length on top, just tidy the shape."
+    },
+    {
+      "id": "haircut:taper--tapered-neckline",
+      "scores": {
+        "hair_behavior": 28,
+        "face_balance": 19,
+        "hairline_forehead": 11,
+        "head_profile": 6,
+        "lifestyle": 10,
+        "features_context": 5,
+        "trend_2026": 5
+      },
+      "verdict": "good",
+      "adaptNote": null,
+      "reason": "A forward comb with a ragged edge turns your natural fall into the style instead of a problem.",
+      "tellYourBarber": "Forward-combed fringe with a ragged edge."
+    },
+    {
+      "id": "haircut:asian-fringe--asian-textured-crop",
+      "scores": {
+        "hair_behavior": 27,
+        "face_balance": 16,
+        "hairline_forehead": 11,
+        "head_profile": 6,
+        "lifestyle": 10,
+        "features_context": 5,
+        "trend_2026": 5
+      },
+      "verdict": "good",
+      "adaptNote": null,
+      "reason": "Light tapering behind the ears keeps the silhouette narrow at the neck and full where the face needs it.",
+      "tellYourBarber": "Light taper at the neck, keep the sides full."
+    }
+  ],
+  "notes": "YouCam gave density only; vision supplied curl, growth and lengths, so those were taken as read."
+}

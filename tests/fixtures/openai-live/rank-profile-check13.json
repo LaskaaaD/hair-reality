@@ -1,0 +1,216 @@
+{
+  "profile": {
+    "sex": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "face": {
+      "shape": {
+        "value": "oval",
+        "confidence": 0.67,
+        "source": "vision"
+      },
+      "aspectRatio": {
+        "value": 1.38,
+        "confidence": 0.6,
+        "source": "vision"
+      },
+      "cheekbones": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "jaw": {
+        "value": "average",
+        "confidence": 0.64,
+        "source": "vision"
+      },
+      "forehead": {
+        "value": "average",
+        "confidence": 0.62,
+        "source": "vision"
+      },
+      "asymmetry": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "foreheadWidth": {
+        "value": "average",
+        "confidence": 0.6,
+        "source": "vision"
+      }
+    },
+    "head": {
+      "occipital": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "ears": {
+        "value": "average",
+        "confidence": 0.68,
+        "source": "vision"
+      }
+    },
+    "hair": {
+      "curl": {
+        "value": "1",
+        "confidence": 0.86,
+        "source": "vision"
+      },
+      "density": {
+        "value": 3,
+        "confidence": 0.85,
+        "source": "youcam"
+      },
+      "diameter": {
+        "value": "medium",
+        "confidence": 0.6,
+        "source": "vision"
+      },
+      "growthDirection": {
+        "value": "forward",
+        "confidence": 0.72,
+        "source": "vision"
+      },
+      "cowlickFront": {
+        "value": true,
+        "confidence": 0.65,
+        "source": "vision"
+      },
+      "cowlickCrown": {
+        "value": true,
+        "confidence": 0.58,
+        "source": "vision"
+      },
+      "hairline": {
+        "value": "average",
+        "confidence": 0.68,
+        "source": "vision"
+      },
+      "damage": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "lengthCm": {
+        "value": 7,
+        "confidence": 0.78,
+        "source": "vision"
+      },
+      "frontCm": {
+        "value": 7,
+        "confidence": 0.78,
+        "source": "vision"
+      },
+      "topCm": {
+        "value": 8,
+        "confidence": 0.78,
+        "source": "vision"
+      },
+      "sideCm": {
+        "value": 3.5,
+        "confidence": 0.78,
+        "source": "vision"
+      },
+      "frizz": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      }
+    },
+    "hairLoss": {
+      "temples": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "crown": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "diffuse": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      }
+    },
+    "facialHair": {
+      "style": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "growth": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      }
+    },
+    "body": {
+      "neck": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "shoulders": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      }
+    },
+    "context": {
+      "glasses": {
+        "value": false,
+        "confidence": 0.99,
+        "source": "vision"
+      }
+    },
+    "colour": {
+      "level": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "name": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "skinTone": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "undertone": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      }
+    }
+  },
+  "answers": {
+    "stylingMinutes": "5",
+    "heatStyle": "sometimes",
+    "keep": "nothing",
+    "colourHistory": "unknown",
+    "beardGrowth": "unknown",
+    "presentation": "masculine",
+    "naturalState": "unknown",
+    "chemical": "unknown",
+    "strand": "unknown",
+    "blowdryer": "unknown",
+    "products": "unknown",
+    "canShorten": "no",
+    "canGrow": "no",
+    "forehead": "unknown",
+    "glassesDaily": "unknown",
+    "aesthetic": "classic",
+    "facialHair": "unknown",
+    "cowlick": "unknown"
+  },
+  "likes": []
+}

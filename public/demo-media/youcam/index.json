@@ -1,0 +1,814 @@
+[
+ {
+  "id": "male_short_curly",
+  "title": "Short Curly",
+  "category": "Male",
+  "gender": "men",
+  "file": "male_short_curly.jpg"
+ },
+ {
+  "id": "female_sleek_middle_part",
+  "title": "Sleek Middle Part",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_sleek_middle_part.jpg"
+ },
+ {
+  "id": "female_blunt_bob",
+  "title": "Blunt Bob",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_blunt_bob.jpg"
+ },
+ {
+  "id": "female_s_wave_brunette",
+  "title": "S-Wave Brunette",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_s_wave_brunette.jpg"
+ },
+ {
+  "id": "female_combover",
+  "title": "Combover",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_combover.jpg"
+ },
+ {
+  "id": "female_messy_bun_brown",
+  "title": "Messy Bun Brown",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_messy_bun_brown.jpg"
+ },
+ {
+  "id": "female_two_braids",
+  "title": "Two Braids",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_two_braids.jpg"
+ },
+ {
+  "id": "female_slicked_back_bob",
+  "title": "Slicked-Back Bob",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_slicked_back_bob.jpg"
+ },
+ {
+  "id": "female_retro_brown_waves",
+  "title": "Retro Brown Waves",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_retro_brown_waves.jpg"
+ },
+ {
+  "id": "female_crimped_bob",
+  "title": "Crimped Bob",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_crimped_bob.jpg"
+ },
+ {
+  "id": "female_dark_tone_fringe_bob",
+  "title": "Dark-Tone Fringe Bob",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_dark_tone_fringe_bob.jpg"
+ },
+ {
+  "id": "female_soft_red_ombre_waves",
+  "title": "Soft Red Ombre Waves",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_soft_red_ombre_waves.jpg"
+ },
+ {
+  "id": "female_loose_crimped_waves",
+  "title": "Loose Crimped Waves",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_loose_crimped_waves.jpg"
+ },
+ {
+  "id": "female_buzz_cut",
+  "title": "Buzz Cut",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_buzz_cut.jpg"
+ },
+ {
+  "id": "female_neon_root_black_hair",
+  "title": "Neon Root Black Hair",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_neon_root_black_hair.jpg"
+ },
+ {
+  "id": "female_long_brown_crimps",
+  "title": "Long Brown Crimps",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_long_brown_crimps.jpg"
+ },
+ {
+  "id": "female_bouncy_curls",
+  "title": "Bouncy Curls",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_bouncy_curls.jpg"
+ },
+ {
+  "id": "female_pink_brown_waves",
+  "title": "Pink & Brown Waves",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_pink_brown_waves.jpg"
+ },
+ {
+  "id": "male_gray_taper_fade",
+  "title": "Gray Taper Fade",
+  "category": "Male",
+  "gender": "men",
+  "file": "male_gray_taper_fade.jpg"
+ },
+ {
+  "id": "male_textured_crop",
+  "title": "Textured Crop",
+  "category": "Male",
+  "gender": "men",
+  "file": "male_textured_crop.jpg"
+ },
+ {
+  "id": "male_textured_comma",
+  "title": "Textured Comma",
+  "category": "Male",
+  "gender": "men",
+  "file": "male_textured_comma.jpg"
+ },
+ {
+  "id": "male_afro",
+  "title": "Afro",
+  "category": "Male",
+  "gender": "men",
+  "file": "male_afro.jpg"
+ },
+ {
+  "id": "female_dark_c_curl_layers",
+  "title": "Dark C-Curl Layers",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_dark_c_curl_layers.jpg"
+ },
+ {
+  "id": "female_blunt_fringe_straight",
+  "title": "Blunt Fringe Straight",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_blunt_fringe_straight.jpg"
+ },
+ {
+  "id": "female_afro",
+  "title": "Afro",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_afro.jpg"
+ },
+ {
+  "id": "female_tousled_black_bob",
+  "title": "Tousled black bob",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_tousled_black_bob.jpg"
+ },
+ {
+  "id": "female_casual_updo",
+  "title": "Casual Updo",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_casual_updo.jpg"
+ },
+ {
+  "id": "female_soft_flip",
+  "title": "Soft Flip",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_soft_flip.jpg"
+ },
+ {
+  "id": "female_crewcut",
+  "title": "Crewcut",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_crewcut.jpg"
+ },
+ {
+  "id": "female_brunette_wolf_cut",
+  "title": "Brunette Wolf Cut",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_brunette_wolf_cut.jpg"
+ },
+ {
+  "id": "female_bangs_updo",
+  "title": "Bangs Updo",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_bangs_updo.jpg"
+ },
+ {
+  "id": "male_bald",
+  "title": "Bald",
+  "category": "Male",
+  "gender": "men",
+  "file": "male_bald.jpg"
+ },
+ {
+  "id": "male_wavy_undercut",
+  "title": "Wavy Undercut",
+  "category": "Male",
+  "gender": "men",
+  "file": "male_wavy_undercut.jpg"
+ },
+ {
+  "id": "male_tousled_cut",
+  "title": "Tousled Cut",
+  "category": "Male",
+  "gender": "men",
+  "file": "male_tousled_cut.jpg"
+ },
+ {
+  "id": "female_long_wavy",
+  "title": "Long Wavy",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_long_wavy.jpg"
+ },
+ {
+  "id": "female_bald",
+  "title": "Bald",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_bald.jpg"
+ },
+ {
+  "id": "female_choppy_bob",
+  "title": "Choppy Bob",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_choppy_bob.jpg"
+ },
+ {
+  "id": "female_long_straight",
+  "title": "Long Straight",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_long_straight.jpg"
+ },
+ {
+  "id": "female_soft_chestnut_midcut",
+  "title": "Soft Chestnut Midcut",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_soft_chestnut_midcut.jpg"
+ },
+ {
+  "id": "female_light_brown_wisps",
+  "title": "Light Brown Wisps",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_light_brown_wisps.jpg"
+ },
+ {
+  "id": "female_side_part_straight",
+  "title": "Side-Part Straight",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_side_part_straight.jpg"
+ },
+ {
+  "id": "female_bobcut_curly",
+  "title": "Bobcut Curly",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_bobcut_curly.jpg"
+ },
+ {
+  "id": "female_long_boho_waves",
+  "title": "Long Boho Waves",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_long_boho_waves.jpg"
+ },
+ {
+  "id": "female_messy_bun",
+  "title": "Messy Bun",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_messy_bun.jpg"
+ },
+ {
+  "id": "female_pixie_pink",
+  "title": "Pixie Pink",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_pixie_pink.jpg"
+ },
+ {
+  "id": "female_medium_straight",
+  "title": "Medium Straight",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_medium_straight.jpg"
+ },
+ {
+  "id": "female_bobcut_wavy",
+  "title": "Bobcut Wavy",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_bobcut_wavy.jpg"
+ },
+ {
+  "id": "female_long_spiral_curls",
+  "title": "Long Spiral Curls",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_long_spiral_curls.jpg"
+ },
+ {
+  "id": "female_modern_wavy_lob",
+  "title": "Modern Wavy Lob",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_modern_wavy_lob.jpg"
+ },
+ {
+  "id": "female_fresh_fringe_lob",
+  "title": "Fresh Fringe Lob",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_fresh_fringe_lob.jpg"
+ },
+ {
+  "id": "female_boho_side_braid",
+  "title": "Boho Side Braid",
+  "category": "Female",
+  "gender": "women",
+  "file": "female_boho_side_braid.jpg"
+ },
+ {
+  "id": "all_goddess_waves",
+  "title": "Goddess Waves",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_goddess_waves.jpg"
+ },
+ {
+  "id": "all_bow_accents",
+  "title": "Bow Accents",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_bow_accents.jpg"
+ },
+ {
+  "id": "all_split_rainbow",
+  "title": "Split Rainbow",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_split_rainbow.jpg"
+ },
+ {
+  "id": "all_curly_double_buns",
+  "title": "Curly Double Buns",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_curly_double_buns.jpg"
+ },
+ {
+  "id": "all_leopard_highlights",
+  "title": "Leopard Highlights",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_leopard_highlights.jpg"
+ },
+ {
+  "id": "all_half_up_curls",
+  "title": "Half-Up Curls",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_half_up_curls.jpg"
+ },
+ {
+  "id": "all_crewcut",
+  "title": "Crewcut",
+  "category": "Male",
+  "gender": "unisex",
+  "file": "all_crewcut.jpg"
+ },
+ {
+  "id": "all_messy_tapered_fade",
+  "title": "Messy Tapered Fade",
+  "category": "Male",
+  "gender": "unisex",
+  "file": "all_messy_tapered_fade.jpg"
+ },
+ {
+  "id": "all_tousled_waves",
+  "title": "Tousled Waves",
+  "category": "Male",
+  "gender": "unisex",
+  "file": "all_tousled_waves.jpg"
+ },
+ {
+  "id": "all_blonde_balayage",
+  "title": "Blonde Balayage",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_blonde_balayage.jpg"
+ },
+ {
+  "id": "all_curtain_wavy",
+  "title": "Curtain Wavy",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_curtain_wavy.jpg"
+ },
+ {
+  "id": "all_bobcut",
+  "title": "Bobcut",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_bobcut.jpg"
+ },
+ {
+  "id": "all_caramel_bubble_bob",
+  "title": "Caramel Bubble Bob",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_caramel_bubble_bob.jpg"
+ },
+ {
+  "id": "all_wavy_bob_with_bangs",
+  "title": "Wavy Bob With Bangs",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_wavy_bob_with_bangs.jpg"
+ },
+ {
+  "id": "all_dark_lob_bangs",
+  "title": "Dark Lob & Bangs",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_dark_lob_bangs.jpg"
+ },
+ {
+  "id": "all_long_straight_black",
+  "title": "Long Straight Black",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_long_straight_black.jpg"
+ },
+ {
+  "id": "all_short_bob",
+  "title": "Short Bob",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_short_bob.jpg"
+ },
+ {
+  "id": "all_pixie",
+  "title": "Pixie",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_pixie.jpg"
+ },
+ {
+  "id": "all_dark_kitty_bun",
+  "title": "Dark Kitty Bun",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_dark_kitty_bun.jpg"
+ },
+ {
+  "id": "all_tousled_bob",
+  "title": "Tousled Bob",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_tousled_bob.jpg"
+ },
+ {
+  "id": "all_aura_waves",
+  "title": "Aura Waves",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_aura_waves.jpg"
+ },
+ {
+  "id": "all_spiral_buns",
+  "title": "Spiral Buns",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_spiral_buns.jpg"
+ },
+ {
+  "id": "all_defined_waves",
+  "title": "Defined Waves",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_defined_waves.jpg"
+ },
+ {
+  "id": "all_copper_flipped_shag",
+  "title": "Copper Flipped Shag",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_copper_flipped_shag.jpg"
+ },
+ {
+  "id": "all_dark_idol_twintails",
+  "title": "Dark Idol Twintails",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_dark_idol_twintails.jpg"
+ },
+ {
+  "id": "all_honey_highlight",
+  "title": "Honey Highlight",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_honey_highlight.jpg"
+ },
+ {
+  "id": "all_wavy_shag",
+  "title": "Wavy Shag",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_wavy_shag.jpg"
+ },
+ {
+  "id": "all_curtain_wavy_red",
+  "title": "Curtain Wavy Red",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_curtain_wavy_red.jpg"
+ },
+ {
+  "id": "all_gentle_waves",
+  "title": "Gentle Waves",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_gentle_waves.jpg"
+ },
+ {
+  "id": "all_modern_mid_part_bob",
+  "title": "Modern Mid-Part Bob",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_modern_mid_part_bob.jpg"
+ },
+ {
+  "id": "all_long_wavy_blonde",
+  "title": "Long Wavy Blonde",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_long_wavy_blonde.jpg"
+ },
+ {
+  "id": "all_bixie_cut",
+  "title": "Bixie Cut",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_bixie_cut.jpg"
+ },
+ {
+  "id": "all_violet_space_buns",
+  "title": "Violet Space Buns",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_violet_space_buns.jpg"
+ },
+ {
+  "id": "all_romantic_waves",
+  "title": "Romantic Waves",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_romantic_waves.jpg"
+ },
+ {
+  "id": "all_loose_waves",
+  "title": "Loose Waves",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_loose_waves.jpg"
+ },
+ {
+  "id": "all_beachy",
+  "title": "Beachy",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_beachy.jpg"
+ },
+ {
+  "id": "all_caramel_layers",
+  "title": "Caramel Layers",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_caramel_layers.jpg"
+ },
+ {
+  "id": "all_headband_flipped_ends",
+  "title": "Headband Flipped Ends",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_headband_flipped_ends.jpg"
+ },
+ {
+  "id": "all_curly_space_buns",
+  "title": "Curly Space Buns",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_curly_space_buns.jpg"
+ },
+ {
+  "id": "all_wispy_fringe_pixie",
+  "title": "Wispy Fringe Pixie",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_wispy_fringe_pixie.jpg"
+ },
+ {
+  "id": "all_soft_flipped_layers",
+  "title": "Soft Flipped Layers",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_soft_flipped_layers.jpg"
+ },
+ {
+  "id": "all_half_up_soft_waves",
+  "title": "Half-Up Soft Waves",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_half_up_soft_waves.jpg"
+ },
+ {
+  "id": "all_hime_cut",
+  "title": "Hime Cut",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_hime_cut.jpg"
+ },
+ {
+  "id": "all_pink_blue_fade",
+  "title": "Pink Blue Fade",
+  "category": "Male",
+  "gender": "unisex",
+  "file": "all_pink_blue_fade.jpg"
+ },
+ {
+  "id": "all_highlight_pixie_cut",
+  "title": "Highlight Pixie Cut",
+  "category": "Male",
+  "gender": "unisex",
+  "file": "all_highlight_pixie_cut.jpg"
+ },
+ {
+  "id": "all_high_pony_tail",
+  "title": "High Pony Tail",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_high_pony_tail.jpg"
+ },
+ {
+  "id": "all_steel_blonde_bob",
+  "title": "Steel Blonde Bob",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_steel_blonde_bob.jpg"
+ },
+ {
+  "id": "all_lavender_messy_bob",
+  "title": "Lavender Messy Bob",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_lavender_messy_bob.jpg"
+ },
+ {
+  "id": "all_purple_curly",
+  "title": "Purple Curly",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_purple_curly.jpg"
+ },
+ {
+  "id": "all_mist_violet_bob",
+  "title": "Mist Violet Bob",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_mist_violet_bob.jpg"
+ },
+ {
+  "id": "all_highlight_wave_rainbow",
+  "title": "Highlight Wave Rainbow",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_highlight_wave_rainbow.jpg"
+ },
+ {
+  "id": "all_dreadlocks",
+  "title": "Dreadlocks",
+  "category": "Male",
+  "gender": "unisex",
+  "file": "all_dreadlocks.jpg"
+ },
+ {
+  "id": "all_side_swept_undercut",
+  "title": "Side-Swept Undercut",
+  "category": "Male",
+  "gender": "unisex",
+  "file": "all_side_swept_undercut.jpg"
+ },
+ {
+  "id": "all_hippie_wave",
+  "title": "Hippie Wave",
+  "category": "Male",
+  "gender": "unisex",
+  "file": "all_hippie_wave.jpg"
+ },
+ {
+  "id": "all_buzz_cut",
+  "title": "Buzz Cut",
+  "category": "Male",
+  "gender": "unisex",
+  "file": "all_buzz_cut.jpg"
+ },
+ {
+  "id": "all_medium_curve_hair",
+  "title": "Medium Curve Hair",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_medium_curve_hair.jpg"
+ },
+ {
+  "id": "all_short_feather_cut",
+  "title": "Short Feather Cut",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_short_feather_cut.jpg"
+ },
+ {
+  "id": "all_classic_hollywood_waves",
+  "title": "Classic Hollywood Waves",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_classic_hollywood_waves.jpg"
+ },
+ {
+  "id": "all_bubble_braids",
+  "title": "Bubble Braids",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_bubble_braids.jpg"
+ },
+ {
+  "id": "all_french_bob",
+  "title": "French Bob",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_french_bob.jpg"
+ },
+ {
+  "id": "all_face_framing_shag_cut",
+  "title": "Face Framing Shag Cut",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_face_framing_shag_cut.jpg"
+ },
+ {
+  "id": "all_baby_braids",
+  "title": "Baby braids",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_baby_braids.jpg"
+ },
+ {
+  "id": "all_wolf_cut",
+  "title": "Wolf Cut",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_wolf_cut.jpg"
+ },
+ {
+  "id": "all_hush_cut",
+  "title": "Hush Cut",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_hush_cut.jpg"
+ },
+ {
+  "id": "all_two_tone_blonde_cut",
+  "title": "Two-Tone Blonde Cut",
+  "category": "Female",
+  "gender": "unisex",
+  "file": "all_two_tone_blonde_cut.jpg"
+ }
+]

@@ -1,0 +1,296 @@
+{
+  "version": 1,
+  "capturedAt": "2026-10-28T07:11:08.105Z",
+  "rankPath": "llm",
+  "rankNote": "0 of 20 scores kept ours",
+  "rawRank": "{\"ranked\":[{\"id\":\"haircut:crop--soft-french-crop-scissor-sides\",\"fit\":82,\"reason\":\"The scissor sides keep nice width for your oval shape, and the forward textured fringe works with your natural forward growth while softening the front cowlick.\"},{\"id\":\"haircut:side-part--soft-side-part\",\"fit\":81,\"reason\":\"This gives balanced side fullness for your proportions, and the softer part sits well on straight medium-density hair without making the top feel too tall.\"},{\"id\":\"haircut:curtains--short-curtains-low-taper\",\"fit\":80,\"reason\":\"The curtain opening frames an average forehead well, and the low taper keeps enough side presence to flatter your oval face instead of stretching it.\"},{\"id\":\"haircut:fringe--messy-fringe\",\"fit\":80,\"reason\":\"A broken fringe suits your forward-falling hair and helps disguise the front cowlick, while the low taper avoids taking too much width off the sides.\"},{\"id\":\"haircut:crew--ivy-league\",\"fit\":79,\"reason\":\"This is neat and proportional on an oval profile, with a moderate top that stays controlled on straight hair and a low taper that keeps the silhouette balanced.\"},{\"id\":\"haircut:crop--side-swept-textured-crop\",\"fit\":78,\"reason\":\"The shorter textured top is practical for your density, and the gentle sweep keeps the shape tidy without overexposing your forehead.\"},{\"id\":\"haircut:side-part--classic-side-part\",\"fit\":77,\"reason\":\"The classic side shape matches your average jaw and profile nicely, and the low taper keeps it refined without making the sides look too tight.\"},{\"id\":\"haircut:taper--tapered-neckline\",\"fit\":77,\"reason\":\"This has an easy everyday shape for straight medium-weight hair, and the cleaner neckline gives structure while preserving side balance for your face.\"},{\"id\":\"haircut:asian-fringe--asian-textured-crop\",\"fit\":77,\"reason\":\"The forward texture plays into your natural growth pattern, and the lighter fringe coverage gives your oval face a bit more framing up front.\"},{\"id\":\"haircut:male_tousled_cut\",\"fit\":77,\"reason\":\"This keeps the top lively without getting too vertical, and the textured front helps your hair fall naturally around the cowlick area.\"},{\"id\":\"haircut:side-part--gentleman-cut\",\"fit\":76,\"reason\":\"A gentleman shape works well with your even features, and the moderate side taper keeps the look polished while still leaving enough width.\"},{\"id\":\"haircut:male_gray_taper_fade\",\"fit\":76,\"reason\":\"The classic taper is reliable for your straight hair type, and its softer outline keeps your oval face from looking longer or narrower.\"},{\"id\":\"haircut:side-part--professional-short-cut\",\"fit\":75,\"reason\":\"This is a clean fit for your profile, with a compact top that stays practical and a low taper that keeps the sides from collapsing inward.\"},{\"id\":\"haircut:retro--mod-cut-60s\",\"fit\":75,\"reason\":\"The fuller sides really complement your face geometry, and the forward movement suits your hair flow, though the longer shape is a bit more commitment.\"},{\"id\":\"haircut:fringe--choppy-fringe\",\"fit\":75,\"reason\":\"The choppy edge gives partial forehead coverage that flatters your proportions, and it pairs nicely with straight hair that wants to move forward.\"},{\"id\":\"haircut:taper--low-taper-fade\",\"fit\":75,\"reason\":\"This stays safe for your oval shape because the taper is low and the top is moderate, so it looks sharp without creating a high-and-tall effect.\"},{\"id\":\"haircut:crop--textured-french-crop-low-taper\",\"fit\":74,\"reason\":\"A compact French crop is friendly to your forward growth and crown behavior, and the textured front adds just enough framing for balance.\"},{\"id\":\"haircut:two-block--korean-two-block-curtain-fringe\",\"fit\":74,\"reason\":\"The curtain fringe suits your forehead and current length well, and the lower taper makes this two-block less severe on your oval face than tighter versions.\"},{\"id\":\"haircut:curtains--middle-part-short\",\"fit\":74,\"reason\":\"The center opening can look very balanced on your features, and it uses your straight hair nicely, though the extra top length risks a slightly taller shape.\"},{\"id\":\"haircut:retro--frat-cut\",\"fit\":71,\"reason\":\"This has a relaxed proportion that works with your average jaw line, and the moderate top keeps things easy while still looking current.\"}]}",
+  "profile": {
+    "sex": {
+      "value": "unknown",
+      "confidence": 0,
+      "source": "youcam"
+    },
+    "face": {
+      "shape": {
+        "value": "oval",
+        "confidence": 0.67,
+        "source": "vision"
+      },
+      "aspectRatio": {
+        "value": 1.38,
+        "confidence": 0.6,
+        "source": "vision"
+      },
+      "cheekbones": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "jaw": {
+        "value": "average",
+        "confidence": 0.64,
+        "source": "vision"
+      },
+      "forehead": {
+        "value": "average",
+        "confidence": 0.62,
+        "source": "vision"
+      },
+      "asymmetry": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "foreheadWidth": {
+        "value": "average",
+        "confidence": 0.6,
+        "source": "vision"
+      }
+    },
+    "head": {
+      "occipital": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "ears": {
+        "value": "average",
+        "confidence": 0.68,
+        "source": "vision"
+      }
+    },
+    "hair": {
+      "curl": {
+        "value": "1",
+        "confidence": 0.86,
+        "source": "vision"
+      },
+      "density": {
+        "value": 3,
+        "confidence": 0.85,
+        "source": "youcam"
+      },
+      "diameter": {
+        "value": "medium",
+        "confidence": 0.6,
+        "source": "vision"
+      },
+      "growthDirection": {
+        "value": "forward",
+        "confidence": 0.72,
+        "source": "vision"
+      },
+      "cowlickFront": {
+        "value": true,
+        "confidence": 0.65,
+        "source": "vision"
+      },
+      "cowlickCrown": {
+        "value": true,
+        "confidence": 0.58,
+        "source": "vision"
+      },
+      "hairline": {
+        "value": "average",
+        "confidence": 0.68,
+        "source": "vision"
+      },
+      "damage": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "lengthCm": {
+        "value": 7,
+        "confidence": 0.78,
+        "source": "vision"
+      },
+      "frontCm": {
+        "value": 7,
+        "confidence": 0.78,
+        "source": "vision"
+      },
+      "topCm": {
+        "value": 8,
+        "confidence": 0.78,
+        "source": "vision"
+      },
+      "sideCm": {
+        "value": 3.5,
+        "confidence": 0.78,
+        "source": "vision"
+      },
+      "frizz": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      }
+    },
+    "hairLoss": {
+      "temples": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "crown": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "diffuse": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      }
+    },
+    "facialHair": {
+      "style": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "growth": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      }
+    },
+    "body": {
+      "neck": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "shoulders": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      }
+    },
+    "context": {
+      "glasses": {
+        "value": false,
+        "confidence": 0.99,
+        "source": "vision"
+      }
+    },
+    "colour": {
+      "level": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "name": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "skinTone": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      },
+      "undertone": {
+        "value": "unknown",
+        "confidence": 0,
+        "source": "youcam"
+      }
+    }
+  },
+  "profileFacts": {
+    "faceShape": {
+      "value": "oval",
+      "confidence": 0.67
+    },
+    "faceRatio": {
+      "value": 1.38,
+      "confidence": 0.6
+    },
+    "longFace": false,
+    "jaw": {
+      "value": "average",
+      "confidence": 0.64
+    },
+    "forehead": {
+      "value": "average",
+      "confidence": 0.62
+    },
+    "foreheadWidth": {
+      "value": "average",
+      "confidence": 0.6
+    },
+    "curl": {
+      "value": "1",
+      "confidence": 0.86
+    },
+    "density": {
+      "value": 3,
+      "confidence": 0.85
+    },
+    "diameter": {
+      "value": "medium",
+      "confidence": 0.6
+    },
+    "growthDirection": {
+      "value": "forward",
+      "confidence": 0.72
+    },
+    "cowlickFront": {
+      "value": true,
+      "confidence": 0.65
+    },
+    "cowlickCrown": {
+      "value": true,
+      "confidence": 0.58
+    },
+    "lengthCm": {
+      "value": 7,
+      "confidence": 0.78
+    },
+    "frontCm": {
+      "value": 7,
+      "confidence": 0.78
+    },
+    "topCm": {
+      "value": 8,
+      "confidence": 0.78
+    },
+    "sideCm": {
+      "value": 3.5,
+      "confidence": 0.78
+    },
+    "hairline": {
+      "value": "average",
+      "confidence": 0.68
+    },
+    "ears": {
+      "value": "average",
+      "confidence": 0.68
+    },
+    "glasses": {
+      "value": false,
+      "confidence": 0.99
+    }
+  },
+  "answers": {
+    "stylingMinutes": "5",
+    "heatStyle": "sometimes",
+    "keep": "nothing",
+    "colourHistory": "unknown",
+    "beardGrowth": "unknown",
+    "presentation": "masculine",
+    "naturalState": "unknown",
+    "chemical": "unknown",
+    "strand": "unknown",
+    "blowdryer": "unknown",
+    "products": "unknown",
+    "canShorten": "no",
+    "canGrow": "no",
+    "forehead": "unknown",
+    "glassesDaily": "unknown",
+    "aesthetic": "classic",
+    "facialHair": "unknown",
+    "cowlick": "unknown"
+  },
+  "likes": []
+}
