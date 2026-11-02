@@ -78,3 +78,7 @@ docker compose --env-file .env.production -f docker-compose.production.yml up -d
 ## Privacy
 
 Client photos are stored privately on the server for up to 7 days, only to build the analysis, previews and the stylist brief. A brief link shows them to whoever receives the link until it expires. Expired sessions are purged daily (`npm run demo:purge`).
+
+## License
+
+The source code is released under the MIT License (see `LICENSE`). The photographs and generated images under `public/` and `assets/` are demo material for this project and are not licensed for reuse. Fonts keep their own licences (see `src/client/fonts/NOTICE.txt`).
